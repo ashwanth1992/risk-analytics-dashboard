@@ -133,6 +133,6 @@ A few things that would make this better as a product rather than an internal to
 
 - **User testing with the actual audience.** The Expansion and Corridor tabs were built based on my own read of what the risk team needed — I never ran a structured session to validate that the workflow matched how they actually made decisions. Some filters that seemed intuitive to me required explanation in practice.
 - **Incremental data refresh.** The current pipeline re-reads all source files on every run. With a proper data layer, you'd process only new records and append to the JSON. Practically this wasn't a problem given the monthly refresh cycle, but it would matter at higher data volumes.
-- **Shareable state.** There's no way to share a specific simulation scenario — if you select a set of pincodes and run a simulation, you can export the results but can't send someone a link that opens the dashboard in the same state. For a collaborative tool this is a gap.
+- **Richer scenario sharing.** The dashboard supports saving and loading simulation state as a JSON file — so a scenario can be shared and reproduced exactly. What's missing is a more seamless workflow around this: version labelling, notes on why a scenario was constructed, or a quick way to compare two saved scenarios side by side.
 - **Audit trail on policy decisions.** The dashboard helps you make a decision but doesn't record it. Knowing which simulation parameters led to a policy recommendation, and when, would be valuable for retrospectives.
 
