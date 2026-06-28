@@ -1,0 +1,1209 @@
+STATE,DISTRICT,ORG_QRT,MEMBER_GROUP,TRADE_SIZE,NUMBER_OF_LOANS,DELINQUENT_30P6M_TRADES,PINCODE
+Maharashtra,Mumbai,2025-Q2,Banks,G,507,58,402824
+Maharashtra,Mumbai,2025-Q2,NBFCs,G,1399,100,406539
+Maharashtra,Mumbai,2025-Q2,MFIs,J,2382,179,405557
+Maharashtra,Mumbai,2025-Q2,HFCs,K,1665,179,409279
+Maharashtra,Mumbai,2025-Q3,Banks,F,1083,79,406539
+Maharashtra,Mumbai,2025-Q3,NBFCs,I,1130,66,409856
+Maharashtra,Mumbai,2025-Q3,MFIs,G,2536,104,403646
+Maharashtra,Mumbai,2025-Q3,HFCs,J,1415,92,402104
+Maharashtra,Mumbai,2025-Q4,Banks,F,1360,142,401958
+Maharashtra,Mumbai,2025-Q4,NBFCs,J,931,99,402824
+Maharashtra,Mumbai,2025-Q4,MFIs,I,2632,173,404923
+Maharashtra,Mumbai,2025-Q4,HFCs,H,2502,184,406539
+Maharashtra,Mumbai,2026-Q1,Banks,K,2925,161,406539
+Maharashtra,Mumbai,2026-Q1,NBFCs,I,2519,289,402604
+Maharashtra,Mumbai,2026-Q1,MFIs,J,511,49,402604
+Maharashtra,Mumbai,2026-Q1,HFCs,J,2701,247,409856
+Maharashtra,Pune,2025-Q2,Banks,K,2251,242,405374
+Maharashtra,Pune,2025-Q2,NBFCs,E,1825,138,404681
+Maharashtra,Pune,2025-Q2,MFIs,G,278,24,409785
+Maharashtra,Pune,2025-Q2,HFCs,F,579,58,409317
+Maharashtra,Pune,2025-Q3,Banks,F,1854,182,406573
+Maharashtra,Pune,2025-Q3,NBFCs,F,2176,208,406514
+Maharashtra,Pune,2025-Q3,MFIs,J,432,51,406559
+Maharashtra,Pune,2025-Q3,HFCs,E,337,17,409317
+Maharashtra,Pune,2025-Q4,Banks,K,2058,207,401887
+Maharashtra,Pune,2025-Q4,NBFCs,E,1606,112,401488
+Maharashtra,Pune,2025-Q4,MFIs,E,1251,80,409317
+Maharashtra,Pune,2025-Q4,HFCs,K,1946,210,401319
+Maharashtra,Pune,2026-Q1,Banks,G,2984,176,404681
+Maharashtra,Pune,2026-Q1,NBFCs,H,840,67,407201
+Maharashtra,Pune,2026-Q1,MFIs,E,967,40,404681
+Maharashtra,Pune,2026-Q1,HFCs,F,1507,125,404119
+Maharashtra,Nagpur,2025-Q2,Banks,E,1068,91,402133
+Maharashtra,Nagpur,2025-Q2,NBFCs,E,994,76,402796
+Maharashtra,Nagpur,2025-Q2,MFIs,H,2829,221,404657
+Maharashtra,Nagpur,2025-Q2,HFCs,E,2924,224,402796
+Maharashtra,Nagpur,2025-Q3,Banks,G,825,92,402796
+Maharashtra,Nagpur,2025-Q3,NBFCs,H,776,45,401960
+Maharashtra,Nagpur,2025-Q3,MFIs,H,1697,125,409201
+Maharashtra,Nagpur,2025-Q3,HFCs,I,1739,124,402133
+Maharashtra,Nagpur,2025-Q4,Banks,G,1037,110,408517
+Maharashtra,Nagpur,2025-Q4,NBFCs,F,1402,113,404510
+Maharashtra,Nagpur,2025-Q4,MFIs,I,2860,338,404657
+Maharashtra,Nagpur,2025-Q4,HFCs,H,2193,165,409201
+Maharashtra,Nagpur,2026-Q1,Banks,I,1990,206,402133
+Maharashtra,Nagpur,2026-Q1,NBFCs,I,2971,297,402133
+Maharashtra,Nagpur,2026-Q1,MFIs,G,1815,192,408517
+Maharashtra,Nagpur,2026-Q1,HFCs,F,2582,140,401960
+Maharashtra,Thane,2025-Q2,Banks,H,2525,150,405073
+Maharashtra,Thane,2025-Q2,NBFCs,J,2991,150,402528
+Maharashtra,Thane,2025-Q2,MFIs,G,2937,249,403547
+Maharashtra,Thane,2025-Q2,HFCs,F,1832,124,405861
+Maharashtra,Thane,2025-Q3,Banks,F,2335,185,405889
+Maharashtra,Thane,2025-Q3,NBFCs,H,641,30,409423
+Maharashtra,Thane,2025-Q3,MFIs,G,2372,170,403536
+Maharashtra,Thane,2025-Q3,HFCs,I,478,30,409423
+Maharashtra,Thane,2025-Q4,Banks,G,2924,230,401964
+Maharashtra,Thane,2025-Q4,NBFCs,I,1869,191,401964
+Maharashtra,Thane,2025-Q4,MFIs,E,2899,283,401916
+Maharashtra,Thane,2025-Q4,HFCs,H,475,39,403803
+Maharashtra,Thane,2026-Q1,Banks,I,2236,176,404770
+Maharashtra,Thane,2026-Q1,NBFCs,J,424,47,405073
+Maharashtra,Thane,2026-Q1,MFIs,J,2270,235,402982
+Maharashtra,Thane,2026-Q1,HFCs,K,1994,186,406930
+Maharashtra,Nashik,2025-Q2,Banks,G,915,106,403705
+Maharashtra,Nashik,2025-Q2,NBFCs,K,324,30,405040
+Maharashtra,Nashik,2025-Q2,MFIs,G,2127,176,409669
+Maharashtra,Nashik,2025-Q2,HFCs,E,918,47,409669
+Maharashtra,Nashik,2025-Q3,Banks,H,1057,64,405040
+Maharashtra,Nashik,2025-Q3,NBFCs,H,579,48,408454
+Maharashtra,Nashik,2025-Q3,MFIs,G,1502,153,407216
+Maharashtra,Nashik,2025-Q3,HFCs,G,551,28,406635
+Maharashtra,Nashik,2025-Q4,Banks,J,2971,323,401053
+Maharashtra,Nashik,2025-Q4,NBFCs,I,713,64,403705
+Maharashtra,Nashik,2025-Q4,MFIs,I,2183,196,404006
+Maharashtra,Nashik,2025-Q4,HFCs,H,1961,182,405040
+Maharashtra,Nashik,2026-Q1,Banks,G,642,73,409669
+Maharashtra,Nashik,2026-Q1,NBFCs,K,1878,196,407396
+Maharashtra,Nashik,2026-Q1,MFIs,K,619,49,407396
+Maharashtra,Nashik,2026-Q1,HFCs,I,1633,139,409669
+Maharashtra,Aurangabad,2025-Q2,Banks,K,2096,90,401525
+Maharashtra,Aurangabad,2025-Q2,NBFCs,K,1571,109,405803
+Maharashtra,Aurangabad,2025-Q2,MFIs,E,953,68,401525
+Maharashtra,Aurangabad,2025-Q2,HFCs,H,747,46,408428
+Maharashtra,Aurangabad,2025-Q3,Banks,J,1571,82,401525
+Maharashtra,Aurangabad,2025-Q3,NBFCs,H,2662,183,404598
+Maharashtra,Aurangabad,2025-Q3,MFIs,F,2052,241,408428
+Maharashtra,Aurangabad,2025-Q3,HFCs,F,669,47,405803
+Maharashtra,Aurangabad,2025-Q4,Banks,F,223,26,405803
+Maharashtra,Aurangabad,2025-Q4,NBFCs,E,2096,204,405803
+Maharashtra,Aurangabad,2025-Q4,MFIs,E,2872,133,402584
+Maharashtra,Aurangabad,2025-Q4,HFCs,G,786,37,404598
+Maharashtra,Aurangabad,2026-Q1,Banks,J,2325,103,403504
+Maharashtra,Aurangabad,2026-Q1,NBFCs,J,2385,144,408428
+Maharashtra,Aurangabad,2026-Q1,MFIs,J,1563,108,403664
+Maharashtra,Aurangabad,2026-Q1,HFCs,J,1210,76,405803
+Maharashtra,Solapur,2025-Q2,Banks,F,813,69,402519
+Maharashtra,Solapur,2025-Q2,NBFCs,J,971,49,402519
+Maharashtra,Solapur,2025-Q2,MFIs,J,2451,253,405808
+Maharashtra,Solapur,2025-Q2,HFCs,K,1903,136,409645
+Maharashtra,Solapur,2025-Q3,Banks,G,2754,224,404502
+Maharashtra,Solapur,2025-Q3,NBFCs,G,2826,115,406804
+Maharashtra,Solapur,2025-Q3,MFIs,K,2659,216,403724
+Maharashtra,Solapur,2025-Q3,HFCs,K,1045,53,403296
+Maharashtra,Solapur,2025-Q4,Banks,K,1492,121,408749
+Maharashtra,Solapur,2025-Q4,NBFCs,E,1948,100,402040
+Maharashtra,Solapur,2025-Q4,MFIs,F,2109,93,409645
+Maharashtra,Solapur,2025-Q4,HFCs,I,1424,102,404502
+Maharashtra,Solapur,2026-Q1,Banks,I,1333,90,404257
+Maharashtra,Solapur,2026-Q1,NBFCs,H,2665,120,404257
+Maharashtra,Solapur,2026-Q1,MFIs,I,2549,163,402040
+Maharashtra,Solapur,2026-Q1,HFCs,F,423,45,401993
+Maharashtra,Kolhapur,2025-Q2,Banks,G,1391,101,407930
+Maharashtra,Kolhapur,2025-Q2,NBFCs,I,2378,271,401821
+Maharashtra,Kolhapur,2025-Q2,MFIs,G,2246,122,403103
+Maharashtra,Kolhapur,2025-Q2,HFCs,F,1430,102,403677
+Maharashtra,Kolhapur,2025-Q3,Banks,J,782,77,403103
+Maharashtra,Kolhapur,2025-Q3,NBFCs,E,772,73,403591
+Maharashtra,Kolhapur,2025-Q3,MFIs,F,2078,134,401711
+Maharashtra,Kolhapur,2025-Q3,HFCs,J,2612,212,403677
+Maharashtra,Kolhapur,2025-Q4,Banks,F,786,40,403677
+Maharashtra,Kolhapur,2025-Q4,NBFCs,F,1597,148,407930
+Maharashtra,Kolhapur,2025-Q4,MFIs,H,1649,76,407930
+Maharashtra,Kolhapur,2025-Q4,HFCs,G,1342,57,403266
+Maharashtra,Kolhapur,2026-Q1,Banks,F,1788,167,402403
+Maharashtra,Kolhapur,2026-Q1,NBFCs,K,2201,89,401821
+Maharashtra,Kolhapur,2026-Q1,MFIs,G,2051,164,403677
+Maharashtra,Kolhapur,2026-Q1,HFCs,E,2716,120,406310
+Karnataka,Bengaluru Urban,2025-Q2,Banks,J,920,48,565533
+Karnataka,Bengaluru Urban,2025-Q2,NBFCs,G,308,24,568144
+Karnataka,Bengaluru Urban,2025-Q2,MFIs,G,2101,170,569666
+Karnataka,Bengaluru Urban,2025-Q2,HFCs,G,858,64,563088
+Karnataka,Bengaluru Urban,2025-Q3,Banks,J,1468,108,569666
+Karnataka,Bengaluru Urban,2025-Q3,NBFCs,K,517,53,568144
+Karnataka,Bengaluru Urban,2025-Q3,MFIs,F,1055,54,563088
+Karnataka,Bengaluru Urban,2025-Q3,HFCs,K,2919,305,565333
+Karnataka,Bengaluru Urban,2025-Q4,Banks,H,1194,90,561158
+Karnataka,Bengaluru Urban,2025-Q4,NBFCs,G,1167,52,563088
+Karnataka,Bengaluru Urban,2025-Q4,MFIs,E,1604,133,561452
+Karnataka,Bengaluru Urban,2025-Q4,HFCs,G,1931,214,568144
+Karnataka,Bengaluru Urban,2026-Q1,Banks,I,1597,141,565533
+Karnataka,Bengaluru Urban,2026-Q1,NBFCs,G,2434,126,569666
+Karnataka,Bengaluru Urban,2026-Q1,MFIs,J,581,66,565349
+Karnataka,Bengaluru Urban,2026-Q1,HFCs,G,527,27,563088
+Karnataka,Mysuru,2025-Q2,Banks,F,2255,201,564728
+Karnataka,Mysuru,2025-Q2,NBFCs,F,2726,146,569701
+Karnataka,Mysuru,2025-Q2,MFIs,G,2154,180,565272
+Karnataka,Mysuru,2025-Q2,HFCs,K,722,82,562697
+Karnataka,Mysuru,2025-Q3,Banks,H,2114,88,565291
+Karnataka,Mysuru,2025-Q3,NBFCs,K,439,34,561406
+Karnataka,Mysuru,2025-Q3,MFIs,J,2963,292,568711
+Karnataka,Mysuru,2025-Q3,HFCs,K,2852,157,562127
+Karnataka,Mysuru,2025-Q4,Banks,K,1238,138,562697
+Karnataka,Mysuru,2025-Q4,NBFCs,H,1430,141,562697
+Karnataka,Mysuru,2025-Q4,MFIs,H,2879,254,565272
+Karnataka,Mysuru,2025-Q4,HFCs,E,622,36,562697
+Karnataka,Mysuru,2026-Q1,Banks,K,1900,198,565291
+Karnataka,Mysuru,2026-Q1,NBFCs,E,1063,52,566147
+Karnataka,Mysuru,2026-Q1,MFIs,K,1422,75,562127
+Karnataka,Mysuru,2026-Q1,HFCs,K,1499,132,566617
+Karnataka,Dharwad,2025-Q2,Banks,G,1145,98,565573
+Karnataka,Dharwad,2025-Q2,NBFCs,I,2364,149,561058
+Karnataka,Dharwad,2025-Q2,MFIs,K,607,63,567691
+Karnataka,Dharwad,2025-Q2,HFCs,G,259,14,564228
+Karnataka,Dharwad,2025-Q3,Banks,J,2982,202,568119
+Karnataka,Dharwad,2025-Q3,NBFCs,J,753,53,569004
+Karnataka,Dharwad,2025-Q3,MFIs,K,2139,145,569004
+Karnataka,Dharwad,2025-Q3,HFCs,I,2210,200,563546
+Karnataka,Dharwad,2025-Q4,Banks,E,1792,116,569565
+Karnataka,Dharwad,2025-Q4,NBFCs,K,908,53,569785
+Karnataka,Dharwad,2025-Q4,MFIs,I,865,99,564228
+Karnataka,Dharwad,2025-Q4,HFCs,H,327,26,565573
+Karnataka,Dharwad,2026-Q1,Banks,H,2811,182,569288
+Karnataka,Dharwad,2026-Q1,NBFCs,K,1751,161,565065
+Karnataka,Dharwad,2026-Q1,MFIs,E,2570,249,567054
+Karnataka,Dharwad,2026-Q1,HFCs,J,2506,265,561653
+Karnataka,Dakshina Kannada,2025-Q2,Banks,J,1103,110,565915
+Karnataka,Dakshina Kannada,2025-Q2,NBFCs,F,1615,118,569346
+Karnataka,Dakshina Kannada,2025-Q2,MFIs,F,1565,161,562343
+Karnataka,Dakshina Kannada,2025-Q2,HFCs,I,516,56,562771
+Karnataka,Dakshina Kannada,2025-Q3,Banks,E,221,21,564853
+Karnataka,Dakshina Kannada,2025-Q3,NBFCs,F,2401,264,565351
+Karnataka,Dakshina Kannada,2025-Q3,MFIs,F,425,29,565930
+Karnataka,Dakshina Kannada,2025-Q3,HFCs,I,883,38,565915
+Karnataka,Dakshina Kannada,2025-Q4,Banks,H,2558,249,566279
+Karnataka,Dakshina Kannada,2025-Q4,NBFCs,I,401,33,564853
+Karnataka,Dakshina Kannada,2025-Q4,MFIs,E,1393,103,568238
+Karnataka,Dakshina Kannada,2025-Q4,HFCs,K,2030,100,564853
+Karnataka,Dakshina Kannada,2026-Q1,Banks,K,577,36,564164
+Karnataka,Dakshina Kannada,2026-Q1,NBFCs,H,942,58,568238
+Karnataka,Dakshina Kannada,2026-Q1,MFIs,I,1643,184,565930
+Karnataka,Dakshina Kannada,2026-Q1,HFCs,H,608,62,565915
+Karnataka,Belagavi,2025-Q2,Banks,H,2525,110,562776
+Karnataka,Belagavi,2025-Q2,NBFCs,H,1527,68,565920
+Karnataka,Belagavi,2025-Q2,MFIs,I,2374,215,567049
+Karnataka,Belagavi,2025-Q2,HFCs,K,2092,204,562964
+Karnataka,Belagavi,2025-Q3,Banks,F,948,73,561651
+Karnataka,Belagavi,2025-Q3,NBFCs,K,1939,81,567049
+Karnataka,Belagavi,2025-Q3,MFIs,G,417,22,563442
+Karnataka,Belagavi,2025-Q3,HFCs,F,263,19,568508
+Karnataka,Belagavi,2025-Q4,Banks,E,2096,215,567049
+Karnataka,Belagavi,2025-Q4,NBFCs,G,832,89,565033
+Karnataka,Belagavi,2025-Q4,MFIs,H,2907,342,564501
+Karnataka,Belagavi,2025-Q4,HFCs,J,1253,128,563442
+Karnataka,Belagavi,2026-Q1,Banks,H,1966,220,565844
+Karnataka,Belagavi,2026-Q1,NBFCs,H,1902,134,568239
+Karnataka,Belagavi,2026-Q1,MFIs,E,1886,168,568239
+Karnataka,Belagavi,2026-Q1,HFCs,G,879,85,561931
+Karnataka,Davanagere,2025-Q2,Banks,K,271,11,562113
+Karnataka,Davanagere,2025-Q2,NBFCs,H,649,37,564441
+Karnataka,Davanagere,2025-Q2,MFIs,G,983,74,566067
+Karnataka,Davanagere,2025-Q2,HFCs,H,599,25,562232
+Karnataka,Davanagere,2025-Q3,Banks,F,2279,239,564450
+Karnataka,Davanagere,2025-Q3,NBFCs,J,803,53,567888
+Karnataka,Davanagere,2025-Q3,MFIs,H,1113,64,564450
+Karnataka,Davanagere,2025-Q3,HFCs,K,2830,279,563143
+Karnataka,Davanagere,2025-Q4,Banks,E,1163,72,565905
+Karnataka,Davanagere,2025-Q4,NBFCs,H,1602,99,566067
+Karnataka,Davanagere,2025-Q4,MFIs,I,1858,129,566143
+Karnataka,Davanagere,2025-Q4,HFCs,J,1990,92,563144
+Karnataka,Davanagere,2026-Q1,Banks,G,346,14,563780
+Karnataka,Davanagere,2026-Q1,NBFCs,E,553,60,567592
+Karnataka,Davanagere,2026-Q1,MFIs,J,1761,93,564441
+Karnataka,Davanagere,2026-Q1,HFCs,F,2246,199,563780
+Karnataka,Shivamogga,2025-Q2,Banks,F,1081,97,561634
+Karnataka,Shivamogga,2025-Q2,NBFCs,E,2281,213,561634
+Karnataka,Shivamogga,2025-Q2,MFIs,I,429,22,562137
+Karnataka,Shivamogga,2025-Q2,HFCs,G,1122,53,566000
+Karnataka,Shivamogga,2025-Q3,Banks,I,2794,190,562312
+Karnataka,Shivamogga,2025-Q3,NBFCs,H,2856,119,566000
+Karnataka,Shivamogga,2025-Q3,MFIs,H,2240,228,564269
+Karnataka,Shivamogga,2025-Q3,HFCs,F,603,70,567939
+Karnataka,Shivamogga,2025-Q4,Banks,F,2284,261,561590
+Karnataka,Shivamogga,2025-Q4,NBFCs,J,988,78,563608
+Karnataka,Shivamogga,2025-Q4,MFIs,I,1324,80,564269
+Karnataka,Shivamogga,2025-Q4,HFCs,F,267,13,566180
+Karnataka,Shivamogga,2026-Q1,Banks,J,1201,97,561634
+Karnataka,Shivamogga,2026-Q1,NBFCs,G,647,54,563662
+Karnataka,Shivamogga,2026-Q1,MFIs,H,2723,158,563608
+Karnataka,Shivamogga,2026-Q1,HFCs,E,1523,116,568043
+Tamil Nadu,Chennai,2025-Q2,Banks,K,2038,122,604249
+Tamil Nadu,Chennai,2025-Q2,NBFCs,E,2907,125,609837
+Tamil Nadu,Chennai,2025-Q2,MFIs,E,1680,93,601444
+Tamil Nadu,Chennai,2025-Q2,HFCs,K,1406,145,607071
+Tamil Nadu,Chennai,2025-Q3,Banks,H,2192,102,607071
+Tamil Nadu,Chennai,2025-Q3,NBFCs,E,1154,53,604978
+Tamil Nadu,Chennai,2025-Q3,MFIs,F,838,92,606590
+Tamil Nadu,Chennai,2025-Q3,HFCs,G,2854,224,609837
+Tamil Nadu,Chennai,2025-Q4,Banks,I,2648,234,609031
+Tamil Nadu,Chennai,2025-Q4,NBFCs,E,201,15,609751
+Tamil Nadu,Chennai,2025-Q4,MFIs,I,674,54,609837
+Tamil Nadu,Chennai,2025-Q4,HFCs,G,243,22,609837
+Tamil Nadu,Chennai,2026-Q1,Banks,E,1850,202,601400
+Tamil Nadu,Chennai,2026-Q1,NBFCs,I,2477,136,608206
+Tamil Nadu,Chennai,2026-Q1,MFIs,H,556,54,601444
+Tamil Nadu,Chennai,2026-Q1,HFCs,F,2258,168,601444
+Tamil Nadu,Coimbatore,2025-Q2,Banks,E,2502,262,608385
+Tamil Nadu,Coimbatore,2025-Q2,NBFCs,F,1517,88,601508
+Tamil Nadu,Coimbatore,2025-Q2,MFIs,G,1011,50,605681
+Tamil Nadu,Coimbatore,2025-Q2,HFCs,H,2254,204,607965
+Tamil Nadu,Coimbatore,2025-Q3,Banks,E,2313,219,608385
+Tamil Nadu,Coimbatore,2025-Q3,NBFCs,I,1509,138,603496
+Tamil Nadu,Coimbatore,2025-Q3,MFIs,G,1092,66,608657
+Tamil Nadu,Coimbatore,2025-Q3,HFCs,G,2622,306,602320
+Tamil Nadu,Coimbatore,2025-Q4,Banks,K,906,38,605681
+Tamil Nadu,Coimbatore,2025-Q4,NBFCs,I,1585,162,602020
+Tamil Nadu,Coimbatore,2025-Q4,MFIs,K,423,17,606733
+Tamil Nadu,Coimbatore,2025-Q4,HFCs,J,2390,107,607043
+Tamil Nadu,Coimbatore,2026-Q1,Banks,F,1708,124,608657
+Tamil Nadu,Coimbatore,2026-Q1,NBFCs,J,1387,124,604262
+Tamil Nadu,Coimbatore,2026-Q1,MFIs,K,2276,185,602020
+Tamil Nadu,Coimbatore,2026-Q1,HFCs,I,1388,164,602020
+Tamil Nadu,Madurai,2025-Q2,Banks,K,549,61,608102
+Tamil Nadu,Madurai,2025-Q2,NBFCs,F,963,72,602419
+Tamil Nadu,Madurai,2025-Q2,MFIs,K,2054,221,602419
+Tamil Nadu,Madurai,2025-Q2,HFCs,F,2012,162,604595
+Tamil Nadu,Madurai,2025-Q3,Banks,K,392,31,601420
+Tamil Nadu,Madurai,2025-Q3,NBFCs,F,2765,290,607906
+Tamil Nadu,Madurai,2025-Q3,MFIs,E,523,60,607211
+Tamil Nadu,Madurai,2025-Q3,HFCs,H,2912,227,606355
+Tamil Nadu,Madurai,2025-Q4,Banks,E,2925,139,601096
+Tamil Nadu,Madurai,2025-Q4,NBFCs,E,1365,59,602419
+Tamil Nadu,Madurai,2025-Q4,MFIs,H,2212,243,604919
+Tamil Nadu,Madurai,2025-Q4,HFCs,H,2240,145,608102
+Tamil Nadu,Madurai,2026-Q1,Banks,J,1271,62,603683
+Tamil Nadu,Madurai,2026-Q1,NBFCs,J,471,38,607906
+Tamil Nadu,Madurai,2026-Q1,MFIs,E,223,9,602389
+Tamil Nadu,Madurai,2026-Q1,HFCs,E,262,29,601096
+Tamil Nadu,Salem,2025-Q2,Banks,K,1178,53,609728
+Tamil Nadu,Salem,2025-Q2,NBFCs,E,2814,150,609540
+Tamil Nadu,Salem,2025-Q2,MFIs,G,2442,213,605011
+Tamil Nadu,Salem,2025-Q2,HFCs,K,526,25,608777
+Tamil Nadu,Salem,2025-Q3,Banks,E,2831,242,607883
+Tamil Nadu,Salem,2025-Q3,NBFCs,K,2905,264,608921
+Tamil Nadu,Salem,2025-Q3,MFIs,H,519,45,601475
+Tamil Nadu,Salem,2025-Q3,HFCs,F,803,49,607149
+Tamil Nadu,Salem,2025-Q4,Banks,G,2036,197,608633
+Tamil Nadu,Salem,2025-Q4,NBFCs,J,1745,80,608921
+Tamil Nadu,Salem,2025-Q4,MFIs,I,1470,109,609486
+Tamil Nadu,Salem,2025-Q4,HFCs,J,1729,194,602341
+Tamil Nadu,Salem,2026-Q1,Banks,H,1003,57,608633
+Tamil Nadu,Salem,2026-Q1,NBFCs,G,2743,277,601475
+Tamil Nadu,Salem,2026-Q1,MFIs,J,382,44,603068
+Tamil Nadu,Salem,2026-Q1,HFCs,H,627,40,608921
+Tamil Nadu,Tiruchirappalli,2025-Q2,Banks,J,686,61,605425
+Tamil Nadu,Tiruchirappalli,2025-Q2,NBFCs,K,2694,270,602874
+Tamil Nadu,Tiruchirappalli,2025-Q2,MFIs,I,1118,65,608251
+Tamil Nadu,Tiruchirappalli,2025-Q2,HFCs,E,1739,118,602771
+Tamil Nadu,Tiruchirappalli,2025-Q3,Banks,K,2125,176,602771
+Tamil Nadu,Tiruchirappalli,2025-Q3,NBFCs,E,1750,146,608251
+Tamil Nadu,Tiruchirappalli,2025-Q3,MFIs,J,1744,126,602771
+Tamil Nadu,Tiruchirappalli,2025-Q3,HFCs,J,2576,127,602771
+Tamil Nadu,Tiruchirappalli,2025-Q4,Banks,J,2520,277,601333
+Tamil Nadu,Tiruchirappalli,2025-Q4,NBFCs,J,2055,193,602874
+Tamil Nadu,Tiruchirappalli,2025-Q4,MFIs,K,2797,207,607455
+Tamil Nadu,Tiruchirappalli,2025-Q4,HFCs,K,1654,126,606421
+Tamil Nadu,Tiruchirappalli,2026-Q1,Banks,G,2407,237,602771
+Tamil Nadu,Tiruchirappalli,2026-Q1,NBFCs,G,2042,154,602771
+Tamil Nadu,Tiruchirappalli,2026-Q1,MFIs,H,2100,166,606238
+Tamil Nadu,Tiruchirappalli,2026-Q1,HFCs,J,2925,302,602874
+Tamil Nadu,Erode,2025-Q2,Banks,H,264,11,607624
+Tamil Nadu,Erode,2025-Q2,NBFCs,H,339,33,603417
+Tamil Nadu,Erode,2025-Q2,MFIs,F,987,91,609548
+Tamil Nadu,Erode,2025-Q2,HFCs,F,1162,124,607275
+Tamil Nadu,Erode,2025-Q3,Banks,G,1342,104,607790
+Tamil Nadu,Erode,2025-Q3,NBFCs,H,2920,285,609548
+Tamil Nadu,Erode,2025-Q3,MFIs,K,2503,200,607624
+Tamil Nadu,Erode,2025-Q3,HFCs,F,2038,90,601317
+Tamil Nadu,Erode,2025-Q4,Banks,E,1271,136,601317
+Tamil Nadu,Erode,2025-Q4,NBFCs,H,836,39,603607
+Tamil Nadu,Erode,2025-Q4,MFIs,F,754,34,609445
+Tamil Nadu,Erode,2025-Q4,HFCs,K,2814,187,603885
+Tamil Nadu,Erode,2026-Q1,Banks,F,2987,253,609445
+Tamil Nadu,Erode,2026-Q1,NBFCs,K,873,104,608612
+Tamil Nadu,Erode,2026-Q1,MFIs,G,2610,241,607624
+Tamil Nadu,Erode,2026-Q1,HFCs,K,2247,161,603607
+Tamil Nadu,Vellore,2025-Q2,Banks,I,425,34,605246
+Tamil Nadu,Vellore,2025-Q2,NBFCs,E,2240,236,605558
+Tamil Nadu,Vellore,2025-Q2,MFIs,J,2651,261,603881
+Tamil Nadu,Vellore,2025-Q2,HFCs,J,2953,260,601090
+Tamil Nadu,Vellore,2025-Q3,Banks,J,1909,96,602983
+Tamil Nadu,Vellore,2025-Q3,NBFCs,J,2859,133,601320
+Tamil Nadu,Vellore,2025-Q3,MFIs,G,1120,114,602876
+Tamil Nadu,Vellore,2025-Q3,HFCs,H,522,44,601320
+Tamil Nadu,Vellore,2025-Q4,Banks,I,2060,83,601320
+Tamil Nadu,Vellore,2025-Q4,NBFCs,H,2416,240,605082
+Tamil Nadu,Vellore,2025-Q4,MFIs,K,657,63,608136
+Tamil Nadu,Vellore,2025-Q4,HFCs,I,848,54,605941
+Tamil Nadu,Vellore,2026-Q1,Banks,H,1495,159,605050
+Tamil Nadu,Vellore,2026-Q1,NBFCs,G,1248,70,605022
+Tamil Nadu,Vellore,2026-Q1,MFIs,G,392,46,605082
+Tamil Nadu,Vellore,2026-Q1,HFCs,J,1910,219,607882
+Delhi,Delhi,2025-Q2,Banks,F,1804,211,114180
+Delhi,Delhi,2025-Q2,NBFCs,H,244,20,119698
+Delhi,Delhi,2025-Q2,MFIs,E,2492,232,114954
+Delhi,Delhi,2025-Q2,HFCs,E,1210,62,116582
+Delhi,Delhi,2025-Q3,Banks,E,1830,135,111166
+Delhi,Delhi,2025-Q3,NBFCs,E,2972,325,114929
+Delhi,Delhi,2025-Q3,MFIs,E,2105,104,118613
+Delhi,Delhi,2025-Q3,HFCs,J,1296,133,113441
+Delhi,Delhi,2025-Q4,Banks,F,2544,265,115102
+Delhi,Delhi,2025-Q4,NBFCs,E,384,30,119167
+Delhi,Delhi,2025-Q4,MFIs,I,2312,253,119998
+Delhi,Delhi,2025-Q4,HFCs,F,2937,347,116419
+Delhi,Delhi,2026-Q1,Banks,I,522,31,114824
+Delhi,Delhi,2026-Q1,NBFCs,G,2853,205,118988
+Delhi,Delhi,2026-Q1,MFIs,H,981,111,118800
+Delhi,Delhi,2026-Q1,HFCs,F,2796,132,111231
+Delhi,Delhi,2025-Q2,Banks,H,568,65,116927
+Delhi,Delhi,2025-Q2,NBFCs,G,1251,141,111878
+Delhi,Delhi,2025-Q2,MFIs,G,1614,112,114954
+Delhi,Delhi,2025-Q2,HFCs,K,950,111,114155
+Delhi,Delhi,2025-Q3,Banks,E,1593,110,113444
+Delhi,Delhi,2025-Q3,NBFCs,E,1435,143,111200
+Delhi,Delhi,2025-Q3,MFIs,F,2886,210,116325
+Delhi,Delhi,2025-Q3,HFCs,F,1004,71,114929
+Delhi,Delhi,2025-Q4,Banks,I,1887,183,119056
+Delhi,Delhi,2025-Q4,NBFCs,H,1563,65,119998
+Delhi,Delhi,2025-Q4,MFIs,G,1406,86,116419
+Delhi,Delhi,2025-Q4,HFCs,E,1498,161,111166
+Delhi,Delhi,2026-Q1,Banks,G,2521,119,114033
+Delhi,Delhi,2026-Q1,NBFCs,E,1828,111,112713
+Delhi,Delhi,2026-Q1,MFIs,I,1809,167,115978
+Delhi,Delhi,2026-Q1,HFCs,H,2761,283,112625
+Delhi,Delhi,2025-Q2,Banks,K,2277,205,112442
+Delhi,Delhi,2025-Q2,NBFCs,G,1051,64,116700
+Delhi,Delhi,2025-Q2,MFIs,K,1601,83,114727
+Delhi,Delhi,2025-Q2,HFCs,G,2442,281,113973
+Delhi,Delhi,2025-Q3,Banks,K,2591,117,111893
+Delhi,Delhi,2025-Q3,NBFCs,E,1085,73,118438
+Delhi,Delhi,2025-Q3,MFIs,F,270,25,111200
+Delhi,Delhi,2025-Q3,HFCs,G,510,54,116813
+Delhi,Delhi,2025-Q4,Banks,I,1750,201,117046
+Delhi,Delhi,2025-Q4,NBFCs,J,2661,258,111339
+Delhi,Delhi,2025-Q4,MFIs,K,1854,128,116927
+Delhi,Delhi,2025-Q4,HFCs,H,1037,53,114954
+Delhi,Delhi,2026-Q1,Banks,I,401,17,113037
+Delhi,Delhi,2026-Q1,NBFCs,F,2587,125,115978
+Delhi,Delhi,2026-Q1,MFIs,F,1347,159,112229
+Delhi,Delhi,2026-Q1,HFCs,J,1286,129,116325
+Delhi,Delhi,2025-Q2,Banks,I,2698,229,116460
+Delhi,Delhi,2025-Q2,NBFCs,G,848,78,116576
+Delhi,Delhi,2025-Q2,MFIs,H,2680,128,115135
+Delhi,Delhi,2025-Q2,HFCs,J,1065,63,115415
+Delhi,Delhi,2025-Q3,Banks,K,820,76,116460
+Delhi,Delhi,2025-Q3,NBFCs,I,1801,90,119779
+Delhi,Delhi,2025-Q3,MFIs,H,749,82,118843
+Delhi,Delhi,2025-Q3,HFCs,E,2205,220,119041
+Delhi,Delhi,2025-Q4,Banks,G,2688,144,118438
+Delhi,Delhi,2025-Q4,NBFCs,K,642,33,111659
+Delhi,Delhi,2025-Q4,MFIs,E,1067,43,115978
+Delhi,Delhi,2025-Q4,HFCs,K,909,100,118381
+Delhi,Delhi,2026-Q1,Banks,J,661,54,113330
+Delhi,Delhi,2026-Q1,NBFCs,E,896,55,113444
+Delhi,Delhi,2026-Q1,MFIs,H,2222,190,114697
+Delhi,Delhi,2026-Q1,HFCs,J,1838,92,118438
+Delhi,Delhi,2025-Q2,Banks,I,1988,81,112713
+Delhi,Delhi,2025-Q2,NBFCs,F,549,26,113441
+Delhi,Delhi,2025-Q2,MFIs,J,811,48,115786
+Delhi,Delhi,2025-Q2,HFCs,J,2514,125,114155
+Delhi,Delhi,2025-Q3,Banks,G,1680,95,118933
+Delhi,Delhi,2025-Q3,NBFCs,J,1642,122,118708
+Delhi,Delhi,2025-Q3,MFIs,J,2425,264,117625
+Delhi,Delhi,2025-Q3,HFCs,J,1474,175,117561
+Delhi,Delhi,2025-Q4,Banks,G,2795,117,115102
+Delhi,Delhi,2025-Q4,NBFCs,E,314,27,114180
+Delhi,Delhi,2025-Q4,MFIs,E,2028,189,118708
+Delhi,Delhi,2025-Q4,HFCs,I,1957,164,117594
+Delhi,Delhi,2026-Q1,Banks,E,2698,224,118381
+Delhi,Delhi,2026-Q1,NBFCs,G,2864,144,118827
+Delhi,Delhi,2026-Q1,MFIs,E,2442,129,119056
+Delhi,Delhi,2026-Q1,HFCs,I,997,70,112625
+Delhi,Delhi,2025-Q2,Banks,H,216,12,115135
+Delhi,Delhi,2025-Q2,NBFCs,K,2831,178,111653
+Delhi,Delhi,2025-Q2,MFIs,H,2902,264,119889
+Delhi,Delhi,2025-Q2,HFCs,J,1144,59,119698
+Delhi,Delhi,2025-Q3,Banks,F,1091,123,119595
+Delhi,Delhi,2025-Q3,NBFCs,F,850,92,114697
+Delhi,Delhi,2025-Q3,MFIs,H,2478,243,114929
+Delhi,Delhi,2025-Q3,HFCs,G,521,27,118800
+Delhi,Delhi,2025-Q4,Banks,F,1402,94,119998
+Delhi,Delhi,2025-Q4,NBFCs,K,2335,239,118699
+Delhi,Delhi,2025-Q4,MFIs,I,1347,105,118613
+Delhi,Delhi,2025-Q4,HFCs,G,1336,81,111653
+Delhi,Delhi,2026-Q1,Banks,G,569,43,112958
+Delhi,Delhi,2026-Q1,NBFCs,E,1318,81,111200
+Delhi,Delhi,2026-Q1,MFIs,J,2076,180,111339
+Delhi,Delhi,2026-Q1,HFCs,G,337,24,118434
+Gujarat,Ahmedabad,2025-Q2,Banks,I,1632,94,388213
+Gujarat,Ahmedabad,2025-Q2,NBFCs,G,2788,140,383529
+Gujarat,Ahmedabad,2025-Q2,MFIs,F,2914,242,383529
+Gujarat,Ahmedabad,2025-Q2,HFCs,I,1732,86,389864
+Gujarat,Ahmedabad,2025-Q3,Banks,K,1507,171,388916
+Gujarat,Ahmedabad,2025-Q3,NBFCs,H,2870,275,383868
+Gujarat,Ahmedabad,2025-Q3,MFIs,G,1503,171,383868
+Gujarat,Ahmedabad,2025-Q3,HFCs,K,758,74,387684
+Gujarat,Ahmedabad,2025-Q4,Banks,E,1519,142,385906
+Gujarat,Ahmedabad,2025-Q4,NBFCs,K,1934,105,383153
+Gujarat,Ahmedabad,2025-Q4,MFIs,H,202,10,387730
+Gujarat,Ahmedabad,2025-Q4,HFCs,F,966,41,388222
+Gujarat,Ahmedabad,2026-Q1,Banks,E,2037,154,383529
+Gujarat,Ahmedabad,2026-Q1,NBFCs,I,2709,296,383868
+Gujarat,Ahmedabad,2026-Q1,MFIs,G,875,55,385837
+Gujarat,Ahmedabad,2026-Q1,HFCs,G,729,54,387730
+Gujarat,Surat,2025-Q2,Banks,J,2325,255,387807
+Gujarat,Surat,2025-Q2,NBFCs,K,1173,47,383344
+Gujarat,Surat,2025-Q2,MFIs,E,2450,124,385949
+Gujarat,Surat,2025-Q2,HFCs,E,392,32,384289
+Gujarat,Surat,2025-Q3,Banks,K,2141,195,387274
+Gujarat,Surat,2025-Q3,NBFCs,F,2632,211,382121
+Gujarat,Surat,2025-Q3,MFIs,F,347,30,383950
+Gujarat,Surat,2025-Q3,HFCs,E,924,83,387807
+Gujarat,Surat,2025-Q4,Banks,F,2630,163,385708
+Gujarat,Surat,2025-Q4,NBFCs,G,2801,189,389955
+Gujarat,Surat,2025-Q4,MFIs,E,2513,117,384289
+Gujarat,Surat,2025-Q4,HFCs,K,842,67,386772
+Gujarat,Surat,2026-Q1,Banks,I,735,64,387274
+Gujarat,Surat,2026-Q1,NBFCs,E,886,58,387274
+Gujarat,Surat,2026-Q1,MFIs,F,2954,334,389955
+Gujarat,Surat,2026-Q1,HFCs,K,2648,225,382121
+Gujarat,Vadodara,2025-Q2,Banks,I,1679,180,383695
+Gujarat,Vadodara,2025-Q2,NBFCs,K,2352,141,381753
+Gujarat,Vadodara,2025-Q2,MFIs,K,1067,57,382143
+Gujarat,Vadodara,2025-Q2,HFCs,F,1150,62,381919
+Gujarat,Vadodara,2025-Q3,Banks,K,401,34,385835
+Gujarat,Vadodara,2025-Q3,NBFCs,E,2139,195,385342
+Gujarat,Vadodara,2025-Q3,MFIs,E,2170,221,389837
+Gujarat,Vadodara,2025-Q3,HFCs,E,633,65,387484
+Gujarat,Vadodara,2025-Q4,Banks,G,2420,160,387484
+Gujarat,Vadodara,2025-Q4,NBFCs,I,255,21,388622
+Gujarat,Vadodara,2025-Q4,MFIs,J,2558,135,382143
+Gujarat,Vadodara,2025-Q4,HFCs,G,2417,160,387798
+Gujarat,Vadodara,2026-Q1,Banks,K,965,49,383695
+Gujarat,Vadodara,2026-Q1,NBFCs,E,1906,216,383594
+Gujarat,Vadodara,2026-Q1,MFIs,J,2545,221,385835
+Gujarat,Vadodara,2026-Q1,HFCs,E,1386,120,389318
+Gujarat,Rajkot,2025-Q2,Banks,I,2010,98,382858
+Gujarat,Rajkot,2025-Q2,NBFCs,K,1161,84,382646
+Gujarat,Rajkot,2025-Q2,MFIs,F,2200,132,382886
+Gujarat,Rajkot,2025-Q2,HFCs,K,1608,143,384886
+Gujarat,Rajkot,2025-Q3,Banks,F,287,29,387246
+Gujarat,Rajkot,2025-Q3,NBFCs,I,2666,229,389824
+Gujarat,Rajkot,2025-Q3,MFIs,G,2334,222,383434
+Gujarat,Rajkot,2025-Q3,HFCs,J,754,90,382886
+Gujarat,Rajkot,2025-Q4,Banks,J,2008,167,383361
+Gujarat,Rajkot,2025-Q4,NBFCs,G,2775,220,389903
+Gujarat,Rajkot,2025-Q4,MFIs,K,2891,315,385161
+Gujarat,Rajkot,2025-Q4,HFCs,I,1591,149,387246
+Gujarat,Rajkot,2026-Q1,Banks,I,2186,102,389903
+Gujarat,Rajkot,2026-Q1,NBFCs,J,1999,187,382480
+Gujarat,Rajkot,2026-Q1,MFIs,E,411,18,382210
+Gujarat,Rajkot,2026-Q1,HFCs,J,541,54,382858
+Gujarat,Gandhinagar,2025-Q2,Banks,F,1151,80,387751
+Gujarat,Gandhinagar,2025-Q2,NBFCs,I,1112,125,384122
+Gujarat,Gandhinagar,2025-Q2,MFIs,H,668,60,384122
+Gujarat,Gandhinagar,2025-Q2,HFCs,G,1027,63,384770
+Gujarat,Gandhinagar,2025-Q3,Banks,G,2785,131,386661
+Gujarat,Gandhinagar,2025-Q3,NBFCs,H,2425,222,387751
+Gujarat,Gandhinagar,2025-Q3,MFIs,E,1214,128,381132
+Gujarat,Gandhinagar,2025-Q3,HFCs,F,2858,177,386661
+Gujarat,Gandhinagar,2025-Q4,Banks,E,2109,94,385781
+Gujarat,Gandhinagar,2025-Q4,NBFCs,K,1604,103,389697
+Gujarat,Gandhinagar,2025-Q4,MFIs,J,674,33,386661
+Gujarat,Gandhinagar,2025-Q4,HFCs,G,2248,202,386881
+Gujarat,Gandhinagar,2026-Q1,Banks,E,1251,110,386881
+Gujarat,Gandhinagar,2026-Q1,NBFCs,H,805,79,385000
+Gujarat,Gandhinagar,2026-Q1,MFIs,E,2950,255,387267
+Gujarat,Gandhinagar,2026-Q1,HFCs,J,1040,61,387751
+Gujarat,Bharuch,2025-Q2,Banks,E,1932,124,387512
+Gujarat,Bharuch,2025-Q2,NBFCs,K,1113,52,387951
+Gujarat,Bharuch,2025-Q2,MFIs,K,1280,54,381472
+Gujarat,Bharuch,2025-Q2,HFCs,E,580,50,389327
+Gujarat,Bharuch,2025-Q3,Banks,H,640,26,381251
+Gujarat,Bharuch,2025-Q3,NBFCs,G,2474,132,387512
+Gujarat,Bharuch,2025-Q3,MFIs,G,1163,61,387512
+Gujarat,Bharuch,2025-Q3,HFCs,G,2528,268,382924
+Gujarat,Bharuch,2025-Q4,Banks,J,2928,237,385106
+Gujarat,Bharuch,2025-Q4,NBFCs,H,693,63,385106
+Gujarat,Bharuch,2025-Q4,MFIs,K,2878,268,383725
+Gujarat,Bharuch,2025-Q4,HFCs,I,466,56,389327
+Gujarat,Bharuch,2026-Q1,Banks,F,1618,102,385183
+Gujarat,Bharuch,2026-Q1,NBFCs,K,2572,218,384920
+Gujarat,Bharuch,2026-Q1,MFIs,G,2827,316,388555
+Gujarat,Bharuch,2026-Q1,HFCs,I,2667,259,386977
+Gujarat,Anand,2025-Q2,Banks,G,1039,44,387511
+Gujarat,Anand,2025-Q2,NBFCs,E,1317,58,387511
+Gujarat,Anand,2025-Q2,MFIs,E,484,21,389138
+Gujarat,Anand,2025-Q2,HFCs,I,2602,172,386549
+Gujarat,Anand,2025-Q3,Banks,J,582,51,388692
+Gujarat,Anand,2025-Q3,NBFCs,F,970,111,385891
+Gujarat,Anand,2025-Q3,MFIs,K,1828,142,382644
+Gujarat,Anand,2025-Q3,HFCs,G,1794,186,384681
+Gujarat,Anand,2025-Q4,Banks,H,1173,113,381153
+Gujarat,Anand,2025-Q4,NBFCs,K,211,14,384696
+Gujarat,Anand,2025-Q4,MFIs,H,2521,106,386383
+Gujarat,Anand,2025-Q4,HFCs,E,284,23,387302
+Gujarat,Anand,2026-Q1,Banks,I,2032,99,389022
+Gujarat,Anand,2026-Q1,NBFCs,G,2008,181,389022
+Gujarat,Anand,2026-Q1,MFIs,G,272,28,387511
+Gujarat,Anand,2026-Q1,HFCs,E,864,92,386549
+Uttar Pradesh,Lucknow,2025-Q2,Banks,J,1766,117,208267
+Uttar Pradesh,Lucknow,2025-Q2,NBFCs,G,1384,119,205381
+Uttar Pradesh,Lucknow,2025-Q2,MFIs,F,1663,161,202398
+Uttar Pradesh,Lucknow,2025-Q2,HFCs,G,970,45,206751
+Uttar Pradesh,Lucknow,2025-Q3,Banks,J,1980,140,201349
+Uttar Pradesh,Lucknow,2025-Q3,NBFCs,F,1248,138,204109
+Uttar Pradesh,Lucknow,2025-Q3,MFIs,E,2093,244,203290
+Uttar Pradesh,Lucknow,2025-Q3,HFCs,I,1880,153,206751
+Uttar Pradesh,Lucknow,2025-Q4,Banks,J,708,29,208075
+Uttar Pradesh,Lucknow,2025-Q4,NBFCs,J,2485,273,208075
+Uttar Pradesh,Lucknow,2025-Q4,MFIs,E,2950,174,207086
+Uttar Pradesh,Lucknow,2025-Q4,HFCs,J,2650,204,206942
+Uttar Pradesh,Lucknow,2026-Q1,Banks,K,293,23,203430
+Uttar Pradesh,Lucknow,2026-Q1,NBFCs,H,694,54,203290
+Uttar Pradesh,Lucknow,2026-Q1,MFIs,F,1222,143,201349
+Uttar Pradesh,Lucknow,2026-Q1,HFCs,I,1573,178,207689
+Uttar Pradesh,Kanpur Nagar,2025-Q2,Banks,J,547,50,209313
+Uttar Pradesh,Kanpur Nagar,2025-Q2,NBFCs,J,2863,141,209254
+Uttar Pradesh,Kanpur Nagar,2025-Q2,MFIs,G,2097,154,209807
+Uttar Pradesh,Kanpur Nagar,2025-Q2,HFCs,I,2434,103,203370
+Uttar Pradesh,Kanpur Nagar,2025-Q3,Banks,H,1474,74,209254
+Uttar Pradesh,Kanpur Nagar,2025-Q3,NBFCs,K,1980,203,202592
+Uttar Pradesh,Kanpur Nagar,2025-Q3,MFIs,J,450,27,207070
+Uttar Pradesh,Kanpur Nagar,2025-Q3,HFCs,H,1613,143,201422
+Uttar Pradesh,Kanpur Nagar,2025-Q4,Banks,G,2235,106,203370
+Uttar Pradesh,Kanpur Nagar,2025-Q4,NBFCs,I,1421,156,203370
+Uttar Pradesh,Kanpur Nagar,2025-Q4,MFIs,K,2004,171,201422
+Uttar Pradesh,Kanpur Nagar,2025-Q4,HFCs,E,559,49,203370
+Uttar Pradesh,Kanpur Nagar,2026-Q1,Banks,I,2549,276,202592
+Uttar Pradesh,Kanpur Nagar,2026-Q1,NBFCs,J,473,56,203370
+Uttar Pradesh,Kanpur Nagar,2026-Q1,MFIs,I,314,30,202592
+Uttar Pradesh,Kanpur Nagar,2026-Q1,HFCs,J,1571,101,203370
+Uttar Pradesh,Agra,2025-Q2,Banks,H,1474,160,201243
+Uttar Pradesh,Agra,2025-Q2,NBFCs,G,2858,284,201046
+Uttar Pradesh,Agra,2025-Q2,MFIs,F,648,48,202773
+Uttar Pradesh,Agra,2025-Q2,HFCs,K,2719,208,203854
+Uttar Pradesh,Agra,2025-Q3,Banks,K,2584,305,207686
+Uttar Pradesh,Agra,2025-Q3,NBFCs,H,2073,232,202557
+Uttar Pradesh,Agra,2025-Q3,MFIs,F,2190,150,202323
+Uttar Pradesh,Agra,2025-Q3,HFCs,E,2838,181,209543
+Uttar Pradesh,Agra,2025-Q4,Banks,K,625,67,209692
+Uttar Pradesh,Agra,2025-Q4,NBFCs,H,2169,189,201609
+Uttar Pradesh,Agra,2025-Q4,MFIs,G,1856,211,202773
+Uttar Pradesh,Agra,2025-Q4,HFCs,F,469,23,202323
+Uttar Pradesh,Agra,2026-Q1,Banks,K,1710,172,201842
+Uttar Pradesh,Agra,2026-Q1,NBFCs,H,1992,167,209543
+Uttar Pradesh,Agra,2026-Q1,MFIs,K,1540,67,206062
+Uttar Pradesh,Agra,2026-Q1,HFCs,E,1926,190,204817
+Uttar Pradesh,Varanasi,2025-Q2,Banks,F,2529,129,202786
+Uttar Pradesh,Varanasi,2025-Q2,NBFCs,H,690,70,202041
+Uttar Pradesh,Varanasi,2025-Q2,MFIs,I,901,51,206327
+Uttar Pradesh,Varanasi,2025-Q2,HFCs,H,1137,78,203024
+Uttar Pradesh,Varanasi,2025-Q3,Banks,J,547,42,202786
+Uttar Pradesh,Varanasi,2025-Q3,NBFCs,G,910,99,208264
+Uttar Pradesh,Varanasi,2025-Q3,MFIs,F,2268,103,207367
+Uttar Pradesh,Varanasi,2025-Q3,HFCs,G,1980,95,206327
+Uttar Pradesh,Varanasi,2025-Q4,Banks,K,1264,145,202786
+Uttar Pradesh,Varanasi,2025-Q4,NBFCs,K,222,10,207580
+Uttar Pradesh,Varanasi,2025-Q4,MFIs,J,724,41,208430
+Uttar Pradesh,Varanasi,2025-Q4,HFCs,E,743,68,203024
+Uttar Pradesh,Varanasi,2026-Q1,Banks,J,880,58,209850
+Uttar Pradesh,Varanasi,2026-Q1,NBFCs,K,376,23,204522
+Uttar Pradesh,Varanasi,2026-Q1,MFIs,G,1834,142,203024
+Uttar Pradesh,Varanasi,2026-Q1,HFCs,K,2056,98,204522
+Uttar Pradesh,Allahabad,2025-Q2,Banks,E,1724,99,201410
+Uttar Pradesh,Allahabad,2025-Q2,NBFCs,J,1593,115,203347
+Uttar Pradesh,Allahabad,2025-Q2,MFIs,H,1100,72,207018
+Uttar Pradesh,Allahabad,2025-Q2,HFCs,G,2475,274,204394
+Uttar Pradesh,Allahabad,2025-Q3,Banks,G,636,65,204898
+Uttar Pradesh,Allahabad,2025-Q3,NBFCs,I,1173,82,209017
+Uttar Pradesh,Allahabad,2025-Q3,MFIs,K,653,44,202697
+Uttar Pradesh,Allahabad,2025-Q3,HFCs,I,1237,85,205564
+Uttar Pradesh,Allahabad,2025-Q4,Banks,F,458,32,204394
+Uttar Pradesh,Allahabad,2025-Q4,NBFCs,F,393,22,207018
+Uttar Pradesh,Allahabad,2025-Q4,MFIs,I,593,44,203347
+Uttar Pradesh,Allahabad,2025-Q4,HFCs,E,389,30,203347
+Uttar Pradesh,Allahabad,2026-Q1,Banks,E,838,92,208433
+Uttar Pradesh,Allahabad,2026-Q1,NBFCs,K,1577,125,201410
+Uttar Pradesh,Allahabad,2026-Q1,MFIs,K,748,87,203131
+Uttar Pradesh,Allahabad,2026-Q1,HFCs,I,611,33,204394
+Uttar Pradesh,Meerut,2025-Q2,Banks,K,998,63,202035
+Uttar Pradesh,Meerut,2025-Q2,NBFCs,E,2121,182,201710
+Uttar Pradesh,Meerut,2025-Q2,MFIs,J,1290,154,208504
+Uttar Pradesh,Meerut,2025-Q2,HFCs,H,2778,192,203500
+Uttar Pradesh,Meerut,2025-Q3,Banks,K,1790,204,207815
+Uttar Pradesh,Meerut,2025-Q3,NBFCs,H,816,55,206400
+Uttar Pradesh,Meerut,2025-Q3,MFIs,E,622,30,205951
+Uttar Pradesh,Meerut,2025-Q3,HFCs,G,376,22,203535
+Uttar Pradesh,Meerut,2025-Q4,Banks,H,1299,65,208504
+Uttar Pradesh,Meerut,2025-Q4,NBFCs,K,1759,119,207078
+Uttar Pradesh,Meerut,2025-Q4,MFIs,E,1052,126,205951
+Uttar Pradesh,Meerut,2025-Q4,HFCs,F,957,61,205951
+Uttar Pradesh,Meerut,2026-Q1,Banks,H,1146,135,202035
+Uttar Pradesh,Meerut,2026-Q1,NBFCs,G,1848,220,204475
+Uttar Pradesh,Meerut,2026-Q1,MFIs,F,1089,101,209984
+Uttar Pradesh,Meerut,2026-Q1,HFCs,I,546,57,206400
+Uttar Pradesh,Ghaziabad,2025-Q2,Banks,E,2767,275,204868
+Uttar Pradesh,Ghaziabad,2025-Q2,NBFCs,I,481,31,203417
+Uttar Pradesh,Ghaziabad,2025-Q2,MFIs,E,2010,201,205106
+Uttar Pradesh,Ghaziabad,2025-Q2,HFCs,H,427,31,207929
+Uttar Pradesh,Ghaziabad,2025-Q3,Banks,E,2782,168,203063
+Uttar Pradesh,Ghaziabad,2025-Q3,NBFCs,K,582,46,208344
+Uttar Pradesh,Ghaziabad,2025-Q3,MFIs,E,507,22,203063
+Uttar Pradesh,Ghaziabad,2025-Q3,HFCs,K,326,38,208847
+Uttar Pradesh,Ghaziabad,2025-Q4,Banks,K,1807,77,202494
+Uttar Pradesh,Ghaziabad,2025-Q4,NBFCs,E,961,88,202874
+Uttar Pradesh,Ghaziabad,2025-Q4,MFIs,H,2597,175,207929
+Uttar Pradesh,Ghaziabad,2025-Q4,HFCs,J,2390,251,207105
+Uttar Pradesh,Ghaziabad,2026-Q1,Banks,I,564,24,207105
+Uttar Pradesh,Ghaziabad,2026-Q1,NBFCs,J,1062,83,203417
+Uttar Pradesh,Ghaziabad,2026-Q1,MFIs,J,754,58,203972
+Uttar Pradesh,Ghaziabad,2026-Q1,HFCs,F,1142,121,207242
+Rajasthan,Jaipur,2025-Q2,Banks,F,882,59,306375
+Rajasthan,Jaipur,2025-Q2,NBFCs,I,1459,90,306401
+Rajasthan,Jaipur,2025-Q2,MFIs,H,291,23,303538
+Rajasthan,Jaipur,2025-Q2,HFCs,H,1984,136,305703
+Rajasthan,Jaipur,2025-Q3,Banks,I,1488,97,308404
+Rajasthan,Jaipur,2025-Q3,NBFCs,I,2641,307,309624
+Rajasthan,Jaipur,2025-Q3,MFIs,F,609,37,309394
+Rajasthan,Jaipur,2025-Q3,HFCs,K,880,97,308205
+Rajasthan,Jaipur,2025-Q4,Banks,G,1602,152,308381
+Rajasthan,Jaipur,2025-Q4,NBFCs,J,1271,110,309394
+Rajasthan,Jaipur,2025-Q4,MFIs,J,512,37,306482
+Rajasthan,Jaipur,2025-Q4,HFCs,H,1286,121,306401
+Rajasthan,Jaipur,2026-Q1,Banks,I,2988,346,306375
+Rajasthan,Jaipur,2026-Q1,NBFCs,J,793,42,303754
+Rajasthan,Jaipur,2026-Q1,MFIs,I,2981,184,308205
+Rajasthan,Jaipur,2026-Q1,HFCs,K,1340,102,308205
+Rajasthan,Jodhpur,2025-Q2,Banks,G,2394,154,307421
+Rajasthan,Jodhpur,2025-Q2,NBFCs,J,2736,283,305193
+Rajasthan,Jodhpur,2025-Q2,MFIs,E,1433,169,302684
+Rajasthan,Jodhpur,2025-Q2,HFCs,G,925,46,308967
+Rajasthan,Jodhpur,2025-Q3,Banks,I,775,69,305475
+Rajasthan,Jodhpur,2025-Q3,NBFCs,J,1251,63,303549
+Rajasthan,Jodhpur,2025-Q3,MFIs,F,2164,98,305475
+Rajasthan,Jodhpur,2025-Q3,HFCs,I,1305,77,302734
+Rajasthan,Jodhpur,2025-Q4,Banks,G,2005,145,307421
+Rajasthan,Jodhpur,2025-Q4,NBFCs,F,672,78,309355
+Rajasthan,Jodhpur,2025-Q4,MFIs,G,2662,181,306179
+Rajasthan,Jodhpur,2025-Q4,HFCs,G,2811,319,308055
+Rajasthan,Jodhpur,2026-Q1,Banks,K,1051,79,309691
+Rajasthan,Jodhpur,2026-Q1,NBFCs,H,1892,196,309355
+Rajasthan,Jodhpur,2026-Q1,MFIs,J,446,52,308967
+Rajasthan,Jodhpur,2026-Q1,HFCs,K,2500,105,309355
+Rajasthan,Kota,2025-Q2,Banks,H,1245,90,305186
+Rajasthan,Kota,2025-Q2,NBFCs,G,408,40,307843
+Rajasthan,Kota,2025-Q2,MFIs,I,2506,123,302336
+Rajasthan,Kota,2025-Q2,HFCs,I,2900,298,307843
+Rajasthan,Kota,2025-Q3,Banks,I,2448,281,301298
+Rajasthan,Kota,2025-Q3,NBFCs,J,543,44,307843
+Rajasthan,Kota,2025-Q3,MFIs,F,1512,62,304509
+Rajasthan,Kota,2025-Q3,HFCs,J,2249,145,301932
+Rajasthan,Kota,2025-Q4,Banks,E,1591,65,303600
+Rajasthan,Kota,2025-Q4,NBFCs,E,2286,113,302336
+Rajasthan,Kota,2025-Q4,MFIs,H,1285,94,303317
+Rajasthan,Kota,2025-Q4,HFCs,J,1566,112,307108
+Rajasthan,Kota,2026-Q1,Banks,J,859,39,303600
+Rajasthan,Kota,2026-Q1,NBFCs,J,863,81,305186
+Rajasthan,Kota,2026-Q1,MFIs,I,1468,86,302816
+Rajasthan,Kota,2026-Q1,HFCs,G,1449,89,307108
+Rajasthan,Ajmer,2025-Q2,Banks,K,1637,76,301307
+Rajasthan,Ajmer,2025-Q2,NBFCs,G,2627,232,303116
+Rajasthan,Ajmer,2025-Q2,MFIs,G,2863,123,301307
+Rajasthan,Ajmer,2025-Q2,HFCs,F,1776,178,307347
+Rajasthan,Ajmer,2025-Q3,Banks,G,1271,84,302288
+Rajasthan,Ajmer,2025-Q3,NBFCs,J,213,10,304612
+Rajasthan,Ajmer,2025-Q3,MFIs,I,772,35,308172
+Rajasthan,Ajmer,2025-Q3,HFCs,G,2850,333,307347
+Rajasthan,Ajmer,2025-Q4,Banks,F,610,34,307947
+Rajasthan,Ajmer,2025-Q4,NBFCs,F,1665,183,307947
+Rajasthan,Ajmer,2025-Q4,MFIs,I,2467,212,301693
+Rajasthan,Ajmer,2025-Q4,HFCs,J,297,36,304612
+Rajasthan,Ajmer,2026-Q1,Banks,F,2877,327,307947
+Rajasthan,Ajmer,2026-Q1,NBFCs,G,875,85,308242
+Rajasthan,Ajmer,2026-Q1,MFIs,K,2247,167,309307
+Rajasthan,Ajmer,2026-Q1,HFCs,K,386,41,308682
+Rajasthan,Bikaner,2025-Q2,Banks,I,2372,133,307560
+Rajasthan,Bikaner,2025-Q2,NBFCs,J,2463,131,309586
+Rajasthan,Bikaner,2025-Q2,MFIs,J,2036,129,308972
+Rajasthan,Bikaner,2025-Q2,HFCs,J,2928,119,307937
+Rajasthan,Bikaner,2025-Q3,Banks,J,2197,127,302479
+Rajasthan,Bikaner,2025-Q3,NBFCs,F,2577,239,308792
+Rajasthan,Bikaner,2025-Q3,MFIs,G,2926,311,308972
+Rajasthan,Bikaner,2025-Q3,HFCs,F,672,34,308792
+Rajasthan,Bikaner,2025-Q4,Banks,E,1561,177,308033
+Rajasthan,Bikaner,2025-Q4,NBFCs,G,862,58,302868
+Rajasthan,Bikaner,2025-Q4,MFIs,H,1968,193,309586
+Rajasthan,Bikaner,2025-Q4,HFCs,E,2581,149,309586
+Rajasthan,Bikaner,2026-Q1,Banks,H,2147,195,302479
+Rajasthan,Bikaner,2026-Q1,NBFCs,J,1389,58,306129
+Rajasthan,Bikaner,2026-Q1,MFIs,F,1297,105,308033
+Rajasthan,Bikaner,2026-Q1,HFCs,G,503,45,308581
+Rajasthan,Udaipur,2025-Q2,Banks,K,2222,121,306543
+Rajasthan,Udaipur,2025-Q2,NBFCs,F,1735,114,307626
+Rajasthan,Udaipur,2025-Q2,MFIs,J,612,44,305059
+Rajasthan,Udaipur,2025-Q2,HFCs,F,1640,107,305128
+Rajasthan,Udaipur,2025-Q3,Banks,G,2640,166,303324
+Rajasthan,Udaipur,2025-Q3,NBFCs,K,1644,193,306083
+Rajasthan,Udaipur,2025-Q3,MFIs,F,1804,80,309725
+Rajasthan,Udaipur,2025-Q3,HFCs,K,2495,200,306083
+Rajasthan,Udaipur,2025-Q4,Banks,J,2575,134,306082
+Rajasthan,Udaipur,2025-Q4,NBFCs,I,1789,144,303324
+Rajasthan,Udaipur,2025-Q4,MFIs,J,601,26,305059
+Rajasthan,Udaipur,2025-Q4,HFCs,G,937,77,306626
+Rajasthan,Udaipur,2026-Q1,Banks,F,1001,43,306083
+Rajasthan,Udaipur,2026-Q1,NBFCs,G,1941,94,308259
+Rajasthan,Udaipur,2026-Q1,MFIs,F,1970,209,307171
+Rajasthan,Udaipur,2026-Q1,HFCs,F,273,21,303093
+Rajasthan,Alwar,2025-Q2,Banks,E,1267,122,306314
+Rajasthan,Alwar,2025-Q2,NBFCs,J,2898,321,306381
+Rajasthan,Alwar,2025-Q2,MFIs,J,1631,72,303504
+Rajasthan,Alwar,2025-Q2,HFCs,E,1403,146,308155
+Rajasthan,Alwar,2025-Q3,Banks,F,2535,226,303504
+Rajasthan,Alwar,2025-Q3,NBFCs,I,2013,157,306456
+Rajasthan,Alwar,2025-Q3,MFIs,G,541,24,306456
+Rajasthan,Alwar,2025-Q3,HFCs,G,1713,149,301857
+Rajasthan,Alwar,2025-Q4,Banks,G,2647,111,306381
+Rajasthan,Alwar,2025-Q4,NBFCs,K,1286,69,302275
+Rajasthan,Alwar,2025-Q4,MFIs,I,2477,249,302275
+Rajasthan,Alwar,2025-Q4,HFCs,E,2792,122,301857
+Rajasthan,Alwar,2026-Q1,Banks,E,1458,117,302275
+Rajasthan,Alwar,2026-Q1,NBFCs,K,225,21,301857
+Rajasthan,Alwar,2026-Q1,MFIs,K,2322,179,303504
+Rajasthan,Alwar,2026-Q1,HFCs,E,1630,176,303815
+West Bengal,Kolkata,2025-Q2,Banks,K,1840,163,704678
+West Bengal,Kolkata,2025-Q2,NBFCs,J,748,65,706221
+West Bengal,Kolkata,2025-Q2,MFIs,I,2068,187,709626
+West Bengal,Kolkata,2025-Q2,HFCs,I,2774,125,706848
+West Bengal,Kolkata,2025-Q3,Banks,G,1354,127,703068
+West Bengal,Kolkata,2025-Q3,NBFCs,J,2156,232,703254
+West Bengal,Kolkata,2025-Q3,MFIs,I,1141,47,703068
+West Bengal,Kolkata,2025-Q3,HFCs,K,2583,167,703621
+West Bengal,Kolkata,2025-Q4,Banks,E,2642,127,708489
+West Bengal,Kolkata,2025-Q4,NBFCs,I,2880,344,704678
+West Bengal,Kolkata,2025-Q4,MFIs,H,2253,145,708032
+West Bengal,Kolkata,2025-Q4,HFCs,H,2208,233,701086
+West Bengal,Kolkata,2026-Q1,Banks,F,619,46,708702
+West Bengal,Kolkata,2026-Q1,NBFCs,J,1346,153,708032
+West Bengal,Kolkata,2026-Q1,MFIs,K,2005,169,706908
+West Bengal,Kolkata,2026-Q1,HFCs,E,1043,99,708032
+West Bengal,North 24 Parganas,2025-Q2,Banks,E,1414,83,709749
+West Bengal,North 24 Parganas,2025-Q2,NBFCs,K,586,68,703986
+West Bengal,North 24 Parganas,2025-Q2,MFIs,F,2607,273,707825
+West Bengal,North 24 Parganas,2025-Q2,HFCs,E,490,55,701717
+West Bengal,North 24 Parganas,2025-Q3,Banks,H,2338,186,702502
+West Bengal,North 24 Parganas,2025-Q3,NBFCs,F,1488,108,706780
+West Bengal,North 24 Parganas,2025-Q3,MFIs,E,1035,56,707172
+West Bengal,North 24 Parganas,2025-Q3,HFCs,E,702,76,702502
+West Bengal,North 24 Parganas,2025-Q4,Banks,I,2895,330,706493
+West Bengal,North 24 Parganas,2025-Q4,NBFCs,I,680,70,708355
+West Bengal,North 24 Parganas,2025-Q4,MFIs,E,1305,60,708355
+West Bengal,North 24 Parganas,2025-Q4,HFCs,E,729,32,706554
+West Bengal,North 24 Parganas,2026-Q1,Banks,J,1451,112,708355
+West Bengal,North 24 Parganas,2026-Q1,NBFCs,I,1483,141,701717
+West Bengal,North 24 Parganas,2026-Q1,MFIs,K,595,71,706780
+West Bengal,North 24 Parganas,2026-Q1,HFCs,I,730,40,703658
+West Bengal,South 24 Parganas,2025-Q2,Banks,F,962,95,701311
+West Bengal,South 24 Parganas,2025-Q2,NBFCs,I,1519,158,703626
+West Bengal,South 24 Parganas,2025-Q2,MFIs,H,1275,138,709507
+West Bengal,South 24 Parganas,2025-Q2,HFCs,E,235,19,709507
+West Bengal,South 24 Parganas,2025-Q3,Banks,F,2240,97,702106
+West Bengal,South 24 Parganas,2025-Q3,NBFCs,G,2319,212,702106
+West Bengal,South 24 Parganas,2025-Q3,MFIs,H,1302,128,709151
+West Bengal,South 24 Parganas,2025-Q3,HFCs,G,1380,73,708391
+West Bengal,South 24 Parganas,2025-Q4,Banks,H,2972,192,704178
+West Bengal,South 24 Parganas,2025-Q4,NBFCs,E,905,64,706438
+West Bengal,South 24 Parganas,2025-Q4,MFIs,J,1504,159,702821
+West Bengal,South 24 Parganas,2025-Q4,HFCs,I,1832,133,706438
+West Bengal,South 24 Parganas,2026-Q1,Banks,E,739,84,701726
+West Bengal,South 24 Parganas,2026-Q1,NBFCs,F,913,78,703626
+West Bengal,South 24 Parganas,2026-Q1,MFIs,J,1164,112,707655
+West Bengal,South 24 Parganas,2026-Q1,HFCs,E,2343,215,709945
+West Bengal,Howrah,2025-Q2,Banks,F,1880,217,701872
+West Bengal,Howrah,2025-Q2,NBFCs,G,1439,144,704906
+West Bengal,Howrah,2025-Q2,MFIs,G,1144,99,706070
+West Bengal,Howrah,2025-Q2,HFCs,J,2448,132,704891
+West Bengal,Howrah,2025-Q3,Banks,J,1023,119,709647
+West Bengal,Howrah,2025-Q3,NBFCs,I,1794,172,706070
+West Bengal,Howrah,2025-Q3,MFIs,G,766,65,704891
+West Bengal,Howrah,2025-Q3,HFCs,F,829,63,701333
+West Bengal,Howrah,2025-Q4,Banks,I,740,69,705700
+West Bengal,Howrah,2025-Q4,NBFCs,E,2731,305,708685
+West Bengal,Howrah,2025-Q4,MFIs,G,2075,183,708685
+West Bengal,Howrah,2025-Q4,HFCs,G,2066,137,704862
+West Bengal,Howrah,2026-Q1,Banks,F,2209,200,702816
+West Bengal,Howrah,2026-Q1,NBFCs,K,2813,117,701333
+West Bengal,Howrah,2026-Q1,MFIs,K,286,32,703414
+West Bengal,Howrah,2026-Q1,HFCs,F,1220,116,704891
+West Bengal,Hooghly,2025-Q2,Banks,J,2997,124,708361
+West Bengal,Hooghly,2025-Q2,NBFCs,E,2633,205,708055
+West Bengal,Hooghly,2025-Q2,MFIs,K,2812,221,703339
+West Bengal,Hooghly,2025-Q2,HFCs,H,769,69,702698
+West Bengal,Hooghly,2025-Q3,Banks,E,2786,181,704271
+West Bengal,Hooghly,2025-Q3,NBFCs,F,811,44,709239
+West Bengal,Hooghly,2025-Q3,MFIs,E,723,59,707524
+West Bengal,Hooghly,2025-Q3,HFCs,K,2753,115,702698
+West Bengal,Hooghly,2025-Q4,Banks,K,2397,253,708361
+West Bengal,Hooghly,2025-Q4,NBFCs,H,812,47,704271
+West Bengal,Hooghly,2025-Q4,MFIs,F,1123,72,709618
+West Bengal,Hooghly,2025-Q4,HFCs,H,492,55,706517
+West Bengal,Hooghly,2026-Q1,Banks,I,2312,132,703147
+West Bengal,Hooghly,2026-Q1,NBFCs,I,1241,125,709618
+West Bengal,Hooghly,2026-Q1,MFIs,F,2419,278,708361
+West Bengal,Hooghly,2026-Q1,HFCs,F,1079,102,704271
+West Bengal,Paschim Bardhaman,2025-Q2,Banks,J,922,74,703868
+West Bengal,Paschim Bardhaman,2025-Q2,NBFCs,H,1940,195,702680
+West Bengal,Paschim Bardhaman,2025-Q2,MFIs,H,2664,231,701854
+West Bengal,Paschim Bardhaman,2025-Q2,HFCs,E,385,31,709406
+West Bengal,Paschim Bardhaman,2025-Q3,Banks,E,1838,102,705155
+West Bengal,Paschim Bardhaman,2025-Q3,NBFCs,K,2834,165,708612
+West Bengal,Paschim Bardhaman,2025-Q3,MFIs,E,2989,324,704950
+West Bengal,Paschim Bardhaman,2025-Q3,HFCs,K,1612,150,703868
+West Bengal,Paschim Bardhaman,2025-Q4,Banks,F,1254,95,702353
+West Bengal,Paschim Bardhaman,2025-Q4,NBFCs,K,314,31,704950
+West Bengal,Paschim Bardhaman,2025-Q4,MFIs,J,2313,261,702353
+West Bengal,Paschim Bardhaman,2025-Q4,HFCs,F,1278,130,709991
+West Bengal,Paschim Bardhaman,2026-Q1,Banks,J,2893,195,709129
+West Bengal,Paschim Bardhaman,2026-Q1,NBFCs,H,1021,43,704950
+West Bengal,Paschim Bardhaman,2026-Q1,MFIs,G,2309,251,705668
+West Bengal,Paschim Bardhaman,2026-Q1,HFCs,H,2349,134,704950
+Telangana,Hyderabad,2025-Q2,Banks,E,1110,57,508292
+Telangana,Hyderabad,2025-Q2,NBFCs,K,1839,170,502330
+Telangana,Hyderabad,2025-Q2,MFIs,H,208,19,505728
+Telangana,Hyderabad,2025-Q2,HFCs,J,1196,139,509793
+Telangana,Hyderabad,2025-Q3,Banks,I,2178,220,506781
+Telangana,Hyderabad,2025-Q3,NBFCs,H,2582,210,509094
+Telangana,Hyderabad,2025-Q3,MFIs,F,1499,116,502330
+Telangana,Hyderabad,2025-Q3,HFCs,F,1152,77,501674
+Telangana,Hyderabad,2025-Q4,Banks,I,2243,227,508292
+Telangana,Hyderabad,2025-Q4,NBFCs,J,955,57,503308
+Telangana,Hyderabad,2025-Q4,MFIs,H,2964,132,503308
+Telangana,Hyderabad,2025-Q4,HFCs,H,2981,318,502412
+Telangana,Hyderabad,2026-Q1,Banks,J,2706,145,502412
+Telangana,Hyderabad,2026-Q1,NBFCs,E,828,82,507563
+Telangana,Hyderabad,2026-Q1,MFIs,F,2680,243,508430
+Telangana,Hyderabad,2026-Q1,HFCs,I,2415,104,506781
+Telangana,Ranga Reddy,2025-Q2,Banks,J,848,45,505914
+Telangana,Ranga Reddy,2025-Q2,NBFCs,E,2061,136,501981
+Telangana,Ranga Reddy,2025-Q2,MFIs,H,1205,135,505914
+Telangana,Ranga Reddy,2025-Q2,HFCs,K,422,20,505566
+Telangana,Ranga Reddy,2025-Q3,Banks,G,460,23,506990
+Telangana,Ranga Reddy,2025-Q3,NBFCs,H,1552,103,501981
+Telangana,Ranga Reddy,2025-Q3,MFIs,H,2082,229,503275
+Telangana,Ranga Reddy,2025-Q3,HFCs,H,1708,84,501981
+Telangana,Ranga Reddy,2025-Q4,Banks,G,1443,158,502946
+Telangana,Ranga Reddy,2025-Q4,NBFCs,I,2680,277,508311
+Telangana,Ranga Reddy,2025-Q4,MFIs,J,2210,256,505496
+Telangana,Ranga Reddy,2025-Q4,HFCs,I,2199,198,507850
+Telangana,Ranga Reddy,2026-Q1,Banks,K,414,24,509335
+Telangana,Ranga Reddy,2026-Q1,NBFCs,I,1372,163,505914
+Telangana,Ranga Reddy,2026-Q1,MFIs,J,1097,103,505566
+Telangana,Ranga Reddy,2026-Q1,HFCs,F,239,20,503981
+Telangana,Medchal Malkajgiri,2025-Q2,Banks,H,694,78,509882
+Telangana,Medchal Malkajgiri,2025-Q2,NBFCs,K,1511,146,508710
+Telangana,Medchal Malkajgiri,2025-Q2,MFIs,F,274,33,509171
+Telangana,Medchal Malkajgiri,2025-Q2,HFCs,K,2761,153,504694
+Telangana,Medchal Malkajgiri,2025-Q3,Banks,E,2287,264,503653
+Telangana,Medchal Malkajgiri,2025-Q3,NBFCs,E,1712,105,504694
+Telangana,Medchal Malkajgiri,2025-Q3,MFIs,E,2006,198,503852
+Telangana,Medchal Malkajgiri,2025-Q3,HFCs,J,2539,177,507001
+Telangana,Medchal Malkajgiri,2025-Q4,Banks,I,1308,110,501828
+Telangana,Medchal Malkajgiri,2025-Q4,NBFCs,I,2434,118,501829
+Telangana,Medchal Malkajgiri,2025-Q4,MFIs,I,2242,216,503616
+Telangana,Medchal Malkajgiri,2025-Q4,HFCs,J,2094,122,509476
+Telangana,Medchal Malkajgiri,2026-Q1,Banks,K,2830,245,502739
+Telangana,Medchal Malkajgiri,2026-Q1,NBFCs,I,2351,101,503852
+Telangana,Medchal Malkajgiri,2026-Q1,MFIs,K,2337,137,503194
+Telangana,Medchal Malkajgiri,2026-Q1,HFCs,I,2914,251,504342
+Telangana,Warangal,2025-Q2,Banks,E,1062,117,506992
+Telangana,Warangal,2025-Q2,NBFCs,E,359,26,502215
+Telangana,Warangal,2025-Q2,MFIs,I,1956,208,506658
+Telangana,Warangal,2025-Q2,HFCs,K,1004,113,507730
+Telangana,Warangal,2025-Q3,Banks,H,2423,109,509281
+Telangana,Warangal,2025-Q3,NBFCs,K,476,54,502215
+Telangana,Warangal,2025-Q3,MFIs,E,2433,174,504960
+Telangana,Warangal,2025-Q3,HFCs,I,2858,201,502475
+Telangana,Warangal,2025-Q4,Banks,K,1866,201,502215
+Telangana,Warangal,2025-Q4,NBFCs,I,1316,140,504048
+Telangana,Warangal,2025-Q4,MFIs,E,691,58,507012
+Telangana,Warangal,2025-Q4,HFCs,J,633,43,507044
+Telangana,Warangal,2026-Q1,Banks,F,2003,205,505949
+Telangana,Warangal,2026-Q1,NBFCs,F,1569,174,507095
+Telangana,Warangal,2026-Q1,MFIs,J,619,74,507012
+Telangana,Warangal,2026-Q1,HFCs,G,2352,187,509433
+Telangana,Karimnagar,2025-Q2,Banks,F,1434,77,507272
+Telangana,Karimnagar,2025-Q2,NBFCs,J,737,39,509437
+Telangana,Karimnagar,2025-Q2,MFIs,K,936,74,503762
+Telangana,Karimnagar,2025-Q2,HFCs,G,848,42,506912
+Telangana,Karimnagar,2025-Q3,Banks,J,2195,225,502063
+Telangana,Karimnagar,2025-Q3,NBFCs,E,1188,54,503102
+Telangana,Karimnagar,2025-Q3,MFIs,J,1107,70,506531
+Telangana,Karimnagar,2025-Q3,HFCs,F,1771,207,509108
+Telangana,Karimnagar,2025-Q4,Banks,H,849,62,503762
+Telangana,Karimnagar,2025-Q4,NBFCs,H,2586,194,507825
+Telangana,Karimnagar,2025-Q4,MFIs,I,2109,103,507293
+Telangana,Karimnagar,2025-Q4,HFCs,G,1326,96,503126
+Telangana,Karimnagar,2026-Q1,Banks,J,1433,167,505961
+Telangana,Karimnagar,2026-Q1,NBFCs,G,2814,317,501530
+Telangana,Karimnagar,2026-Q1,MFIs,I,2713,191,508842
+Telangana,Karimnagar,2026-Q1,HFCs,I,1263,120,504453
+Telangana,Nizamabad,2025-Q2,Banks,H,2762,242,503513
+Telangana,Nizamabad,2025-Q2,NBFCs,K,1949,186,506236
+Telangana,Nizamabad,2025-Q2,MFIs,I,848,76,503513
+Telangana,Nizamabad,2025-Q2,HFCs,F,2237,175,506236
+Telangana,Nizamabad,2025-Q3,Banks,K,279,18,505012
+Telangana,Nizamabad,2025-Q3,NBFCs,I,2645,106,506231
+Telangana,Nizamabad,2025-Q3,MFIs,E,463,22,504866
+Telangana,Nizamabad,2025-Q3,HFCs,J,330,26,506692
+Telangana,Nizamabad,2025-Q4,Banks,E,2413,142,505012
+Telangana,Nizamabad,2025-Q4,NBFCs,F,2323,247,509234
+Telangana,Nizamabad,2025-Q4,MFIs,J,1873,105,505678
+Telangana,Nizamabad,2025-Q4,HFCs,H,489,43,504216
+Telangana,Nizamabad,2026-Q1,Banks,F,395,22,506150
+Telangana,Nizamabad,2026-Q1,NBFCs,I,1501,67,503513
+Telangana,Nizamabad,2026-Q1,MFIs,I,2757,154,504216
+Telangana,Nizamabad,2026-Q1,HFCs,K,814,43,505678
+Madhya Pradesh,Bhopal,2025-Q2,Banks,G,2856,181,468739
+Madhya Pradesh,Bhopal,2025-Q2,NBFCs,J,2902,277,468739
+Madhya Pradesh,Bhopal,2025-Q2,MFIs,F,1359,154,465742
+Madhya Pradesh,Bhopal,2025-Q2,HFCs,J,2324,263,466372
+Madhya Pradesh,Bhopal,2025-Q3,Banks,K,915,58,465742
+Madhya Pradesh,Bhopal,2025-Q3,NBFCs,H,2972,292,461742
+Madhya Pradesh,Bhopal,2025-Q3,MFIs,H,2066,134,463880
+Madhya Pradesh,Bhopal,2025-Q3,HFCs,I,2485,176,466372
+Madhya Pradesh,Bhopal,2025-Q4,Banks,E,1268,63,463880
+Madhya Pradesh,Bhopal,2025-Q4,NBFCs,H,694,40,466372
+Madhya Pradesh,Bhopal,2025-Q4,MFIs,F,2378,260,465742
+Madhya Pradesh,Bhopal,2025-Q4,HFCs,I,1739,81,464968
+Madhya Pradesh,Bhopal,2026-Q1,Banks,I,1499,177,464814
+Madhya Pradesh,Bhopal,2026-Q1,NBFCs,I,321,27,465742
+Madhya Pradesh,Bhopal,2026-Q1,MFIs,E,2509,106,464968
+Madhya Pradesh,Bhopal,2026-Q1,HFCs,F,2249,267,461742
+Madhya Pradesh,Indore,2025-Q2,Banks,F,860,96,464920
+Madhya Pradesh,Indore,2025-Q2,NBFCs,H,2474,121,465470
+Madhya Pradesh,Indore,2025-Q2,MFIs,H,507,22,462800
+Madhya Pradesh,Indore,2025-Q2,HFCs,K,898,87,468871
+Madhya Pradesh,Indore,2025-Q3,Banks,G,2689,151,469116
+Madhya Pradesh,Indore,2025-Q3,NBFCs,K,734,76,464164
+Madhya Pradesh,Indore,2025-Q3,MFIs,H,1380,87,462800
+Madhya Pradesh,Indore,2025-Q3,HFCs,I,2416,132,468849
+Madhya Pradesh,Indore,2025-Q4,Banks,E,314,31,462800
+Madhya Pradesh,Indore,2025-Q4,NBFCs,F,1653,183,469446
+Madhya Pradesh,Indore,2025-Q4,MFIs,F,376,23,469446
+Madhya Pradesh,Indore,2025-Q4,HFCs,I,2504,297,462800
+Madhya Pradesh,Indore,2026-Q1,Banks,E,2249,227,467229
+Madhya Pradesh,Indore,2026-Q1,NBFCs,I,1394,109,461611
+Madhya Pradesh,Indore,2026-Q1,MFIs,K,2897,213,469092
+Madhya Pradesh,Indore,2026-Q1,HFCs,F,2301,130,468871
+Madhya Pradesh,Jabalpur,2025-Q2,Banks,J,2207,118,465480
+Madhya Pradesh,Jabalpur,2025-Q2,NBFCs,F,405,36,462758
+Madhya Pradesh,Jabalpur,2025-Q2,MFIs,H,1634,76,465706
+Madhya Pradesh,Jabalpur,2025-Q2,HFCs,K,2994,248,465480
+Madhya Pradesh,Jabalpur,2025-Q3,Banks,J,2372,116,469734
+Madhya Pradesh,Jabalpur,2025-Q3,NBFCs,H,2639,261,465374
+Madhya Pradesh,Jabalpur,2025-Q3,MFIs,E,2717,295,461111
+Madhya Pradesh,Jabalpur,2025-Q3,HFCs,E,1390,146,461187
+Madhya Pradesh,Jabalpur,2025-Q4,Banks,J,828,33,465480
+Madhya Pradesh,Jabalpur,2025-Q4,NBFCs,G,2745,274,468861
+Madhya Pradesh,Jabalpur,2025-Q4,MFIs,I,2300,154,465480
+Madhya Pradesh,Jabalpur,2025-Q4,HFCs,H,360,25,461111
+Madhya Pradesh,Jabalpur,2026-Q1,Banks,G,1387,139,465374
+Madhya Pradesh,Jabalpur,2026-Q1,NBFCs,E,1076,103,469734
+Madhya Pradesh,Jabalpur,2026-Q1,MFIs,G,392,42,465038
+Madhya Pradesh,Jabalpur,2026-Q1,HFCs,K,2447,187,461187
+Madhya Pradesh,Gwalior,2025-Q2,Banks,F,2728,213,469261
+Madhya Pradesh,Gwalior,2025-Q2,NBFCs,J,1591,124,463587
+Madhya Pradesh,Gwalior,2025-Q2,MFIs,F,1514,66,463481
+Madhya Pradesh,Gwalior,2025-Q2,HFCs,J,2727,163,465662
+Madhya Pradesh,Gwalior,2025-Q3,Banks,K,681,63,462795
+Madhya Pradesh,Gwalior,2025-Q3,NBFCs,G,2145,115,463303
+Madhya Pradesh,Gwalior,2025-Q3,MFIs,I,1369,129,465662
+Madhya Pradesh,Gwalior,2025-Q3,HFCs,J,1698,194,469341
+Madhya Pradesh,Gwalior,2025-Q4,Banks,H,1212,115,462641
+Madhya Pradesh,Gwalior,2025-Q4,NBFCs,G,1499,125,466139
+Madhya Pradesh,Gwalior,2025-Q4,MFIs,H,1952,151,462795
+Madhya Pradesh,Gwalior,2025-Q4,HFCs,H,1173,105,463587
+Madhya Pradesh,Gwalior,2026-Q1,Banks,I,2186,178,469341
+Madhya Pradesh,Gwalior,2026-Q1,NBFCs,E,2017,132,464340
+Madhya Pradesh,Gwalior,2026-Q1,MFIs,H,1025,86,464340
+Madhya Pradesh,Gwalior,2026-Q1,HFCs,H,941,68,462641
+Madhya Pradesh,Ujjain,2025-Q2,Banks,J,1424,58,468007
+Madhya Pradesh,Ujjain,2025-Q2,NBFCs,H,357,27,465902
+Madhya Pradesh,Ujjain,2025-Q2,MFIs,J,895,80,467438
+Madhya Pradesh,Ujjain,2025-Q2,HFCs,I,2246,160,464261
+Madhya Pradesh,Ujjain,2025-Q3,Banks,G,1090,78,468837
+Madhya Pradesh,Ujjain,2025-Q3,NBFCs,J,1443,87,466511
+Madhya Pradesh,Ujjain,2025-Q3,MFIs,I,2637,122,468837
+Madhya Pradesh,Ujjain,2025-Q3,HFCs,J,1766,118,464397
+Madhya Pradesh,Ujjain,2025-Q4,Banks,G,2340,146,466373
+Madhya Pradesh,Ujjain,2025-Q4,NBFCs,F,2818,174,465902
+Madhya Pradesh,Ujjain,2025-Q4,MFIs,G,2402,139,465331
+Madhya Pradesh,Ujjain,2025-Q4,HFCs,F,339,33,468007
+Madhya Pradesh,Ujjain,2026-Q1,Banks,E,1158,137,466373
+Madhya Pradesh,Ujjain,2026-Q1,NBFCs,G,2916,230,469901
+Madhya Pradesh,Ujjain,2026-Q1,MFIs,H,2799,203,465947
+Madhya Pradesh,Ujjain,2026-Q1,HFCs,J,1193,136,468761
+Madhya Pradesh,Sagar,2025-Q2,Banks,H,1634,136,469025
+Madhya Pradesh,Sagar,2025-Q2,NBFCs,K,2143,87,464396
+Madhya Pradesh,Sagar,2025-Q2,MFIs,J,1137,76,464728
+Madhya Pradesh,Sagar,2025-Q2,HFCs,F,2194,154,466427
+Madhya Pradesh,Sagar,2025-Q3,Banks,K,1992,105,466427
+Madhya Pradesh,Sagar,2025-Q3,NBFCs,K,336,28,464396
+Madhya Pradesh,Sagar,2025-Q3,MFIs,J,1537,110,466427
+Madhya Pradesh,Sagar,2025-Q3,HFCs,I,1227,93,466411
+Madhya Pradesh,Sagar,2025-Q4,Banks,H,625,63,465201
+Madhya Pradesh,Sagar,2025-Q4,NBFCs,J,405,33,466890
+Madhya Pradesh,Sagar,2025-Q4,MFIs,G,2679,211,468518
+Madhya Pradesh,Sagar,2025-Q4,HFCs,H,1510,84,467567
+Madhya Pradesh,Sagar,2026-Q1,Banks,I,2662,248,468518
+Madhya Pradesh,Sagar,2026-Q1,NBFCs,H,533,39,468518
+Madhya Pradesh,Sagar,2026-Q1,MFIs,H,2800,122,465201
+Madhya Pradesh,Sagar,2026-Q1,HFCs,I,519,25,468518
+Madhya Pradesh,Rewa,2025-Q2,Banks,J,2467,187,465876
+Madhya Pradesh,Rewa,2025-Q2,NBFCs,F,2144,119,466040
+Madhya Pradesh,Rewa,2025-Q2,MFIs,I,2144,196,466523
+Madhya Pradesh,Rewa,2025-Q2,HFCs,H,1522,97,465876
+Madhya Pradesh,Rewa,2025-Q3,Banks,H,2153,245,466456
+Madhya Pradesh,Rewa,2025-Q3,NBFCs,K,1825,79,467846
+Madhya Pradesh,Rewa,2025-Q3,MFIs,I,1600,158,467504
+Madhya Pradesh,Rewa,2025-Q3,HFCs,G,2278,213,464267
+Madhya Pradesh,Rewa,2025-Q4,Banks,G,1728,188,466523
+Madhya Pradesh,Rewa,2025-Q4,NBFCs,K,1148,131,464310
+Madhya Pradesh,Rewa,2025-Q4,MFIs,E,1695,110,467504
+Madhya Pradesh,Rewa,2025-Q4,HFCs,F,1517,112,464310
+Madhya Pradesh,Rewa,2026-Q1,Banks,E,2059,91,468319
+Madhya Pradesh,Rewa,2026-Q1,NBFCs,H,2831,191,469221
+Madhya Pradesh,Rewa,2026-Q1,MFIs,K,1796,129,461969
+Madhya Pradesh,Rewa,2026-Q1,HFCs,I,2512,209,466456
+Uttar Pradesh,Kanpur Nagar,2025-Q2,NBFCs,G,701,26,208382
+Uttar Pradesh,Kanpur Nagar,2025-Q3,NBFCs,G,146,8,208382
+Uttar Pradesh,Kanpur Nagar,2025-Q4,NBFCs,G,360,18,208382
+Uttar Pradesh,Kanpur Nagar,2026-Q1,NBFCs,G,204,10,208382
+Gujarat,Bharuch,2025-Q2,NBFCs,G,140,7,387702
+Gujarat,Bharuch,2025-Q3,NBFCs,G,511,32,387702
+Gujarat,Bharuch,2025-Q4,NBFCs,G,677,47,387702
+Gujarat,Bharuch,2026-Q1,NBFCs,G,264,11,387702
+Uttar Pradesh,Agra,2025-Q2,NBFCs,G,315,18,209826
+Uttar Pradesh,Agra,2025-Q3,NBFCs,G,306,20,209826
+Uttar Pradesh,Agra,2025-Q4,NBFCs,G,330,14,209826
+Uttar Pradesh,Agra,2026-Q1,NBFCs,G,191,8,209826
+Delhi,Delhi,2025-Q2,NBFCs,G,466,34,113534
+Delhi,Delhi,2025-Q3,NBFCs,G,623,29,113534
+Delhi,Delhi,2025-Q4,NBFCs,G,691,44,113534
+Delhi,Delhi,2026-Q1,NBFCs,G,613,43,113534
+Tamil Nadu,Erode,2025-Q2,NBFCs,G,503,26,601130
+Tamil Nadu,Erode,2025-Q3,NBFCs,G,429,17,601130
+Tamil Nadu,Erode,2025-Q4,NBFCs,G,611,37,601130
+Tamil Nadu,Erode,2026-Q1,NBFCs,G,189,6,601130
+Maharashtra,Mumbai,2025-Q2,NBFCs,G,649,50,403484
+Maharashtra,Mumbai,2025-Q3,NBFCs,G,100,3,403484
+Maharashtra,Mumbai,2025-Q4,NBFCs,G,310,23,403484
+Maharashtra,Mumbai,2026-Q1,NBFCs,G,528,26,403484
+Karnataka,Dakshina Kannada,2025-Q2,NBFCs,G,620,41,561214
+Karnataka,Dakshina Kannada,2025-Q3,NBFCs,G,515,36,561214
+Karnataka,Dakshina Kannada,2025-Q4,NBFCs,G,415,27,561214
+Karnataka,Dakshina Kannada,2026-Q1,NBFCs,G,694,52,561214
+Rajasthan,Jodhpur,2025-Q2,NBFCs,G,597,41,309096
+Rajasthan,Jodhpur,2025-Q3,NBFCs,G,453,14,309096
+Rajasthan,Jodhpur,2025-Q4,NBFCs,G,723,49,309096
+Rajasthan,Jodhpur,2026-Q1,NBFCs,G,265,13,309096
+Karnataka,Mysuru,2025-Q2,NBFCs,G,687,25,563180
+Karnataka,Mysuru,2025-Q3,NBFCs,G,306,15,563180
+Karnataka,Mysuru,2025-Q4,NBFCs,G,567,26,563180
+Karnataka,Mysuru,2026-Q1,NBFCs,G,699,55,563180
+Tamil Nadu,Salem,2025-Q2,NBFCs,G,706,38,602196
+Tamil Nadu,Salem,2025-Q3,NBFCs,G,504,34,602196
+Tamil Nadu,Salem,2025-Q4,NBFCs,G,219,11,602196
+Tamil Nadu,Salem,2026-Q1,NBFCs,G,395,15,602196
+Delhi,Delhi,2025-Q2,NBFCs,G,125,4,119692
+Delhi,Delhi,2025-Q3,NBFCs,G,785,25,119692
+Delhi,Delhi,2025-Q4,NBFCs,G,585,43,119692
+Delhi,Delhi,2026-Q1,NBFCs,G,145,5,119692
+West Bengal,South 24 Parganas,2025-Q2,NBFCs,G,505,16,706054
+West Bengal,South 24 Parganas,2025-Q3,NBFCs,G,326,15,706054
+West Bengal,South 24 Parganas,2025-Q4,NBFCs,G,672,51,706054
+West Bengal,South 24 Parganas,2026-Q1,NBFCs,G,371,22,706054
+West Bengal,Paschim Bardhaman,2025-Q2,NBFCs,G,109,6,706299
+West Bengal,Paschim Bardhaman,2025-Q3,NBFCs,G,307,11,706299
+West Bengal,Paschim Bardhaman,2025-Q4,NBFCs,G,235,18,706299
+West Bengal,Paschim Bardhaman,2026-Q1,NBFCs,G,327,12,706299
+Uttar Pradesh,Ghaziabad,2025-Q2,NBFCs,G,379,23,204707
+Uttar Pradesh,Ghaziabad,2025-Q3,NBFCs,G,486,19,204707
+Uttar Pradesh,Ghaziabad,2025-Q4,NBFCs,G,601,27,204707
+Uttar Pradesh,Ghaziabad,2026-Q1,NBFCs,G,753,24,204707
+Delhi,Delhi,2025-Q2,NBFCs,G,207,9,116708
+Delhi,Delhi,2025-Q3,NBFCs,G,488,21,116708
+Delhi,Delhi,2025-Q4,NBFCs,G,518,34,116708
+Delhi,Delhi,2026-Q1,NBFCs,G,640,41,116708
+Telangana,Ranga Reddy,2025-Q2,NBFCs,G,724,48,504106
+Telangana,Ranga Reddy,2025-Q3,NBFCs,G,790,58,504106
+Telangana,Ranga Reddy,2025-Q4,NBFCs,G,297,23,504106
+Telangana,Ranga Reddy,2026-Q1,NBFCs,G,233,12,504106
+Rajasthan,Jaipur,2025-Q2,NBFCs,G,638,28,303610
+Rajasthan,Jaipur,2025-Q3,NBFCs,G,739,57,303610
+Rajasthan,Jaipur,2025-Q4,NBFCs,G,523,21,303610
+Rajasthan,Jaipur,2026-Q1,NBFCs,G,468,23,303610
+Uttar Pradesh,Meerut,2025-Q2,NBFCs,G,169,6,201275
+Uttar Pradesh,Meerut,2025-Q3,NBFCs,G,773,46,201275
+Uttar Pradesh,Meerut,2025-Q4,NBFCs,G,680,48,201275
+Uttar Pradesh,Meerut,2026-Q1,NBFCs,G,368,28,201275
+Madhya Pradesh,Sagar,2025-Q2,NBFCs,G,232,11,466701
+Madhya Pradesh,Sagar,2025-Q3,NBFCs,G,444,26,466701
+Madhya Pradesh,Sagar,2025-Q4,NBFCs,G,342,26,466701
+Madhya Pradesh,Sagar,2026-Q1,NBFCs,G,185,13,466701
+Rajasthan,Kota,2025-Q2,NBFCs,G,682,45,305449
+Rajasthan,Kota,2025-Q3,NBFCs,G,159,7,305449
+Rajasthan,Kota,2025-Q4,NBFCs,G,738,54,305449
+Rajasthan,Kota,2026-Q1,NBFCs,G,362,17,305449
+Madhya Pradesh,Ujjain,2025-Q2,NBFCs,G,366,17,462642
+Madhya Pradesh,Ujjain,2025-Q3,NBFCs,G,172,5,462642
+Madhya Pradesh,Ujjain,2025-Q4,NBFCs,G,138,9,462642
+Madhya Pradesh,Ujjain,2026-Q1,NBFCs,G,309,17,462642
+West Bengal,Kolkata,2025-Q2,NBFCs,G,174,7,708406
+West Bengal,Kolkata,2025-Q3,NBFCs,G,750,39,708406
+West Bengal,Kolkata,2025-Q4,NBFCs,G,394,30,708406
+West Bengal,Kolkata,2026-Q1,NBFCs,G,168,6,708406
+Karnataka,Shivamogga,2025-Q2,NBFCs,G,134,6,561100
+Karnataka,Shivamogga,2025-Q3,NBFCs,G,654,35,561100
+Karnataka,Shivamogga,2025-Q4,NBFCs,G,582,28,561100
+Karnataka,Shivamogga,2026-Q1,NBFCs,G,182,6,561100
+Maharashtra,Nashik,2025-Q2,NBFCs,G,421,19,408071
+Maharashtra,Nashik,2025-Q3,NBFCs,G,455,29,408071
+Maharashtra,Nashik,2025-Q4,NBFCs,G,439,29,408071
+Maharashtra,Nashik,2026-Q1,NBFCs,G,629,31,408071
+Tamil Nadu,Coimbatore,2025-Q2,NBFCs,G,732,24,603709
+Tamil Nadu,Coimbatore,2025-Q3,NBFCs,G,758,35,603709
+Tamil Nadu,Coimbatore,2025-Q4,NBFCs,G,372,16,603709
+Tamil Nadu,Coimbatore,2026-Q1,NBFCs,G,196,10,603709
+Maharashtra,Aurangabad,2025-Q2,NBFCs,G,609,25,407271
+Maharashtra,Aurangabad,2025-Q3,NBFCs,G,247,15,407271
+Maharashtra,Aurangabad,2025-Q4,NBFCs,G,760,38,407271
+Maharashtra,Aurangabad,2026-Q1,NBFCs,G,687,49,407271
+West Bengal,Kolkata,2025-Q2,NBFCs,G,357,23,707224
+West Bengal,Kolkata,2025-Q3,NBFCs,G,761,42,707224
+West Bengal,Kolkata,2025-Q4,NBFCs,G,346,16,707224
+West Bengal,Kolkata,2026-Q1,NBFCs,G,637,50,707224
+Delhi,Delhi,2025-Q2,NBFCs,G,184,10,116468
+Delhi,Delhi,2025-Q3,NBFCs,G,473,29,116468
+Delhi,Delhi,2025-Q4,NBFCs,G,155,7,116468
+Delhi,Delhi,2026-Q1,NBFCs,G,594,19,116468
+Gujarat,Gandhinagar,2025-Q2,NBFCs,G,107,7,384201
+Gujarat,Gandhinagar,2025-Q3,NBFCs,G,557,28,384201
+Gujarat,Gandhinagar,2025-Q4,NBFCs,G,573,42,384201
+Gujarat,Gandhinagar,2026-Q1,NBFCs,G,274,13,384201
+Delhi,Delhi,2025-Q2,NBFCs,G,571,41,113582
+Delhi,Delhi,2025-Q3,NBFCs,G,414,17,113582
+Delhi,Delhi,2025-Q4,NBFCs,G,339,13,113582
+Delhi,Delhi,2026-Q1,NBFCs,G,504,34,113582

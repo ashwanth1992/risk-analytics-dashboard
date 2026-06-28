@@ -1,0 +1,6 @@
+state,data_district,suggested_geo_district,similarity,leads,action
+Delhi,East Delhi,Delhi,0.667,94,"Add  ""East Delhi"": ""Delhi""  to district_mapping if correct"
+Delhi,New Delhi,Delhi,0.714,53,"Add  ""New Delhi"": ""Delhi""  to district_mapping if correct"
+Delhi,West Delhi,Delhi,0.667,87,"Add  ""West Delhi"": ""Delhi""  to district_mapping if correct"
+Karnataka,Mangaluru,Bengaluru Urban,0.778,65,"Add  ""Mangaluru"": ""Bengaluru Urban""  to district_mapping if correct"
+Telangana,Medchal,Medak,0.667,114,"Add  ""Medchal"": ""Medak""  to district_mapping if correct"

@@ -1,0 +1,20 @@
+# Real data files — never commit
+Fidora_*.xlsx
+Market_Data_*.csv
+D1_Tracker - raw_data.csv
+*raw_data.csv
+rde_summary_*.xlsx
+Recommendations_*.xlsx
+Credit Tracker*.csv
+Pincode Mapping*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
