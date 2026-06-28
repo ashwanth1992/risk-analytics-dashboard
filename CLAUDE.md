@@ -11,11 +11,11 @@ A 3-layer data pipeline that transforms raw lending portfolio data (Excel/CSV) i
 Only `build_dashboard.py` is needed for UI/template-only changes. Run both only when raw data or processing logic changes.
 
 ```powershell
-# Step 1: Process raw data â†’ JSON payload (~1â€“5 min, 23 MB output)
+# Step 1: Process raw data → JSON payload (~1–5 min, 23 MB output)
 # Only needed when source files (portfolio risk Excel, D1 tracker, etc.) or process_data.py logic change
 python process_data.py
 
-# Step 2: Inject JSON into HTML template â†’ final dashboard (~5 sec, 46.8 MB output)
+# Step 2: Inject JSON into HTML template → final dashboard (~5 sec, 46.8 MB output)
 # Needed for any dashboard_template.html change (JS, CSS, HTML)
 python build_dashboard.py
 
@@ -38,17 +38,17 @@ python build_dashboard.py --data pipeline_output.json --template dashboard_templ
 
 ```
 [Raw Data Files]
-  portfolio_risk_data.xlsx               â€” primary risk portfolio
-  D1_Tracker - raw_data.csv     (29 MB)  â€” disbursement tracking
-  Market_Data_3.csv            (186 MB)  â€” bureau overlay
-  Market_Data_4_PL.csv         (202 MB)  â€” P&L market data
-  Credit Tracker CSV            (16 MB)  â€” rejection analysis
-  Pincode Mapping CSV            (1.7 MB) â€” delinquency classification
-  Full_India_pincodes...xlsx     (1.1 MB) â€” lat/long coordinates
-  reference/india_states.geojson           (3.8 MB) â€” state boundary polygons
+  portfolio_risk_data.xlsx               — primary risk portfolio
+  D1_Tracker - raw_data.csv     (29 MB)  — disbursement tracking
+  Market_Data_3.csv            (186 MB)  — bureau overlay
+  Market_Data_4_PL.csv         (202 MB)  — P&L market data
+  Credit Tracker CSV            (16 MB)  — rejection analysis
+  Pincode Mapping CSV            (1.7 MB) — delinquency classification
+  Full_India_pincodes...xlsx     (1.1 MB) — lat/long coordinates
+  reference/india_states.geojson           (3.8 MB) — state boundary polygons
          â”‚
          â–¼
-  process_data.py  â†’ pipeline_output.json (23 MB)
+  process_data.py  → pipeline_output.json (23 MB)
          â”‚
          â–¼
   build_dashboard.py + dashboard_template.html
@@ -57,20 +57,20 @@ python build_dashboard.py --data pipeline_output.json --template dashboard_templ
   demo/dashboard.html (46.8 MB)
 ```
 
-### Layer 1 & 2 â€” `process_data.py`
+### Layer 1 & 2 — `process_data.py`
 
 The `DataEngine` class orchestrates all processing via a `run()` method that calls these stages in order:
 
 | Method | Output attribute | Purpose |
 |--------|-----------------|---------|
 | `_load_and_clean()` | `self.df` | Load Excel, rename columns, normalize state/district names |
-| `_aggregate_data()` | `self.port_stats`, `self.region_data` | Roll up bad rates by risk tier â†’ state â†’ district â†’ month |
+| `_aggregate_data()` | `self.port_stats`, `self.region_data` | Roll up bad rates by risk tier → state → district → month |
 | `_load_bureau_data()` | `self.bureau_data`, `self.bureau_pincode_data` | Market delinquency rates by state/district/quarter/trade-size slice |
 | `_load_ats_data()` | `self.ats_data` | Mean loan amount per risk tier from D1 tracker (ATS date window). Filters: `prospect_stage == "Disbursed"` and `source != "tp_form"` applied before date window. |
-| `_build_monthly_disbursal_base()` | `self.monthly_disbursal_base` | Computes monthly disbursal run-rate (â‚¹/mo) from D1 tracker using same `prospect_stage`/`source` filters. Window controlled by `disbursal_base_window` config ("ats" or "d1"). Used as denominator for "% of monthly disbursals" in the dashboard HUD. |
+| `_build_monthly_disbursal_base()` | `self.monthly_disbursal_base` | Computes monthly disbursal run-rate (₹/mo) from D1 tracker using same `prospect_stage`/`source` filters. Window controlled by `disbursal_base_window` config ("ats" or "d1"). Used as denominator for "% of monthly disbursals" in the dashboard HUD. |
 | `_build_d1_pincode_volume()` | `self.d1_pincode_volume` | Monthly disbursed count per pincode Ã— tier (D1 date window) |
 | `_build_corridor_d1_volume()` | `self.corridor_d1_volume` | Monthly disbursed count per migration corridor Ã— tier |
-| `_process_corridors()` | `self.corridor_data` | Inter-state migration flows (permanent state â†’ current state) |
+| `_process_corridors()` | `self.corridor_data` | Inter-state migration flows (permanent state → current state) |
 | `_load_rejection_data()` | `self.rejection_data` | Rejected applications by pincode for expansion opportunity analysis |
 | `_build_pincode_risk_data()` | `self.pincode_risk_data` | Default rates per pincode |
 | `_build_green_pincode_stats()` | `self.green_pincode_stats` | Benchmark bad rates in operationally active pincodes |
@@ -78,41 +78,41 @@ The `DataEngine` class orchestrates all processing via a `run()` method that cal
 
 Geographic normalization uses a 140+ entry alias dictionary in `_load_and_clean()`; unresolved districts fall through to `_auto_match_districts()` (fuzzy match: 82% auto-accept, 65% suggest).
 
-### Layer 3 â€” `build_dashboard.py`
+### Layer 3 — `build_dashboard.py`
 
 Reads `pipeline_output.json` and replaces 17 placeholder tokens in `dashboard_template.html`:
 
 `__PORTFOLIO_STATS__`, `__REGION_DATA__`, `__GEOJSON_DATA__`, `__BUREAU_DATA_JSON__`, `__ATS_DATA_JSON__`, `__CORRIDOR_DATA__`, `__CORRIDOR_D1_VOLUME__`, `__REJECTION_DATA__`, `__PINCODE_RISK_DATA__`, `__D1_PINCODE_VOLUME__`, `__MONTHLY_DISBURSAL_BASE__`, and 6 more.
 
-### Frontend â€” `dashboard_template.html`
+### Frontend — `dashboard_template.html`
 
 - Leaflet.js (v1.9.4) interactive map with state polygons + pincode scatter.
 - Five navigation tabs: Regions, Corridors, Expansion, Growth, Results.
 - Client-side Excel export via XLSX.js (v0.18.5).
-- No server required â€” the output HTML is fully standalone.
-- Theme: Fintech/Crypto dark gold â€” fonts: Space Grotesk (headings), DM Sans (body), JetBrains Mono (data).
+- No server required — the output HTML is fully standalone.
+- Theme: Fintech/Crypto dark gold — fonts: Space Grotesk (headings), DM Sans (body), JetBrains Mono (data).
 
 #### Key JS globals in `dashboard_template.html`
 
 | Variable | Purpose |
 |----------|---------|
 | `useD1Volume` | `true` = D1 Tracker volumes for loss; `false` = historical LEAD_ARRAY |
-| `corrPriority` | `'region'` or `'corridor'` â€” which source claims a dual-eligible lead first |
-| `showCartHighlights` | `true/false` â€” toggles polygon glow + corridor flow lines on map |
-| `cart` | `Set` of selected keys: `STATE:X`, `DIST:X:Y`, `PIN:Z`, `CORR:A â†’ B` |
+| `corrPriority` | `'region'` or `'corridor'` — which source claims a dual-eligible lead first |
+| `showCartHighlights` | `true/false` — toggles polygon glow + corridor flow lines on map |
+| `cart` | `Set` of selected keys: `STATE:X`, `DIST:X:Y`, `PIN:Z`, `CORR:A → B` |
 | `hiddenTiers` | `Set` of tier keys hidden in the pincode scatter (`safe`, `approaching`, `high`, `nodata`) |
 | `lastSimLeadResults` | Array of per-lead simulation results (1 entry per affected lead) |
 | `_d1Processed` | `Set` of `pin|tier` dedup keys already counted in current sim run |
 | `_d1ZeroPins` | `Set` of `pin|tier` combos with no D1 volume (zero-loss leads) |
-| `MONTHLY_DISBURSAL_BASE` | Pre-computed â‚¹/month disbursal run-rate from D1 tracker (injected from JSON). Denominator for the "% of monthly disbursals" label in the net impact HUD (`_updateNetPct()`). |
+| `MONTHLY_DISBURSAL_BASE` | Pre-computed ₹/month disbursal run-rate from D1 tracker (injected from JSON). Denominator for the "% of monthly disbursals" label in the net impact HUD (`_updateNetPct()`). |
 
 #### Simulation flow (`runSimulation()`)
 
 Each lead in `LEAD_ARRAY` is evaluated once:
-1. **Priority-aware classification** â€” controlled by `corrPriority`:
-   - `'region'` (default): region â†’ pincode â†’ corridor (corridor only if `maxSev === 0`)
-   - `'corridor'`: corridor â†’ region/pincode (region only if `maxSev === 0`)
-2. **Loss calculation** â€” if `useD1Volume`:
+1. **Priority-aware classification** — controlled by `corrPriority`:
+   - `'region'` (default): region → pincode → corridor (corridor only if `maxSev === 0`)
+   - `'corridor'`: corridor → region/pincode (region only if `maxSev === 0`)
+2. **Loss calculation** — if `useD1Volume`:
    - Region/pincode leads: `D1_PINCODE_VOLUME[pin][tier] Ã— ATS Ã— risk_months`, deduped by `pin|tier`
    - Corridor leads: `CORRIDOR_D1_VOLUME[ck][tier] Ã— ATS Ã— risk_months`, deduped by `ck|tier`
 3. Results written to `lastSimLeadResults` (one entry per lead, never duplicated).
@@ -129,11 +129,11 @@ Each lead in `LEAD_ARRAY` is evaluated once:
 
 Wz Rate% in the Region sheet uses district-level rate when `stopMode='district'` or `'force'`, pincode-level rate when `stopMode='pincode'`.
 
-**D1 Vol/mo (Region sheet):** summed only for tiers that contributed `loss > 0` in the simulation â€” not all four tiers unconditionally. This ensures the implied ATS (Loss / D1 Vol) is consistent with what the dashboard actually stopped.
+**D1 Vol/mo (Region sheet):** summed only for tiers that contributed `loss > 0` in the simulation — not all four tiers unconditionally. This ensures the implied ATS (Loss / D1 Vol) is consistent with what the dashboard actually stopped.
 
-#### Visual design â€” 3D effects & ambient lighting
+#### Visual design — 3D effects & ambient lighting
 
-Applied via CSS in `dashboard_template.html` (lines ~332â€“373). Do not remove these blocks when editing styles.
+Applied via CSS in `dashboard_template.html` (lines ~332–373). Do not remove these blocks when editing styles.
 
 | Effect | Selector / Rule | Description |
 |--------|----------------|-------------|
@@ -151,7 +151,7 @@ Applied via CSS in `dashboard_template.html` (lines ~332â€“373). Do not rem
 
 #### Tier legend / pincode scatter
 
-The Risk Tier legend (`#tier-legend`) only appears when a district is drilled into â€” `drawPincodesForDistrict()` shows it, `clearPincodeView()` and the back-to-country reset hide it. Chips filter pincode dot visibility via `toggleTierFilter()`.
+The Risk Tier legend (`#tier-legend`) only appears when a district is drilled into — `drawPincodesForDistrict()` shows it, `clearPincodeView()` and the back-to-country reset hide it. Chips filter pincode dot visibility via `toggleTierFilter()`.
 
 ## Verification Scripts
 
@@ -166,7 +166,7 @@ python verify_volume.py --corridor "Maharashtra -> Gujarat"
 ### `verify_dedup.py`
 Two-layer check:
 1. **Lead-level**: Checks LEAD_ARRAY for duplicate IDs.
-2. **Volume-level**: Identifies D1 disbursals that appear in both `D1_PINCODE_VOLUME` and `CORRIDOR_D1_VOLUME` (inter-state disbursals). These only cause financial double-counting if both a region AND overlapping corridor are selected simultaneously â€” the JS `maxSev===0` guard prevents lead-level double-counting.
+2. **Volume-level**: Identifies D1 disbursals that appear in both `D1_PINCODE_VOLUME` and `CORRIDOR_D1_VOLUME` (inter-state disbursals). These only cause financial double-counting if both a region AND overlapping corridor are selected simultaneously — the JS `maxSev===0` guard prevents lead-level double-counting.
 ```powershell
 python verify_dedup.py
 python verify_dedup.py --corridor "Uttar Pradesh -> Haryana"
@@ -177,7 +177,7 @@ Classifies districts as red_nonop/red_op/green and cross-checks D1-based monthly
 
 ## Configuration (`Phase2Config` in `process_data.py`)
 
-All tunable parameters live in this single dataclass. Update here â€” not in processing logic â€” when input files change.
+All tunable parameters live in this single dataclass. Update here — not in processing logic — when input files change.
 
 | Parameter | Purpose |
 |-----------|---------|
@@ -190,7 +190,7 @@ All tunable parameters live in this single dataclass. Update here â€” not i
 | `auto_match_threshold` (0.82) | Fuzzy match threshold for automatic district name acceptance |
 | `suggest_threshold` (0.65) | Lower threshold for generating manual-review suggestions |
 | Column name mappings | 78+ field mappings from raw CSV/Excel headers to internal names |
-| District aliases | Canonical name overrides (e.g., `"Bangalore"` â†’ `"Bengaluru Urban"`) |
+| District aliases | Canonical name overrides (e.g., `"Bangalore"` → `"Bengaluru Urban"`) |
 | `rejection_file` / filter fields | 5-step filter chain to isolate policy-rejected applications |
 | `pin_map_type_val` / `pin_map_green_val` | Selectors for red vs. green pincodes from the mapping CSV |
 
@@ -202,7 +202,7 @@ All tunable parameters live in this single dataclass. Update here â€” not i
 | `demo/district_suggestions.csv` | Districts requiring manual review |
 | `demo/unmapped_districts_*.csv` | Completely unmatched districts |
 
-Review these CSVs after running `process_data.py` whenever input data changes â€” unmatched districts silently drop from the map.
+Review these CSVs after running `process_data.py` whenever input data changes — unmatched districts silently drop from the map.
 
 ## Dependencies
 
