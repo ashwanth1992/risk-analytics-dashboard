@@ -9,9 +9,9 @@ Usage:
 
 Output:
     sample_data/portfolio_risk_data.xlsx
-    sample_data/d1_tracker.csv
-    sample_data/market_data.csv
-    sample_data/credit_tracker.csv
+    sample_data/disbursement_tracker.csv
+    sample_data/bureau_market_data.csv
+    sample_data/application_rejections.csv
     sample_data/pincode_mapping.csv
 """
 
@@ -191,8 +191,8 @@ def gen_d1_tracker(pins: list[dict], n: int = 3000):
         })
 
     df = pd.DataFrame(rows)
-    df.to_csv(OUT / "d1_tracker.csv", index=False)
-    print(f"  [ok]d1_tracker.csv — {len(df):,} rows")
+    df.to_csv(OUT / "disbursement_tracker.csv", index=False)
+    print(f"  [ok]disbursement_tracker.csv — {len(df):,} rows")
 
 
 # ── 3. Bureau / market data ───────────────────────────────────────────────────
@@ -247,8 +247,8 @@ def gen_market_data(pins: list[dict]):
             })
 
     df = pd.DataFrame(rows)
-    df.to_csv(OUT / "market_data.csv", index=False)
-    print(f"  [ok]market_data.csv — {len(df):,} rows")
+    df.to_csv(OUT / "bureau_market_data.csv", index=False)
+    print(f"  [ok]bureau_market_data.csv — {len(df):,} rows")
 
 
 # ── 4. Credit tracker (rejections) ───────────────────────────────────────────
@@ -287,8 +287,8 @@ def gen_credit_tracker(pins: list[dict], n: int = 900):
         })
 
     df = pd.DataFrame(rows)
-    df.to_csv(OUT / "credit_tracker.csv", index=False)
-    print(f"  [ok]credit_tracker.csv — {len(df):,} rows")
+    df.to_csv(OUT / "application_rejections.csv", index=False)
+    print(f"  [ok]application_rejections.csv — {len(df):,} rows")
 
 
 # ── 5. Pincode mapping ────────────────────────────────────────────────────────
@@ -334,4 +334,4 @@ if __name__ == "__main__":
     gen_credit_tracker(pins)
     gen_pincode_mapping(pins)
     print(f"\nDone. Files written to ./{OUT}/")
-    print("Next: python engine_data.py")
+    print("Next: python process_data.py")

@@ -1,6 +1,6 @@
 """
-engine_data.py — Layer 1+2: All data processing → dashboard_data.json
-Run this when source data changes. engine_inject.py reads the JSON for fast UI rebuilds.
+process_data.py — Layer 1+2: All data processing → pipeline_output.json
+Run this when source data changes. build_dashboard.py reads the JSON for fast UI rebuilds.
 """
 
 import pandas as pd
@@ -14,16 +14,16 @@ import calendar
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s', datefmt="%H:%M:%S")
 logger = logging.getLogger("DataEngine")
 
-DATA_OUTPUT = Path("dashboard_data.json")
+DATA_OUTPUT = Path("pipeline_output.json")
 
 
 @dataclass
 class Phase2Config:
     input_excel: Path = Path("sample_data/portfolio_risk_data.xlsx")
     sheet_name: str = "Base_Data"
-    geojson_path: Path = Path("india_states.geojson")
-    template_path: Path = Path("template_Finalized.html")
-    output_dir: Path = Path("Dashboard_Build")
+    geojson_path: Path = Path("reference/india_states.geojson")
+    template_path: Path = Path("dashboard_template.html")
+    output_dir: Path = Path("demo")
     output_filename: str = "Phase2_Dashboard_Finalized.html"
     month_col: str = "FEMI"
     state_col: str = "Current Address State"
@@ -38,8 +38,8 @@ class Phase2Config:
     loan_amt_col: str = "Disbursed Loan Amt"
     lead_id_col: str = "Lead_ID"
     pincode_col: str = "mx_current_address_zip"
-    bureau_files: list = field(default_factory=lambda: ["sample_data/market_data.csv"])
-    ats_file: Path = Path("sample_data/d1_tracker.csv")
+    bureau_files: list = field(default_factory=lambda: ["sample_data/bureau_market_data.csv"])
+    ats_file: Path = Path("sample_data/disbursement_tracker.csv")
     ats_substage_col: str = "mx_lead_substage"
     ats_substage_value: str = "Disbursed"
     ats_disbursal_date_col: str = "mx_lender_disbursal_date"
@@ -61,7 +61,7 @@ class Phase2Config:
     d1_curr_state_col: str = "Curr Address State"
     ats_window_months: int = 4
     ats_window_label: str = "Jan 2026 – Apr 2026"
-    rejection_file: Path = Path("sample_data/credit_tracker.csv")
+    rejection_file: Path = Path("sample_data/application_rejections.csv")
     rej_stage_col: str    = "prospect_stage"
     rej_stage_val: str    = "CA - Screening Reject"
     rej_substage_col: str = "mx_lead_substage"
@@ -80,7 +80,7 @@ class Phase2Config:
     pin_map_type_val:    str  = "Delinquency"
     pin_map_green_col:   str  = "New Pincode Mapping (Cr Add)"
     pin_map_green_val:   str  = "Green"
-    pincode_coord_file: Path = Path("Full_India_pincodes_with_lat_long.xlsx")
+    pincode_coord_file: Path = Path("reference/india_pincode_coords.xlsx")
     coord_pin_col: str = "Pincode"
     auto_match_threshold: float = 0.82
     suggest_threshold: float = 0.65

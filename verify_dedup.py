@@ -1,5 +1,5 @@
 """
-Verify_Dedup.py — Verifies that no D1 disbursal is double-counted across
+verify_dedup.py — Verifies that no disbursement is double-counted across
 region and corridor loss calculations.
 
 Two layers of checking:

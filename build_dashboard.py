@@ -1,12 +1,12 @@
 """
-engine_inject.py — Layer 3: dashboard_data.json → final HTML dashboard
+build_dashboard.py — Layer 3: pipeline_output.json → final HTML dashboard
 Run this for any UI/template-only changes. Typical runtime: 2-5 seconds.
 
 Usage:
-    python engine_inject.py                          # uses defaults
-    python engine_inject.py --data my_data.json      # custom data file
-    python engine_inject.py --template my_tmpl.html  # custom template
-    python engine_inject.py --out output/dash.html   # custom output path
+    python build_dashboard.py                          # uses defaults
+    python build_dashboard.py --data my_data.json      # custom data file
+    python build_dashboard.py --template my_tmpl.html  # custom template
+    python build_dashboard.py --out output/dash.html   # custom output path
 """
 
 import json
@@ -19,10 +19,10 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(me
 logger = logging.getLogger("Inject")
 
 # ── DEFAULTS ────────────────────────────────────────────────────────────────
-DEFAULT_DATA     = Path("dashboard_data.json")
-DEFAULT_TEMPLATE = Path("template_Finalized.html")
-DEFAULT_OUT_DIR  = Path("Dashboard_Build")
-DEFAULT_OUT_NAME = "Phase3_Dashboard_Finalized.html"
+DEFAULT_DATA     = Path("pipeline_output.json")
+DEFAULT_TEMPLATE = Path("dashboard_template.html")
+DEFAULT_OUT_DIR  = Path("demo")
+DEFAULT_OUT_NAME = "dashboard.html"
 
 # Mapping: placeholder token → key in dashboard_data.json
 # GEOJSON_DATA is a raw string (not JSON-encoded twice); everything else gets json.dumps()
@@ -53,8 +53,8 @@ def inject(data_path: Path, template_path: Path, out_path: Path) -> None:
     # ── load data ───────────────────────────────────────────────────────────
     if not data_path.exists():
         raise FileNotFoundError(
-            f"dashboard_data.json not found at {data_path.resolve()}\n"
-            "Run engine_data.py first to generate it."
+            f"pipeline_output.json not found at {data_path.resolve()}\n"
+            "Run process_data.py first to generate it."
         )
     logger.info(f"Loading {data_path} …")
     with open(data_path, 'r', encoding='utf-8') as f:
@@ -88,9 +88,9 @@ def inject(data_path: Path, template_path: Path, out_path: Path) -> None:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Inject dashboard_data.json into HTML template")
+    parser = argparse.ArgumentParser(description="Inject pipeline_output.json into HTML template")
     parser.add_argument("--data",     type=Path, default=DEFAULT_DATA,
-                        help=f"Path to dashboard_data.json (default: {DEFAULT_DATA})")
+                        help=f"Path to pipeline_output.json (default: {DEFAULT_DATA})")
     parser.add_argument("--template", type=Path, default=DEFAULT_TEMPLATE,
                         help=f"Path to HTML template (default: {DEFAULT_TEMPLATE})")
     parser.add_argument("--out",      type=Path, default=DEFAULT_OUT_DIR / DEFAULT_OUT_NAME,

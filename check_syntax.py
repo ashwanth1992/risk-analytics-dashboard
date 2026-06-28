@@ -1,6 +1,6 @@
 import re
 
-with open(r'template_Finalized.html', encoding='utf-8') as f:
+with open(r'dashboard_template.html', encoding='utf-8') as f:
     html = f.read()
 
 lines = html.split('\n')

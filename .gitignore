@@ -1,12 +1,14 @@
 # Real data files — never commit
 Fidora_*.xlsx
 Market_Data_*.csv
-D1_Tracker - raw_data.csv
 *raw_data.csv
 rde_summary_*.xlsx
 Recommendations_*.xlsx
-Credit Tracker*.csv
-Pincode Mapping*.csv
+
+# Pipeline diagnostic outputs (generated, not useful in repo)
+demo/auto_matched_districts.csv
+demo/district_suggestions.csv
+demo/unmapped_districts_*.csv
 
 # Python
 __pycache__/

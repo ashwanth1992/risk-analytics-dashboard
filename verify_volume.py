@@ -1,7 +1,7 @@
 """
-Verify_D1.py — Cross-checks D1_PINCODE_VOLUME and CORRIDOR_D1_VOLUME stored in
-dashboard_data.json against the raw D1_Tracker CSV, using the exact same pipeline
-logic as engine_data.py.
+verify_volume.py — Cross-checks D1_PINCODE_VOLUME and CORRIDOR_D1_VOLUME stored in
+pipeline_output.json against the raw disbursement tracker CSV, using the exact same
+pipeline logic as process_data.py.
 
 Three verification sections:
   1. PINCODE VOLUME  — re-computes monthly count per (pin, tier) and compares to JSON
