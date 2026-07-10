@@ -1,901 +1,901 @@
 prospect_stage,mx_lead_substage,primary_rejection_reason,stc_timestamp,mx_risk_category,mx_current_address_zip,STC
-Ops Check,Income not verified,Income criteria not met,07-03-2026,High,569346,True
-CA - Screening Reject,Other,Existing obligations,12-03-2026,High,111659,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,30-03-2026,Very High,467173,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,15-04-2026,High,389697,True
-CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,Medium,406539,True
-CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,High,114824,True
-CA - Screening Reject,Policy norms not met,Pincode not present,24-04-2026,Very High,505961,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,11-03-2026,Medium,304460,True
-CA - Screening Reject,Policy norms not met,Negative Location,17-04-2026,High,201243,False
-CA - Screening Reject,Other,Existing obligations,19-03-2026,High,383344,True
-Ops Check,Income not verified,Existing obligations,19-03-2026,High,501907,True
-Credit Review,Other,Existing obligations,17-03-2026,High,406947,False
-CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,High,607906,False
-CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,Very High,302684,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,Very High,469092,True
-CA - Screening Reject,Policy norms not met,Pincode not present,25-04-2026,Very High,461742,True
-CA - Screening Reject,Policy norms not met,Pincode not present,23-03-2026,High,389837,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,08-04-2026,Medium,114954,True
-CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,Very High,386439,True
-Credit Review,Policy norms not met,Income criteria not met,26-03-2026,Medium,303578,True
-CA - Screening Reject,Policy norms not met,Negative Location,20-03-2026,High,502946,False
-CA - Screening Reject,Policy norms not met,Negative Location,01-04-2026,High,301897,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-04-2026,Medium,116325,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,Very High,702337,True
-Ops Check,Other,Income criteria not met,18-03-2026,High,567311,True
-CA - Screening Reject,Other,Age criteria,26-03-2026,High,384289,True
-CA - Screening Reject,Policy norms not met,Pincode not present,28-03-2026,High,705670,False
-Credit Review,Policy norms not met,Bureau score low,25-04-2026,High,601090,True
-CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,465470,True
-CA - Screening Reject,Other,Age criteria,13-03-2026,Medium,117971,True
-CA - Screening Reject,Policy norms not met,Pincode not present,15-04-2026,Very High,609837,True
-CA - Screening Reject,Income not verified,Income criteria not met,01-04-2026,High,401964,True
-Ops Check,Other,Income criteria not met,05-04-2026,Medium,503526,False
-CA - Screening Reject,Policy norms not met,Negative Location,29-04-2026,Very High,303317,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,02-04-2026,Medium,306179,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-03-2026,Medium,115786,True
-CA - Screening Reject,Policy norms not met,Negative Location,05-03-2026,Medium,116700,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-04-2026,High,404119,True
-CA - Screening Reject,Policy norms not met,Negative Location,09-04-2026,High,119431,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,19-03-2026,Very High,381042,True
-CA - Screening Reject,Policy norms not met,Negative Location,24-03-2026,High,502412,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,24-03-2026,Very High,116927,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,High,401525,False
-CA - Screening Reject,Policy norms not met,Bureau score low,08-04-2026,Medium,567211,True
-CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,509476,True
-Ops Check,Income not verified,Bureau score low,10-04-2026,High,404006,True
-CA - Screening Reject,Policy norms not met,Negative Location,25-03-2026,High,565065,False
-CA - Screening Reject,Policy norms not met,Negative Location,31-03-2026,High,116403,False
-Ops Check,Income not verified,Age criteria,02-04-2026,High,563900,True
-Credit Review,Other,Bureau score low,13-03-2026,Very High,385097,False
-CA - Screening Reject,Policy norms not met,Negative Location,18-03-2026,Medium,305475,True
-Credit Review,Policy norms not met,Income criteria not met,01-04-2026,High,113330,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,23-03-2026,High,709618,True
-CA - Screening Reject,Policy norms not met,Pincode not present,17-03-2026,High,505496,True
-CA - Screening Reject,Policy norms not met,Income criteria not met,02-03-2026,Very High,562697,False
-Credit Review,Income not verified,Bureau score low,28-04-2026,High,387730,False
-CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,High,403591,False
-CA - Screening Reject,Policy norms not met,Negative Location,18-04-2026,High,466301,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,16-04-2026,High,567888,True
-Ops Check,Policy norms not met,Existing obligations,17-04-2026,Very High,568711,True
-Credit Review,Other,Existing obligations,09-04-2026,Medium,569004,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-04-2026,Medium,462641,True
-CA - Screening Reject,Policy norms not met,Pincode not present,27-03-2026,High,702816,True
-Credit Review,Policy norms not met,Age criteria,27-04-2026,Very High,505949,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,09-03-2026,Very High,468487,True
-CA - Screening Reject,Policy norms not met,Negative Location,28-04-2026,High,207686,False
-CA - Screening Reject,Policy norms not met,Pincode not present,14-03-2026,Medium,382924,True
-CA - Screening Reject,Policy norms not met,Negative Location,24-04-2026,High,505264,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,04-04-2026,Medium,608532,True
-CA - Screening Reject,Policy norms not met,Negative Location,10-04-2026,Very High,384696,False
-CA - Screening Reject,Policy norms not met,Negative Location,21-04-2026,Medium,301932,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,24-04-2026,Very High,388692,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,30-04-2026,High,563442,False
-CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,Medium,562697,True
-CA - Screening Reject,Policy norms not met,Pincode not present,04-04-2026,Medium,306314,True
-CA - Screening Reject,Policy norms not met,Age criteria,25-03-2026,Very High,462789,True
-Ops Check,Policy norms not met,Existing obligations,07-03-2026,Medium,381224,True
-Credit Review,Policy norms not met,Existing obligations,17-03-2026,High,609817,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,26-03-2026,High,118381,True
-CA - Screening Reject,Other,Age criteria,18-03-2026,Medium,113330,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-03-2026,High,569785,True
-CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,Medium,704963,True
-CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,Medium,604185,False
-Credit Review,Income not verified,Bureau score low,27-03-2026,High,113939,True
-CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,Very High,708612,True
-CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Medium,302479,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Medium,561634,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-03-2026,Medium,564450,True
-Ops Check,Policy norms not met,Age criteria,28-04-2026,Medium,207078,False
-CA - Screening Reject,Policy norms not met,Negative Location,30-04-2026,High,383240,True
-Credit Review,Income not verified,Income criteria not met,20-04-2026,High,568239,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,21-03-2026,High,405803,False
-Ops Check,Policy norms not met,Bureau score low,02-03-2026,Medium,389955,False
-CA - Screening Reject,Policy norms not met,Pincode not present,09-04-2026,Medium,407118,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-04-2026,High,701436,False
-Ops Check,Other,Bureau score low,02-03-2026,Medium,466654,False
-CA - Screening Reject,Policy norms not met,Pincode not present,28-04-2026,High,564450,True
-Credit Review,Policy norms not met,Bureau score low,01-04-2026,High,601400,True
-CA - Screening Reject,Other,Existing obligations,28-03-2026,Very High,462845,True
-CA - Screening Reject,Policy norms not met,Negative Location,02-03-2026,Very High,708391,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,24-03-2026,Very High,604595,True
-CA - Screening Reject,Policy norms not met,Pincode not present,22-03-2026,Medium,563144,False
-CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,Very High,563442,True
-Credit Review,Other,Income criteria not met,07-03-2026,High,462294,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,04-04-2026,Medium,502215,True
-Credit Review,Income not verified,Bureau score low,08-03-2026,Medium,464310,False
-CA - Screening Reject,Policy norms not met,Negative Location,07-03-2026,Very High,306928,False
-Ops Check,Income not verified,Age criteria,13-03-2026,High,388894,True
-Ops Check,Other,Bureau score low,05-04-2026,Very High,117625,True
-Credit Review,Policy norms not met,Existing obligations,15-03-2026,Very High,209313,False
-CA - Screening Reject,Policy norms not met,Pincode not present,05-04-2026,High,406804,False
-CA - Screening Reject,Other,Age criteria,18-03-2026,High,604595,False
-CA - Screening Reject,Other,Income criteria not met,04-04-2026,Medium,702106,False
-Credit Review,Policy norms not met,Income criteria not met,16-04-2026,Medium,568238,True
-CA - Screening Reject,Other,Bureau score low,14-04-2026,High,469092,False
-CA - Screening Reject,Income not verified,Existing obligations,19-04-2026,High,604571,False
-CA - Screening Reject,Policy norms not met,Negative Location,24-04-2026,High,701436,True
-Credit Review,Income not verified,Income criteria not met,29-03-2026,High,111841,True
-Ops Check,Income not verified,Existing obligations,18-03-2026,High,707981,False
-Credit Review,Income not verified,Bureau score low,16-03-2026,Medium,113441,True
-CA - Screening Reject,Policy norms not met,Pincode not present,19-04-2026,Medium,564044,False
-CA - Screening Reject,Policy norms not met,Negative Location,09-03-2026,Very High,306401,False
-CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,High,409856,False
-CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,High,204626,False
-CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,High,563170,False
-CA - Screening Reject,Policy norms not met,Bureau score low,02-03-2026,Medium,504189,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,Very High,609728,False
-Ops Check,Income not verified,Income criteria not met,06-04-2026,Very High,114683,False
-CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,High,502929,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,18-03-2026,Very High,205951,True
-Credit Review,Other,Bureau score low,10-03-2026,High,469901,True
-Ops Check,Other,Existing obligations,03-03-2026,Medium,382646,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,02-03-2026,High,382612,False
-CA - Screening Reject,Policy norms not met,Negative Location,30-04-2026,Medium,503616,True
-CA - Screening Reject,Income not verified,Age criteria,30-03-2026,High,114777,True
-CA - Screening Reject,Policy norms not met,Negative Location,20-04-2026,High,207070,False
-Ops Check,Policy norms not met,Existing obligations,08-04-2026,Very High,307947,True
-Ops Check,Income not verified,Bureau score low,05-04-2026,High,509488,False
-CA - Screening Reject,Policy norms not met,Pincode not present,10-03-2026,Very High,385342,True
-CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,Medium,307347,True
-Credit Review,Policy norms not met,Bureau score low,30-03-2026,High,301298,True
-CA - Screening Reject,Income not verified,Existing obligations,22-04-2026,High,305961,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-04-2026,Medium,702996,True
-CA - Screening Reject,Policy norms not met,Pincode not present,03-03-2026,High,563170,False
-CA - Screening Reject,Policy norms not met,Pincode not present,08-03-2026,Medium,383344,False
-CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,High,304711,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-04-2026,Very High,301857,False
-CA - Screening Reject,Income not verified,Age criteria,18-03-2026,High,562771,True
-CA - Screening Reject,Policy norms not met,Pincode not present,20-03-2026,High,115494,True
-CA - Screening Reject,Policy norms not met,Negative Location,14-03-2026,High,609270,True
-CA - Screening Reject,Policy norms not met,Negative Location,21-04-2026,Very High,404257,True
-CA - Screening Reject,Income not verified,Bureau score low,06-04-2026,High,388222,False
-Ops Check,Other,Income criteria not met,09-03-2026,Medium,709129,False
-CA - Screening Reject,Policy norms not met,Negative Location,28-03-2026,Very High,467846,False
-CA - Screening Reject,Policy norms not met,Negative Location,29-03-2026,High,607232,True
-CA - Screening Reject,Policy norms not met,Negative Location,09-04-2026,High,504048,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,High,118827,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,02-03-2026,High,565065,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-04-2026,Medium,117770,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,Very High,407201,True
-CA - Screening Reject,Policy norms not met,Negative Location,08-03-2026,High,382233,False
-CA - Screening Reject,Policy norms not met,Age criteria,04-03-2026,High,601096,True
-CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,Very High,204538,False
-CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,High,386549,True
-CA - Screening Reject,Policy norms not met,Pincode not present,11-03-2026,High,465742,True
-Credit Review,Income not verified,Bureau score low,27-04-2026,Medium,389138,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,31-03-2026,High,306626,True
-CA - Screening Reject,Policy norms not met,Negative Location,03-03-2026,Medium,607797,True
-Credit Review,Income not verified,Bureau score low,09-04-2026,Very High,301815,False
-CA - Screening Reject,Policy norms not met,Negative Location,18-03-2026,High,703956,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,21-04-2026,Medium,308172,True
-CA - Screening Reject,Policy norms not met,Existing obligations,02-04-2026,High,116280,True
-CA - Screening Reject,Policy norms not met,Pincode not present,10-03-2026,High,601672,True
-Ops Check,Income not verified,Existing obligations,13-03-2026,Medium,389617,False
-CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,High,605050,True
-Ops Check,Policy norms not met,Existing obligations,30-04-2026,High,503616,False
-CA - Screening Reject,Policy norms not met,Pincode not present,24-03-2026,High,462789,True
-Credit Review,Income not verified,Bureau score low,12-04-2026,High,401958,True
-CA - Screening Reject,Policy norms not met,Negative Location,06-04-2026,Very High,117232,False
-CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,High,464728,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,27-04-2026,High,307947,False
-CA - Screening Reject,Policy norms not met,Existing obligations,24-03-2026,High,202786,True
-Ops Check,Income not verified,Existing obligations,16-04-2026,High,206374,True
-Credit Review,Income not verified,Income criteria not met,20-04-2026,Medium,401488,True
-Credit Review,Policy norms not met,Age criteria,09-04-2026,High,469901,False
-Credit Review,Policy norms not met,Age criteria,26-03-2026,High,708032,True
-CA - Screening Reject,Other,Age criteria,07-03-2026,Very High,609445,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Very High,408749,False
-Credit Review,Other,Income criteria not met,19-03-2026,High,308172,True
-CA - Screening Reject,Policy norms not met,Pincode not present,11-04-2026,Medium,606733,True
-Ops Check,Income not verified,Bureau score low,07-03-2026,Medium,605011,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,08-03-2026,High,118988,True
-CA - Screening Reject,Policy norms not met,Existing obligations,04-04-2026,High,604185,False
-CA - Screening Reject,Policy norms not met,Age criteria,07-04-2026,High,301897,False
-Ops Check,Policy norms not met,Income criteria not met,13-03-2026,High,566143,False
-CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,High,207523,False
-CA - Screening Reject,Policy norms not met,Bureau score low,08-03-2026,Medium,603184,False
-CA - Screening Reject,Policy norms not met,Negative Location,18-03-2026,High,207815,False
-CA - Screening Reject,Income not verified,Age criteria,30-04-2026,High,407912,True
-CA - Screening Reject,Other,Existing obligations,05-04-2026,High,469011,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,04-03-2026,High,118827,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,Medium,113444,True
-CA - Screening Reject,Policy norms not met,Negative Location,28-04-2026,Medium,387798,False
-CA - Screening Reject,Policy norms not met,Negative Location,02-03-2026,High,203972,False
-CA - Screening Reject,Policy norms not met,Pincode not present,10-03-2026,High,308682,True
-CA - Screening Reject,Policy norms not met,Bureau score low,05-04-2026,Very High,382858,False
-CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,Medium,118843,True
-CA - Screening Reject,Policy norms not met,Pincode not present,01-03-2026,Medium,407912,True
-Credit Review,Policy norms not met,Existing obligations,09-03-2026,Very High,564853,False
-Ops Check,Other,Age criteria,29-03-2026,High,305961,True
-CA - Screening Reject,Policy norms not met,Pincode not present,14-04-2026,Medium,302388,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,Very High,464050,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,High,117658,False
-CA - Screening Reject,Policy norms not met,Negative Location,15-03-2026,Medium,114545,False
-Credit Review,Income not verified,Income criteria not met,17-04-2026,Very High,608532,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,18-04-2026,Medium,306802,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,30-03-2026,Very High,608385,True
-CA - Screening Reject,Policy norms not met,Pincode not present,06-03-2026,High,308354,True
-CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,Very High,601333,False
-Ops Check,Other,Bureau score low,15-03-2026,Medium,383240,False
-CA - Screening Reject,Income not verified,Bureau score low,07-04-2026,High,201349,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,Medium,609947,True
-Credit Review,Income not verified,Bureau score low,07-04-2026,Very High,567592,True
-CA - Screening Reject,Other,Income criteria not met,27-03-2026,Medium,383361,False
-CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,Very High,607790,False
-CA - Screening Reject,Policy norms not met,Negative Location,31-03-2026,Very High,302816,False
-Credit Review,Income not verified,Existing obligations,10-04-2026,High,509148,True
-CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Medium,508710,True
-CA - Screening Reject,Other,Existing obligations,30-04-2026,Very High,208030,False
-CA - Screening Reject,Policy norms not met,Pincode not present,20-03-2026,High,119117,False
-Ops Check,Policy norms not met,Income criteria not met,02-04-2026,High,564164,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,14-04-2026,High,389617,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Very High,567658,True
-Ops Check,Income not verified,Existing obligations,04-04-2026,Very High,309691,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,08-03-2026,Medium,603506,False
-CA - Screening Reject,Policy norms not met,Existing obligations,09-04-2026,High,383725,False
-Credit Review,Income not verified,Existing obligations,13-04-2026,Very High,567691,False
-CA - Screening Reject,Policy norms not met,Pincode not present,17-04-2026,Medium,703626,True
-CA - Screening Reject,Policy norms not met,Pincode not present,31-03-2026,Medium,117594,True
-Credit Review,Policy norms not met,Age criteria,30-03-2026,High,607149,False
-CA - Screening Reject,Income not verified,Income criteria not met,12-03-2026,Medium,302288,True
-Ops Check,Other,Bureau score low,16-03-2026,High,506123,False
-Ops Check,Policy norms not met,Bureau score low,20-04-2026,High,209692,False
-CA - Screening Reject,Policy norms not met,Pincode not present,17-03-2026,High,382646,True
-CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,High,707655,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,21-03-2026,Medium,507293,False
-CA - Screening Reject,Policy norms not met,Pincode not present,31-03-2026,Very High,606733,False
-Credit Review,Policy norms not met,Existing obligations,19-03-2026,Medium,461187,True
-CA - Screening Reject,Other,Bureau score low,21-03-2026,Medium,604266,True
-Credit Review,Policy norms not met,Bureau score low,02-04-2026,High,563085,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,13-04-2026,Very High,389903,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Medium,704678,True
-Credit Review,Income not verified,Existing obligations,25-04-2026,High,702402,False
-Credit Review,Policy norms not met,Bureau score low,26-04-2026,High,114155,True
-Credit Review,Other,Bureau score low,14-04-2026,Medium,562127,True
-CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,High,307560,False
-Ops Check,Other,Bureau score low,26-03-2026,High,407216,True
-Credit Review,Other,Bureau score low,10-04-2026,High,401960,True
-Ops Check,Other,Income criteria not met,02-03-2026,Medium,385342,True
-CA - Screening Reject,Policy norms not met,Pincode not present,04-04-2026,High,465876,True
-CA - Screening Reject,Policy norms not met,Negative Location,08-03-2026,High,504866,True
-CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,High,406138,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,Medium,462789,True
-CA - Screening Reject,Policy norms not met,Pincode not present,31-03-2026,High,381472,True
-Ops Check,Income not verified,Income criteria not met,22-03-2026,High,468793,True
-CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,High,404006,False
-Credit Review,Income not verified,Age criteria,05-03-2026,Very High,503255,False
-Credit Review,Other,Age criteria,24-04-2026,High,568066,False
-CA - Screening Reject,Policy norms not met,Age criteria,30-04-2026,Medium,405889,True
-CA - Screening Reject,Policy norms not met,Pincode not present,08-03-2026,Very High,304612,True
-Ops Check,Other,Existing obligations,13-03-2026,Very High,111601,True
-Credit Review,Income not verified,Age criteria,09-03-2026,High,607547,True
-CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,Medium,407396,False
-Credit Review,Income not verified,Bureau score low,24-04-2026,Medium,562753,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,Very High,405741,False
-CA - Screening Reject,Policy norms not met,Negative Location,22-03-2026,High,702337,False
-CA - Screening Reject,Policy norms not met,Pincode not present,07-03-2026,High,383695,True
-CA - Screening Reject,Income not verified,Existing obligations,14-04-2026,High,385097,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-04-2026,High,408517,True
-CA - Screening Reject,Policy norms not met,Negative Location,30-03-2026,High,207897,True
-CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,High,709991,False
-CA - Screening Reject,Policy norms not met,Pincode not present,29-04-2026,High,563143,True
-CA - Screening Reject,Policy norms not met,Negative Location,16-04-2026,High,561727,True
-CA - Screening Reject,Other,Bureau score low,15-03-2026,Very High,302275,True
-Credit Review,Policy norms not met,Existing obligations,16-04-2026,Medium,118253,False
-Credit Review,Policy norms not met,Existing obligations,09-04-2026,Medium,304711,True
-CA - Screening Reject,Policy norms not met,Pincode not present,09-04-2026,Medium,111977,True
-Credit Review,Other,Existing obligations,07-03-2026,High,706221,True
-Credit Review,Income not verified,Existing obligations,01-03-2026,Very High,388213,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,08-04-2026,High,507825,False
-CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,High,114335,False
-Ops Check,Income not verified,Age criteria,28-04-2026,Medium,308205,False
-CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,Medium,407227,True
-Ops Check,Other,Income criteria not met,05-03-2026,High,566180,False
-CA - Screening Reject,Policy norms not met,Negative Location,04-03-2026,Very High,112317,True
-Credit Review,Income not verified,Existing obligations,11-04-2026,Very High,404582,True
-CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,Medium,119431,False
-CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,High,609540,False
-CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,High,208048,True
-CA - Screening Reject,Income not verified,Age criteria,27-04-2026,High,608777,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,High,206793,False
-CA - Screening Reject,Policy norms not met,Negative Location,02-04-2026,High,402824,True
-CA - Screening Reject,Policy norms not met,Negative Location,20-04-2026,High,701854,True
-Ops Check,Other,Bureau score low,02-04-2026,High,602983,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-04-2026,High,119779,True
-CA - Screening Reject,Income not verified,Age criteria,16-04-2026,Very High,466427,True
-CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,Medium,708355,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,31-03-2026,High,401964,True
-CA - Screening Reject,Policy norms not met,Negative Location,21-03-2026,Medium,608532,False
-CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,Medium,201243,True
-CA - Screening Reject,Other,Existing obligations,23-03-2026,High,204362,False
-CA - Screening Reject,Policy norms not met,Bureau score low,29-04-2026,Very High,409179,False
-CA - Screening Reject,Other,Income criteria not met,22-04-2026,Medium,709151,False
-Credit Review,Other,Bureau score low,18-04-2026,High,507653,False
-CA - Screening Reject,Policy norms not met,Negative Location,19-04-2026,High,401319,False
-Credit Review,Policy norms not met,Income criteria not met,13-04-2026,Very High,465911,False
-CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,High,307505,False
-CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,Very High,309624,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,27-04-2026,High,301672,False
-CA - Screening Reject,Policy norms not met,Bureau score low,31-03-2026,Very High,118613,True
-CA - Screening Reject,Policy norms not met,Negative Location,30-03-2026,High,468932,True
-CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,High,704906,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,17-03-2026,Very High,117658,True
-Credit Review,Policy norms not met,Existing obligations,04-04-2026,High,381753,True
-CA - Screening Reject,Policy norms not met,Age criteria,03-04-2026,Medium,303317,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,22-04-2026,Very High,566617,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,High,386881,True
-CA - Screening Reject,Policy norms not met,Negative Location,04-04-2026,Medium,208606,False
-CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,High,403664,True
-CA - Screening Reject,Policy norms not met,Negative Location,07-03-2026,Medium,382886,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,19-03-2026,Medium,308682,False
-CA - Screening Reject,Policy norms not met,Negative Location,29-03-2026,High,562964,False
-Ops Check,Income not verified,Bureau score low,08-03-2026,Medium,381919,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,High,405040,False
-CA - Screening Reject,Policy norms not met,Pincode not present,29-04-2026,High,201510,True
-Credit Review,Policy norms not met,Income criteria not met,01-04-2026,High,462562,True
-CA - Screening Reject,Policy norms not met,Pincode not present,04-03-2026,High,385097,True
-Credit Review,Income not verified,Bureau score low,10-03-2026,Medium,701266,True
-CA - Screening Reject,Policy norms not met,Negative Location,21-03-2026,High,116460,False
-CA - Screening Reject,Policy norms not met,Negative Location,21-03-2026,High,562964,False
-Credit Review,Policy norms not met,Bureau score low,18-03-2026,High,467464,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Medium,702816,False
-Credit Review,Policy norms not met,Age criteria,16-04-2026,High,601096,False
-Ops Check,Policy norms not met,Bureau score low,27-03-2026,High,503852,True
-Ops Check,Other,Existing obligations,02-03-2026,High,505566,False
-CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,Medium,204817,True
-CA - Screening Reject,Policy norms not met,Negative Location,14-04-2026,Very High,201510,False
-CA - Screening Reject,Policy norms not met,Pincode not present,15-03-2026,Medium,462996,True
-CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,Medium,383369,True
-CA - Screening Reject,Income not verified,Age criteria,22-03-2026,High,465676,True
-CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,Medium,463399,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,Medium,605941,True
-Ops Check,Income not verified,Income criteria not met,03-03-2026,Medium,405808,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Medium,503353,True
-CA - Screening Reject,Policy norms not met,Negative Location,04-04-2026,Very High,608657,True
-Ops Check,Income not verified,Income criteria not met,20-03-2026,Medium,306295,True
-Ops Check,Policy norms not met,Existing obligations,04-03-2026,High,464310,False
-CA - Screening Reject,Policy norms not met,Pincode not present,12-03-2026,Very High,306295,True
-CA - Screening Reject,Income not verified,Income criteria not met,30-04-2026,Medium,305961,False
-CA - Screening Reject,Policy norms not met,Pincode not present,15-04-2026,High,561651,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,14-03-2026,Medium,385781,True
-Ops Check,Other,Bureau score low,16-03-2026,High,308682,False
-Credit Review,Other,Existing obligations,15-03-2026,Medium,308242,True
-CA - Screening Reject,Policy norms not met,Existing obligations,02-03-2026,Very High,207086,False
-CA - Screening Reject,Income not verified,Income criteria not met,19-04-2026,High,503009,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,High,306179,False
-Credit Review,Policy norms not met,Existing obligations,02-04-2026,Medium,402489,False
-CA - Screening Reject,Policy norms not met,Existing obligations,21-03-2026,Medium,608206,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,25-04-2026,High,509437,False
-CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,Medium,308581,True
-Credit Review,Income not verified,Income criteria not met,17-04-2026,High,566067,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-04-2026,Medium,561452,False
-Credit Review,Other,Bureau score low,30-04-2026,Very High,382143,True
-Ops Check,Other,Existing obligations,17-04-2026,Very High,401960,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Medium,118613,True
-CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,Very High,509148,False
-CA - Screening Reject,Other,Age criteria,07-04-2026,Very High,403296,False
-CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,High,561651,False
-CA - Screening Reject,Other,Age criteria,21-04-2026,Medium,469700,True
-Ops Check,Policy norms not met,Income criteria not met,27-03-2026,Very High,606355,False
-CA - Screening Reject,Other,Bureau score low,18-04-2026,High,381919,True
-CA - Screening Reject,Policy norms not met,Negative Location,24-03-2026,Medium,389903,True
-Ops Check,Policy norms not met,Bureau score low,19-04-2026,Very High,466139,True
-CA - Screening Reject,Policy norms not met,Negative Location,01-04-2026,High,706554,False
-Credit Review,Other,Bureau score low,11-03-2026,High,705616,False
-CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,High,389955,False
-Credit Review,Policy norms not met,Existing obligations,10-03-2026,High,507095,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-04-2026,Medium,606355,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,High,566442,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,High,305128,False
-Credit Review,Policy norms not met,Income criteria not met,02-04-2026,High,308581,True
-Credit Review,Policy norms not met,Existing obligations,04-04-2026,Medium,389022,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,22-04-2026,Very High,701854,False
-CA - Screening Reject,Policy norms not met,Pincode not present,17-03-2026,High,709749,True
-Credit Review,Policy norms not met,Bureau score low,31-03-2026,High,562127,True
-CA - Screening Reject,Policy norms not met,Negative Location,28-03-2026,High,382886,True
-Credit Review,Policy norms not met,Existing obligations,14-04-2026,High,461187,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,Very High,403296,True
-CA - Screening Reject,Policy norms not met,Pincode not present,14-03-2026,High,118613,False
-CA - Screening Reject,Policy norms not met,Negative Location,28-04-2026,High,704178,True
-CA - Screening Reject,Other,Existing obligations,18-04-2026,High,608136,False
-Ops Check,Other,Existing obligations,28-03-2026,High,203290,True
-CA - Screening Reject,Policy norms not met,Negative Location,05-03-2026,Medium,306626,True
-Ops Check,Policy norms not met,Bureau score low,29-03-2026,Medium,706780,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,Very High,709647,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,30-04-2026,Very High,467567,False
-Credit Review,Income not verified,Bureau score low,09-04-2026,High,112496,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,30-04-2026,High,703626,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,30-03-2026,Medium,465706,True
-CA - Screening Reject,Policy norms not met,Negative Location,13-04-2026,Very High,565844,False
-CA - Screening Reject,Policy norms not met,Pincode not present,19-04-2026,Medium,119117,True
-Ops Check,Other,Income criteria not met,09-04-2026,Very High,502412,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,17-03-2026,High,303549,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,17-04-2026,High,404116,True
-CA - Screening Reject,Policy norms not met,Negative Location,11-03-2026,High,303419,True
-CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,Medium,509793,False
-CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,High,463837,False
-CA - Screening Reject,Policy norms not met,Negative Location,14-04-2026,High,604919,True
-CA - Screening Reject,Other,Income criteria not met,11-03-2026,High,504960,True
-CA - Screening Reject,Other,Existing obligations,06-04-2026,High,463262,True
-CA - Screening Reject,Policy norms not met,Pincode not present,14-04-2026,Medium,565333,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Medium,302391,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,Very High,565844,True
-Credit Review,Policy norms not met,Existing obligations,15-03-2026,High,703621,True
-Ops Check,Other,Bureau score low,07-03-2026,High,307626,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-03-2026,High,119042,True
-CA - Screening Reject,Income not verified,Bureau score low,08-03-2026,High,388222,True
-Ops Check,Other,Income criteria not met,17-04-2026,Medium,382646,True
-CA - Screening Reject,Policy norms not met,Negative Location,05-03-2026,High,468871,True
-CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,High,507293,False
-Credit Review,Other,Bureau score low,29-03-2026,Medium,602874,True
-CA - Screening Reject,Policy norms not met,Bureau score low,07-03-2026,High,408517,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,High,306626,True
-CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,High,307347,True
-CA - Screening Reject,Policy norms not met,Existing obligations,02-04-2026,Medium,389742,True
-CA - Screening Reject,Policy norms not met,Pincode not present,20-04-2026,Medium,409279,False
-CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,Very High,508710,True
-Ops Check,Policy norms not met,Bureau score low,27-03-2026,High,465742,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,Very High,462562,True
-Ops Check,Other,Bureau score low,03-03-2026,Very High,309312,False
-CA - Screening Reject,Income not verified,Age criteria,06-04-2026,Medium,406413,True
-CA - Screening Reject,Policy norms not met,Income criteria not met,16-03-2026,Very High,468518,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,09-03-2026,High,112958,True
-Credit Review,Income not verified,Bureau score low,20-04-2026,Very High,568007,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,17-03-2026,High,502063,False
-CA - Screening Reject,Policy norms not met,Negative Location,11-04-2026,High,118988,False
-Ops Check,Other,Existing obligations,30-03-2026,Very High,203531,False
-CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,Medium,401750,True
-CA - Screening Reject,Income not verified,Age criteria,02-03-2026,High,385835,True
-Ops Check,Income not verified,Age criteria,25-04-2026,Very High,112496,False
-Ops Check,Income not verified,Age criteria,12-04-2026,Very High,114180,True
-CA - Screening Reject,Policy norms not met,Negative Location,08-04-2026,Very High,118988,True
-Credit Review,Income not verified,Bureau score low,20-04-2026,Medium,401319,False
-CA - Screening Reject,Policy norms not met,Existing obligations,26-04-2026,Very High,118708,True
-Credit Review,Income not verified,Income criteria not met,09-03-2026,High,608564,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,High,403615,True
-CA - Screening Reject,Policy norms not met,Pincode not present,28-04-2026,High,119889,False
-CA - Screening Reject,Policy norms not met,Pincode not present,26-04-2026,Very High,114545,False
-Ops Check,Policy norms not met,Age criteria,13-04-2026,High,206942,True
-CA - Screening Reject,Policy norms not met,Pincode not present,24-03-2026,Medium,465450,True
-CA - Screening Reject,Policy norms not met,Pincode not present,25-04-2026,High,114155,False
-CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,High,466456,False
-CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,High,602193,True
-CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,High,308033,True
-CA - Screening Reject,Income not verified,Existing obligations,01-03-2026,High,114777,False
-CA - Screening Reject,Policy norms not met,Negative Location,08-03-2026,Medium,567691,True
-CA - Screening Reject,Policy norms not met,Existing obligations,15-04-2026,High,565930,False
-CA - Screening Reject,Other,Income criteria not met,12-03-2026,High,409669,True
-CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,Very High,466523,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,High,601400,True
-Credit Review,Policy norms not met,Income criteria not met,18-03-2026,High,603471,False
-CA - Screening Reject,Other,Existing obligations,06-03-2026,Very High,403724,False
-CA - Screening Reject,Policy norms not met,Pincode not present,01-03-2026,Medium,601320,True
-Credit Review,Other,Income criteria not met,20-04-2026,Medium,204830,True
-Ops Check,Other,Existing obligations,23-04-2026,Very High,383434,True
-Credit Review,Income not verified,Income criteria not met,06-04-2026,Very High,604185,True
-CA - Screening Reject,Income not verified,Income criteria not met,07-03-2026,High,384993,False
-CA - Screening Reject,Policy norms not met,Bureau score low,14-03-2026,Medium,385949,False
-Ops Check,Other,Existing obligations,29-04-2026,High,384696,True
-CA - Screening Reject,Other,Bureau score low,02-03-2026,High,506992,True
-CA - Screening Reject,Income not verified,Bureau score low,09-04-2026,Very High,409317,True
-CA - Screening Reject,Income not verified,Bureau score low,14-04-2026,High,306802,False
-CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,High,609486,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,Very High,708325,False
-Ops Check,Policy norms not met,Existing obligations,21-04-2026,Very High,607232,False
-CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,566378,False
-CA - Screening Reject,Income not verified,Bureau score low,17-04-2026,High,113444,True
-CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,High,111200,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,22-04-2026,Medium,465890,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Medium,606238,True
-CA - Screening Reject,Policy norms not met,Negative Location,26-03-2026,High,383950,False
-CA - Screening Reject,Policy norms not met,Negative Location,21-03-2026,Very High,508710,False
-CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,High,608251,True
-Ops Check,Income not verified,Age criteria,19-03-2026,High,401525,True
-CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,High,469950,True
-CA - Screening Reject,Policy norms not met,Negative Location,19-04-2026,High,702821,True
-CA - Screening Reject,Policy norms not met,Negative Location,11-03-2026,Very High,604595,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,23-03-2026,High,382143,True
-CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,Very High,405339,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,04-03-2026,High,119042,False
-CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,High,509938,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,Very High,202398,False
-CA - Screening Reject,Other,Existing obligations,23-03-2026,Very High,206400,True
-CA - Screening Reject,Income not verified,Existing obligations,14-04-2026,Medium,503513,True
-CA - Screening Reject,Policy norms not met,Pincode not present,12-04-2026,Medium,207086,False
-Credit Review,Income not verified,Existing obligations,20-04-2026,Medium,462641,True
-CA - Screening Reject,Policy norms not met,Age criteria,08-04-2026,High,301126,True
-Credit Review,Policy norms not met,Existing obligations,06-04-2026,Medium,707524,False
-Ops Check,Other,Existing obligations,16-03-2026,Medium,115820,True
-Ops Check,Policy norms not met,Bureau score low,19-03-2026,Medium,702353,True
-CA - Screening Reject,Other,Existing obligations,09-04-2026,Medium,409279,False
-CA - Screening Reject,Policy norms not met,Negative Location,04-04-2026,Medium,207078,False
-CA - Screening Reject,Other,Income criteria not met,13-03-2026,Medium,566180,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-04-2026,Medium,205176,False
-Credit Review,Policy norms not met,Existing obligations,28-04-2026,High,569518,True
-Credit Review,Income not verified,Existing obligations,06-03-2026,Medium,389318,True
-CA - Screening Reject,Policy norms not met,Pincode not present,28-03-2026,Medium,118708,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,22-04-2026,Medium,207038,True
-CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,High,567939,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-04-2026,Medium,306375,True
-Credit Review,Other,Age criteria,25-03-2026,High,565065,False
-CA - Screening Reject,Income not verified,Bureau score low,13-03-2026,Very High,604595,False
-Credit Review,Income not verified,Income criteria not met,17-03-2026,Medium,505566,False
-CA - Screening Reject,Policy norms not met,Negative Location,18-04-2026,Very High,708355,True
-CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,High,408428,True
-CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,High,568043,True
-Credit Review,Other,Age criteria,08-04-2026,Very High,707955,True
-CA - Screening Reject,Policy norms not met,Pincode not present,15-03-2026,Medium,309624,True
-CA - Screening Reject,Policy norms not met,Pincode not present,21-03-2026,Very High,605425,True
-CA - Screening Reject,Policy norms not met,Negative Location,01-04-2026,High,507114,False
-Ops Check,Policy norms not met,Bureau score low,17-04-2026,High,383695,True
-Credit Review,Other,Bureau score low,31-03-2026,High,564501,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,19-03-2026,High,402588,False
-Ops Check,Other,Bureau score low,23-04-2026,Medium,202323,False
-CA - Screening Reject,Policy norms not met,Pincode not present,09-04-2026,Medium,301897,False
-Credit Review,Other,Bureau score low,26-03-2026,Very High,408454,True
-CA - Screening Reject,Policy norms not met,Negative Location,03-04-2026,High,505982,False
-CA - Screening Reject,Policy norms not met,Negative Location,21-04-2026,High,309307,False
-CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,Very High,115066,True
-CA - Screening Reject,Income not verified,Age criteria,01-04-2026,High,302388,True
-Credit Review,Policy norms not met,Bureau score low,17-04-2026,High,113973,False
-CA - Screening Reject,Policy norms not met,Negative Location,13-04-2026,High,407930,False
-Credit Review,Income not verified,Age criteria,01-04-2026,Very High,603496,False
-Credit Review,Other,Bureau score low,30-04-2026,High,702698,True
-Credit Review,Policy norms not met,Age criteria,27-03-2026,Very High,507001,True
-CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,Medium,605082,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,Medium,207105,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,04-04-2026,High,706438,False
-CA - Screening Reject,Policy norms not met,Negative Location,10-04-2026,Medium,203290,True
-CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,Very High,509047,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,Very High,404598,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,27-03-2026,High,203347,False
-CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,Very High,389903,False
-CA - Screening Reject,Policy norms not met,Negative Location,13-03-2026,Very High,564441,True
-Credit Review,Other,Existing obligations,12-03-2026,High,464804,True
-CA - Screening Reject,Policy norms not met,Pincode not present,03-03-2026,High,461151,False
-CA - Screening Reject,Policy norms not met,Pincode not present,03-04-2026,Medium,702402,True
-Credit Review,Policy norms not met,Income criteria not met,04-03-2026,Medium,403591,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,High,305059,False
-CA - Screening Reject,Policy norms not met,Negative Location,19-03-2026,High,309586,True
-Ops Check,Policy norms not met,Existing obligations,18-04-2026,Very High,567658,False
-Ops Check,Other,Existing obligations,01-03-2026,Very High,503610,True
-Ops Check,Policy norms not met,Existing obligations,01-04-2026,Medium,507563,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-04-2026,High,609031,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,18-04-2026,Very High,468775,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-04-2026,Very High,202398,False
-Credit Review,Other,Income criteria not met,04-04-2026,Medium,203500,False
-CA - Screening Reject,Income not verified,Existing obligations,13-03-2026,Medium,709443,False
-Credit Review,Income not verified,Age criteria,14-04-2026,Medium,562753,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-03-2026,High,305128,True
-CA - Screening Reject,Policy norms not met,Pincode not present,27-03-2026,Medium,502475,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,High,702996,False
-CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,Medium,469824,False
-Credit Review,Other,Income criteria not met,16-04-2026,High,208398,False
-CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,Medium,402403,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,13-03-2026,Very High,605558,False
-CA - Screening Reject,Policy norms not met,Income criteria not met,13-03-2026,High,382858,True
-CA - Screening Reject,Policy norms not met,Pincode not present,09-04-2026,Very High,208344,True
-CA - Screening Reject,Policy norms not met,Negative Location,25-03-2026,High,469025,True
-CA - Screening Reject,Policy norms not met,Negative Location,12-04-2026,Medium,605050,True
-CA - Screening Reject,Other,Age criteria,21-04-2026,High,302275,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-04-2026,Very High,408579,False
-CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,Medium,405374,False
-Credit Review,Income not verified,Age criteria,17-03-2026,Very High,708489,True
-CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,Medium,501907,False
-CA - Screening Reject,Other,Income criteria not met,25-03-2026,High,708391,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,13-04-2026,Medium,567939,True
-CA - Screening Reject,Policy norms not met,Negative Location,26-03-2026,High,408019,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,03-03-2026,High,706908,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,14-03-2026,High,111200,False
-CA - Screening Reject,Policy norms not met,Pincode not present,02-04-2026,High,408744,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,19-03-2026,High,401711,False
-CA - Screening Reject,Policy norms not met,Age criteria,03-04-2026,Very High,566617,False
-CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,Medium,201349,True
-Credit Review,Income not verified,Bureau score low,21-04-2026,High,701717,False
-CA - Screening Reject,Other,Income criteria not met,26-03-2026,Medium,704678,True
-CA - Screening Reject,Policy norms not met,Negative Location,01-03-2026,High,508842,True
-CA - Screening Reject,Policy norms not met,Pincode not present,28-03-2026,High,505982,False
-CA - Screening Reject,Policy norms not met,Negative Location,03-04-2026,High,206793,False
-CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,High,403504,False
-CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,High,389229,True
-CA - Screening Reject,Policy norms not met,Pincode not present,04-03-2026,High,386439,False
-CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,High,404119,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-04-2026,Medium,382646,True
-Ops Check,Income not verified,Income criteria not met,28-03-2026,Medium,503194,False
-CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,Medium,304770,True
-CA - Screening Reject,Policy norms not met,Bureau score low,19-04-2026,Medium,464396,True
-CA - Screening Reject,Policy norms not met,Negative Location,03-03-2026,High,387246,False
-Ops Check,Policy norms not met,Existing obligations,22-04-2026,High,207992,False
-CA - Screening Reject,Policy norms not met,Pincode not present,02-04-2026,Medium,115728,False
-CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,High,309725,True
-CA - Screening Reject,Policy norms not met,Negative Location,14-04-2026,Medium,565533,True
-CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,Very High,705155,False
-CA - Screening Reject,Policy norms not met,Pincode not present,20-04-2026,High,206876,True
-CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,Medium,117971,True
-CA - Screening Reject,Other,Age criteria,06-04-2026,High,703868,True
-Ops Check,Other,Bureau score low,26-04-2026,High,404770,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,Medium,383529,True
-CA - Screening Reject,Policy norms not met,Negative Location,01-04-2026,High,309095,True
-CA - Screening Reject,Income not verified,Income criteria not met,18-04-2026,Very High,465876,True
-Credit Review,Policy norms not met,Existing obligations,26-04-2026,High,307333,True
-Ops Check,Other,Bureau score low,19-04-2026,High,401319,True
-CA - Screening Reject,Policy norms not met,Negative Location,15-03-2026,High,708170,True
-CA - Screening Reject,Policy norms not met,Age criteria,14-03-2026,Very High,302479,True
-CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,Very High,567888,True
-CA - Screening Reject,Policy norms not met,Pincode not present,18-03-2026,High,561158,True
-CA - Screening Reject,Policy norms not met,Negative Location,14-04-2026,Medium,204626,False
-Ops Check,Income not verified,Bureau score low,27-03-2026,Very High,563144,True
-CA - Screening Reject,Policy norms not met,Pincode not present,28-04-2026,Medium,607883,False
-CA - Screening Reject,Policy norms not met,Negative Location,28-04-2026,Very High,401821,True
-Credit Review,Income not verified,Income criteria not met,11-03-2026,High,705616,True
-CA - Screening Reject,Policy norms not met,Negative Location,01-04-2026,High,381042,False
-CA - Screening Reject,Policy norms not met,Pincode not present,18-04-2026,Very High,114033,True
-CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,High,565573,True
-CA - Screening Reject,Policy norms not met,Pincode not present,02-04-2026,Medium,702698,True
-CA - Screening Reject,Policy norms not met,Pincode not present,23-04-2026,High,709618,True
-CA - Screening Reject,Policy norms not met,Negative Location,13-03-2026,Very High,203417,True
-CA - Screening Reject,Other,Income criteria not met,27-04-2026,Very High,607232,True
-Ops Check,Other,Existing obligations,11-03-2026,High,469092,False
-Ops Check,Other,Income criteria not met,09-03-2026,High,383950,True
-CA - Screening Reject,Policy norms not met,Pincode not present,05-04-2026,High,112494,False
-Ops Check,Income not verified,Income criteria not met,10-04-2026,High,706776,True
-Ops Check,Income not verified,Existing obligations,24-04-2026,High,469734,True
-Credit Review,Income not verified,Bureau score low,25-03-2026,Very High,116576,False
-CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,Medium,119117,True
-CA - Screening Reject,Policy norms not met,Existing obligations,14-03-2026,Medium,201842,False
-CA - Screening Reject,Other,Existing obligations,13-03-2026,Very High,115066,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,Very High,564164,True
-CA - Screening Reject,Policy norms not met,Negative Location,19-03-2026,High,604595,True
-CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,High,463303,True
-CA - Screening Reject,Policy norms not met,Pincode not present,29-04-2026,High,504342,True
-CA - Screening Reject,Policy norms not met,Negative Location,28-03-2026,Very High,601420,True
-CA - Screening Reject,Policy norms not met,Pincode not present,02-04-2026,Very High,603704,True
-CA - Screening Reject,Other,Age criteria,19-03-2026,High,406559,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,23-03-2026,Medium,609486,True
-Credit Review,Income not verified,Income criteria not met,10-03-2026,High,705813,False
-Credit Review,Policy norms not met,Bureau score low,28-04-2026,High,203972,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,04-03-2026,High,119779,True
-Credit Review,Income not verified,Existing obligations,30-04-2026,Medium,464267,False
-Ops Check,Income not verified,Existing obligations,26-04-2026,Medium,114335,True
-Ops Check,Policy norms not met,Bureau score low,14-03-2026,High,467464,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,29-04-2026,High,463399,False
-CA - Screening Reject,Policy norms not met,Pincode not present,31-03-2026,Medium,565033,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,22-03-2026,Very High,465450,False
-CA - Screening Reject,Policy norms not met,Bureau score low,20-04-2026,Very High,309394,True
-Ops Check,Income not verified,Income criteria not met,18-03-2026,Very High,118025,True
-CA - Screening Reject,Policy norms not met,Age criteria,24-04-2026,High,505264,True
-Ops Check,Income not verified,Income criteria not met,17-03-2026,Medium,403296,False
-CA - Screening Reject,Policy norms not met,Pincode not present,22-03-2026,High,404119,False
-CA - Screening Reject,Income not verified,Bureau score low,13-03-2026,Medium,402982,False
-CA - Screening Reject,Policy norms not met,Negative Location,07-04-2026,Medium,705670,True
-CA - Screening Reject,Policy norms not met,Negative Location,31-03-2026,High,206992,False
-Credit Review,Policy norms not met,Existing obligations,16-03-2026,High,703626,True
-Ops Check,Other,Bureau score low,26-03-2026,Medium,561634,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,09-03-2026,Medium,601659,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,High,301920,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,02-04-2026,High,566139,False
-CA - Screening Reject,Policy norms not met,Pincode not present,02-04-2026,Medium,606507,True
-CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,High,567592,True
-CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,Very High,502761,True
-CA - Screening Reject,Policy norms not met,Pincode not present,12-03-2026,Medium,206062,False
-Credit Review,Income not verified,Age criteria,28-04-2026,High,384770,True
-Ops Check,Policy norms not met,Age criteria,01-04-2026,Very High,602746,True
-CA - Screening Reject,Policy norms not met,Pincode not present,18-04-2026,High,503102,True
-CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,Very High,112494,False
-CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,Medium,562771,True
-CA - Screening Reject,Policy norms not met,Negative Location,02-03-2026,Medium,388222,False
-Credit Review,Other,Age criteria,13-03-2026,High,507044,True
-CA - Screening Reject,Policy norms not met,Pincode not present,03-03-2026,Medium,401964,False
-Ops Check,Income not verified,Income criteria not met,30-04-2026,Very High,208606,True
-CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,Very High,565573,True
-CA - Screening Reject,Policy norms not met,Negative Location,14-04-2026,Medium,303549,True
-Credit Review,Income not verified,Age criteria,20-03-2026,Medium,203063,True
-CA - Screening Reject,Income not verified,Existing obligations,30-03-2026,Very High,119431,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,18-03-2026,High,606507,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,Medium,601420,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-04-2026,Very High,388894,False
-CA - Screening Reject,Income not verified,Existing obligations,07-03-2026,High,401887,False
-CA - Screening Reject,Policy norms not met,Pincode not present,01-04-2026,High,402604,False
-CA - Screening Reject,Policy norms not met,Negative Location,20-04-2026,High,306105,False
-CA - Screening Reject,Policy norms not met,Pincode not present,14-03-2026,High,389742,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,01-04-2026,High,465470,False
-CA - Screening Reject,Policy norms not met,Negative Location,09-03-2026,High,508632,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Very High,465742,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,19-04-2026,Very High,203024,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,17-04-2026,High,202768,False
-Credit Review,Income not verified,Age criteria,08-04-2026,Very High,208398,True
-CA - Screening Reject,Policy norms not met,Pincode not present,01-03-2026,Very High,607043,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,19-04-2026,High,304612,False
-CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,High,304460,False
-CA - Screening Reject,Policy norms not met,Pincode not present,09-04-2026,High,382121,False
-Credit Review,Other,Income criteria not met,14-03-2026,High,709618,True
-CA - Screening Reject,Policy norms not met,Pincode not present,17-04-2026,High,388894,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,07-04-2026,Very High,382143,True
-CA - Screening Reject,Policy norms not met,Pincode not present,23-04-2026,Medium,308205,True
-CA - Screening Reject,Policy norms not met,Negative Location,07-03-2026,High,706438,False
-Ops Check,Income not verified,Bureau score low,19-04-2026,Medium,465876,False
-CA - Screening Reject,Policy norms not met,Negative Location,07-04-2026,Medium,506194,False
-Ops Check,Income not verified,Existing obligations,13-04-2026,Very High,118434,True
-CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,Medium,507012,False
-Ops Check,Other,Income criteria not met,17-04-2026,High,462996,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,11-03-2026,Medium,117232,True
-Credit Review,Policy norms not met,Age criteria,28-03-2026,High,408019,True
-CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,Medium,202622,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,13-03-2026,Very High,116325,False
-Ops Check,Policy norms not met,Age criteria,18-04-2026,High,117209,False
-CA - Screening Reject,Policy norms not met,Pincode not present,07-03-2026,High,119889,False
-Credit Review,Policy norms not met,Bureau score low,20-04-2026,High,703273,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Medium,463303,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,27-03-2026,High,708361,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Very High,208504,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,High,401964,True
-CA - Screening Reject,Policy norms not met,Pincode not present,31-03-2026,Medium,387798,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,Medium,562113,False
-Credit Review,Policy norms not met,Bureau score low,17-04-2026,Very High,382646,False
-CA - Screening Reject,Policy norms not met,Existing obligations,03-03-2026,High,566000,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,03-03-2026,Medium,201430,False
-CA - Screening Reject,Other,Income criteria not met,02-04-2026,High,702311,True
-CA - Screening Reject,Policy norms not met,Pincode not present,24-04-2026,Medium,561651,False
-CA - Screening Reject,Policy norms not met,Income criteria not met,22-04-2026,High,209807,True
-Ops Check,Policy norms not met,Income criteria not met,30-03-2026,Medium,609728,False
-CA - Screening Reject,Policy norms not met,Negative Location,03-03-2026,Very High,302381,True
-CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,Very High,389022,False
-Credit Review,Income not verified,Income criteria not met,27-04-2026,Very High,385479,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,17-03-2026,High,563085,True
-CA - Screening Reject,Policy norms not met,Pincode not present,27-03-2026,High,504694,True
-CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,Medium,119117,True
-CA - Screening Reject,Policy norms not met,Negative Location,30-03-2026,Medium,566147,True
-Credit Review,Policy norms not met,Income criteria not met,25-04-2026,High,114986,True
-Credit Review,Policy norms not met,Bureau score low,30-04-2026,Very High,112899,False
-CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Medium,464050,True
-Ops Check,Other,Income criteria not met,11-04-2026,High,708873,True
-CA - Screening Reject,Policy norms not met,Pincode not present,22-03-2026,Very High,301693,True
-Credit Review,Income not verified,Bureau score low,31-03-2026,High,307626,True
-CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,High,502259,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,21-04-2026,High,563584,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,18-04-2026,High,381645,True
-Credit Review,Other,Income criteria not met,25-03-2026,High,203955,True
-CA - Screening Reject,Income not verified,Bureau score low,01-03-2026,Very High,703621,False
-CA - Screening Reject,Policy norms not met,Negative Location,03-04-2026,High,405506,True
-Credit Review,Income not verified,Income criteria not met,17-04-2026,High,202768,True
-CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,High,209017,True
-CA - Screening Reject,Policy norms not met,Negative Location,12-03-2026,High,606590,True
-Ops Check,Policy norms not met,Age criteria,14-04-2026,Very High,561387,True
-Credit Review,Income not verified,Income criteria not met,14-04-2026,High,114155,False
-CA - Screening Reject,Policy norms not met,Negative Location,24-04-2026,Very High,114130,False
-CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,Medium,503513,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,21-04-2026,High,709626,True
-Ops Check,Income not verified,Bureau score low,22-04-2026,High,568144,False
-Ops Check,Other,Bureau score low,04-04-2026,Medium,562188,True
-Ops Check,Policy norms not met,Income criteria not met,07-04-2026,Very High,508378,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Medium,705807,False
-CA - Screening Reject,Other,Existing obligations,01-03-2026,Very High,402528,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,High,385183,False
-Ops Check,Income not verified,Existing obligations,02-03-2026,Very High,708355,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,Medium,602124,False
-CA - Screening Reject,Other,Existing obligations,17-03-2026,Very High,708055,True
-CA - Screening Reject,Policy norms not met,Pincode not present,18-03-2026,High,409797,False
-CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,Very High,568144,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,03-03-2026,Medium,707825,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,08-03-2026,Medium,119751,False
-CA - Screening Reject,Policy norms not met,Negative Location,19-03-2026,Medium,506990,True
-Ops Check,Income not verified,Existing obligations,14-03-2026,High,203858,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,23-03-2026,High,507730,False
-CA - Screening Reject,Policy norms not met,Negative Location,17-04-2026,High,507012,False
-CA - Screening Reject,Policy norms not met,Pincode not present,15-03-2026,Very High,383361,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,Medium,609947,True
-CA - Screening Reject,Policy norms not met,Negative Location,26-03-2026,Medium,201243,False
-Ops Check,Income not verified,Existing obligations,06-04-2026,Very High,708391,True
-CA - Screening Reject,Policy norms not met,Negative Location,02-04-2026,Medium,561727,True
-CA - Screening Reject,Income not verified,Bureau score low,21-04-2026,High,602020,True
-Ops Check,Other,Existing obligations,02-04-2026,Medium,201842,True
-CA - Screening Reject,Policy norms not met,Income criteria not met,12-04-2026,Medium,603704,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,01-04-2026,High,468247,True
-CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,Medium,209984,False
-CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,Very High,119042,True
-Credit Review,Income not verified,Age criteria,02-04-2026,Very High,302816,True
-CA - Screening Reject,Policy norms not met,Negative Location,11-04-2026,High,408019,False
-CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Very High,203002,True
-Credit Review,Income not verified,Age criteria,21-04-2026,Very High,111893,False
-CA - Screening Reject,Income not verified,Existing obligations,13-03-2026,Medium,401821,True
-Ops Check,Other,Existing obligations,03-04-2026,High,562113,True
-CA - Screening Reject,Policy norms not met,Negative Location,30-03-2026,High,563426,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,16-03-2026,Medium,306562,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-03-2026,High,503353,False
-Credit Review,Income not verified,Bureau score low,16-04-2026,Very High,409785,True
-Ops Check,Other,Age criteria,07-03-2026,High,118242,True
-CA - Screening Reject,Other,Bureau score low,09-03-2026,Very High,702353,True
-CA - Screening Reject,Policy norms not met,Bureau score low,04-04-2026,High,112317,True
-Credit Review,Income not verified,Age criteria,15-04-2026,High,115415,False
-Ops Check,Policy norms not met,Income criteria not met,08-03-2026,High,111200,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,High,305703,False
-Credit Review,Income not verified,Bureau score low,27-03-2026,Very High,302335,True
-Ops Check,Policy norms not met,Income criteria not met,03-03-2026,Very High,308055,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-03-2026,Medium,111977,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,01-04-2026,High,208606,False
-CA - Screening Reject,Policy norms not met,Pincode not present,05-04-2026,High,602876,False
-CA - Screening Reject,Other,Age criteria,23-03-2026,High,203290,True
-Ops Check,Income not verified,Age criteria,05-03-2026,Medium,386654,False
-CA - Screening Reject,Other,Income criteria not met,21-04-2026,Medium,502946,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,28-03-2026,Very High,602874,True
-Credit Review,Policy norms not met,Age criteria,06-03-2026,Medium,509501,False
-Ops Check,Income not verified,Existing obligations,27-03-2026,High,119117,True
-CA - Screening Reject,Policy norms not met,Negative Location,14-03-2026,Very High,602020,True
-CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,High,508632,True
-Ops Check,Income not verified,Bureau score low,24-03-2026,Medium,206327,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,30-03-2026,High,509482,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,Medium,605397,True
-Credit Review,Policy norms not met,Existing obligations,07-04-2026,Medium,306295,False
-Credit Review,Policy norms not met,Existing obligations,25-03-2026,High,462789,True
-Ops Check,Other,Existing obligations,07-04-2026,High,404150,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,31-03-2026,Medium,385161,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,High,706908,True
-CA - Screening Reject,Policy norms not met,Pincode not present,12-03-2026,Medium,306724,True
-CA - Screening Reject,Other,Age criteria,26-03-2026,Very High,506150,False
-CA - Screening Reject,Policy norms not met,Pincode not present,15-03-2026,Very High,461969,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,04-03-2026,Very High,206400,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-04-2026,Medium,468319,False
-Ops Check,Other,Income criteria not met,13-04-2026,Medium,706070,False
-CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,Medium,404257,True
-CA - Screening Reject,Policy norms not met,Negative Location,18-04-2026,High,401525,True
-Credit Review,Policy norms not met,Age criteria,05-03-2026,High,508632,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,High,708032,True
-CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,High,308792,True
-Credit Review,Income not verified,Income criteria not met,21-03-2026,Very High,386977,False
-CA - Screening Reject,Policy norms not met,Negative Location,04-03-2026,Medium,603506,False
-CA - Screening Reject,Policy norms not met,Negative Location,19-03-2026,High,308055,False
-CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,High,463837,True
-CA - Screening Reject,Policy norms not met,Pincode not present,20-04-2026,High,402796,False
-CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,Very High,504694,False
-CA - Screening Reject,Policy norms not met,Pincode not present,28-04-2026,Very High,606590,True
-Ops Check,Policy norms not met,Existing obligations,06-03-2026,Medium,603417,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,17-03-2026,Medium,408454,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,10-04-2026,Medium,466427,True
-CA - Screening Reject,Policy norms not met,Negative Location,16-04-2026,High,503126,False
-Credit Review,Policy norms not met,Existing obligations,07-04-2026,Medium,506150,True
-CA - Screening Reject,Policy norms not met,Pincode not present,28-03-2026,High,603503,True
-CA - Screening Reject,Policy norms not met,Pincode not present,15-03-2026,Very High,389824,True
-CA - Screening Reject,Policy norms not met,Age criteria,26-04-2026,High,303754,False
-Ops Check,Policy norms not met,Existing obligations,07-03-2026,High,704950,True
-CA - Screening Reject,Other,Age criteria,12-04-2026,Very High,202622,False
-Ops Check,Other,Income criteria not met,14-04-2026,Medium,504342,True
-Credit Review,Policy norms not met,Age criteria,29-04-2026,Medium,469261,True
-CA - Screening Reject,Policy norms not met,Existing obligations,15-03-2026,Very High,603506,True
-Ops Check,Income not verified,Age criteria,15-03-2026,Very High,507293,True
-Ops Check,Policy norms not met,Age criteria,03-03-2026,Very High,382121,False
-CA - Screening Reject,Policy norms not met,Negative Location,04-04-2026,High,301298,True
-CA - Screening Reject,Policy norms not met,Pincode not present,17-04-2026,High,202697,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,08-04-2026,High,209017,False
-Credit Review,Other,Age criteria,05-04-2026,High,502208,True
-Ops Check,Other,Bureau score low,13-04-2026,High,112880,True
-CA - Screening Reject,Policy norms not met,Age criteria,22-03-2026,Very High,112317,True
-Credit Review,Income not verified,Existing obligations,08-03-2026,High,308404,True
-CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,306456,False
-Ops Check,Other,Income criteria not met,31-03-2026,Medium,566143,True
-CA - Screening Reject,Policy norms not met,Negative Location,20-04-2026,Medium,118708,False
-CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Medium,609728,False
-Ops Check,Other,Income criteria not met,05-04-2026,High,111986,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,Medium,389327,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,12-04-2026,High,604505,False
-CA - Screening Reject,Other,Age criteria,30-03-2026,Medium,563442,True
-CA - Screening Reject,Policy norms not met,Negative Location,03-03-2026,Medium,703254,False
-CA - Screening Reject,Policy norms not met,Negative Location,11-04-2026,Very High,463399,True
-CA - Screening Reject,Policy norms not met,Pincode not present,27-03-2026,Very High,407216,False
-Credit Review,Income not verified,Bureau score low,29-04-2026,Medium,301298,False
-CA - Screening Reject,Policy norms not met,Negative Location,06-04-2026,Medium,462789,True
-CA - Screening Reject,Policy norms not met,Pincode not present,06-03-2026,Medium,469092,True
-CA - Screening Reject,Other,Existing obligations,11-04-2026,High,502946,True
-CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,High,389318,True
-CA - Screening Reject,Policy norms not met,Pincode not present,24-04-2026,Very High,309312,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,29-04-2026,High,603881,True
-CA - Screening Reject,Policy norms not met,Pincode not present,19-04-2026,Medium,305059,True
-CA - Screening Reject,Policy norms not met,Pincode not present,08-04-2026,Medium,308581,True
-CA - Screening Reject,Policy norms not met,High Risk Pincode,26-04-2026,High,306083,False
-Credit Review,Income not verified,Existing obligations,17-04-2026,High,207105,True
-Ops Check,Policy norms not met,Bureau score low,27-03-2026,High,606507,False
-CA - Screening Reject,Policy norms not met,Negative Location,04-03-2026,Very High,701311,True
-Ops Check,Policy norms not met,Existing obligations,11-03-2026,High,404582,True
-CA - Screening Reject,Policy norms not met,Age criteria,14-04-2026,High,462641,False
-CA - Screening Reject,Policy norms not met,Age criteria,03-04-2026,High,306375,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,High,360060,True
+CA - Screening Reject,Policy norms not met,Pincode not present,04-03-2026,High,500989,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Very High,480441,True
+CA - Screening Reject,Other,Income criteria not met,19-03-2026,High,321410,True
+CA - Screening Reject,Other,Existing obligations,22-03-2026,High,305926,True
+CA - Screening Reject,Other,Age criteria,25-03-2026,Medium,360060,True
+CA - Screening Reject,Policy norms not met,Pincode not present,19-04-2026,High,110009,True
+CA - Screening Reject,Income not verified,Age criteria,24-03-2026,High,211005,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,Very High,230402,True
+CA - Screening Reject,Policy norms not met,Pincode not present,08-04-2026,High,641023,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,27-04-2026,Medium,401107,True
+Credit Review,Policy norms not met,Bureau score low,29-04-2026,High,321610,True
+CA - Screening Reject,Policy norms not met,Bureau score low,26-04-2026,Medium,721403,True
+CA - Screening Reject,Policy norms not met,Negative Location,01-03-2026,Medium,635303,False
+CA - Screening Reject,Policy norms not met,Negative Location,03-04-2026,Medium,331803,True
+Credit Review,Other,Income criteria not met,02-04-2026,Very High,628906,True
+Credit Review,Policy norms not met,Age criteria,02-04-2026,Very High,277402,False
+Credit Review,Income not verified,Bureau score low,26-03-2026,High,305802,False
+Credit Review,Other,Age criteria,25-04-2026,Very High,412405,True
+Credit Review,Income not verified,Age criteria,22-04-2026,Medium,735211,True
+CA - Screening Reject,Policy norms not met,Pincode not present,06-04-2026,Medium,624201,False
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,Medium,723213,True
+CA - Screening Reject,Other,Bureau score low,12-03-2026,Very High,504215,True
+CA - Screening Reject,Policy norms not met,Negative Location,28-03-2026,High,110062,True
+CA - Screening Reject,Policy norms not met,Negative Location,20-03-2026,High,361120,True
+CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,High,501501,True
+CA - Screening Reject,Policy norms not met,Pincode not present,04-04-2026,High,388180,True
+Ops Check,Policy norms not met,Income criteria not met,22-04-2026,Very High,431519,True
+CA - Screening Reject,Policy norms not met,Pincode not present,08-04-2026,High,635203,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,23-03-2026,Very High,571601,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-03-2026,Medium,226020,False
+CA - Screening Reject,Other,Age criteria,28-04-2026,High,305802,True
+Credit Review,Policy norms not met,Bureau score low,30-03-2026,Very High,470772,False
+CA - Screening Reject,Policy norms not met,Age criteria,03-04-2026,Very High,606104,True
+CA - Screening Reject,Policy norms not met,Age criteria,02-04-2026,Medium,231215,False
+Credit Review,Policy norms not met,Bureau score low,23-03-2026,Very High,621103,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,02-04-2026,High,305922,False
+Ops Check,Income not verified,Bureau score low,17-04-2026,High,392180,True
+CA - Screening Reject,Policy norms not met,Pincode not present,24-04-2026,High,431518,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,Medium,507115,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Very High,303508,False
+CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,Very High,574153,False
+CA - Screening Reject,Policy norms not met,Pincode not present,19-04-2026,Medium,731125,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,04-04-2026,Medium,305003,False
+CA - Screening Reject,Income not verified,Income criteria not met,17-04-2026,Medium,591215,True
+CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,Medium,721140,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,27-04-2026,Medium,285129,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,High,571601,True
+Credit Review,Policy norms not met,Existing obligations,08-03-2026,Medium,384265,True
+CA - Screening Reject,Income not verified,Age criteria,14-03-2026,High,365650,True
+CA - Screening Reject,Policy norms not met,Pincode not present,04-03-2026,High,507001,True
+CA - Screening Reject,Other,Existing obligations,25-04-2026,Very High,221008,True
+CA - Screening Reject,Policy norms not met,Negative Location,13-03-2026,Medium,322702,True
+CA - Screening Reject,Policy norms not met,Pincode not present,03-03-2026,Medium,600087,False
+Ops Check,Policy norms not met,Income criteria not met,24-03-2026,Very High,638315,False
+CA - Screening Reject,Policy norms not met,Income criteria not met,10-03-2026,Medium,638102,True
+CA - Screening Reject,Policy norms not met,Pincode not present,18-04-2026,Very High,503180,True
+CA - Screening Reject,Policy norms not met,Pincode not present,10-03-2026,Medium,734421,False
+Ops Check,Other,Bureau score low,10-04-2026,High,323603,False
+Ops Check,Income not verified,Income criteria not met,11-03-2026,Medium,635118,True
+Ops Check,Other,Age criteria,04-03-2026,Medium,431521,True
+CA - Screening Reject,Policy norms not met,Existing obligations,27-04-2026,High,305001,False
+CA - Screening Reject,Policy norms not met,Existing obligations,04-03-2026,High,581306,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,Medium,736167,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,29-04-2026,Medium,614204,True
+Ops Check,Other,Age criteria,24-03-2026,High,110085,True
+CA - Screening Reject,Policy norms not met,Negative Location,13-04-2026,Medium,562110,True
+CA - Screening Reject,Policy norms not met,Negative Location,16-04-2026,Medium,110070,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-03-2026,Very High,325201,True
+CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,High,627755,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,Very High,444311,True
+Ops Check,Income not verified,Income criteria not met,08-03-2026,Very High,313803,False
+CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,High,385520,True
+Credit Review,Policy norms not met,Existing obligations,05-03-2026,High,477660,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,08-04-2026,High,342314,True
+CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,High,507115,True
+Ops Check,Policy norms not met,Age criteria,21-04-2026,Medium,502302,False
+CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,Medium,305926,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,High,331403,False
+CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,High,506391,False
+CA - Screening Reject,Income not verified,Existing obligations,08-03-2026,Very High,571435,True
+CA - Screening Reject,Policy norms not met,Bureau score low,16-03-2026,Very High,477331,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-03-2026,Medium,400604,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-04-2026,Medium,208006,False
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,Very High,581318,True
+Credit Review,Income not verified,Bureau score low,08-03-2026,High,440019,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,08-04-2026,Medium,735230,True
+Ops Check,Income not verified,Age criteria,13-03-2026,Very High,384520,True
+CA - Screening Reject,Policy norms not met,Pincode not present,24-03-2026,High,464570,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-04-2026,High,262001,True
+CA - Screening Reject,Policy norms not met,Existing obligations,19-03-2026,High,243751,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,19-04-2026,Medium,605755,True
+CA - Screening Reject,Policy norms not met,Pincode not present,07-03-2026,Medium,485773,True
+Credit Review,Policy norms not met,Age criteria,09-04-2026,High,741221,True
+CA - Screening Reject,Policy norms not met,Negative Location,08-04-2026,High,396540,True
+CA - Screening Reject,Income not verified,Age criteria,02-03-2026,High,509324,True
+CA - Screening Reject,Policy norms not met,Pincode not present,04-03-2026,Very High,110033,True
+CA - Screening Reject,Policy norms not met,Negative Location,14-03-2026,High,700110,False
+Credit Review,Policy norms not met,Bureau score low,11-03-2026,High,570009,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-04-2026,High,583225,True
+CA - Screening Reject,Policy norms not met,Pincode not present,04-04-2026,High,486002,False
+CA - Screening Reject,Other,Age criteria,30-03-2026,High,485773,True
+CA - Screening Reject,Policy norms not met,Negative Location,20-04-2026,Medium,431513,False
+Ops Check,Income not verified,Bureau score low,09-04-2026,High,110047,False
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,Very High,208020,False
+CA - Screening Reject,Other,Bureau score low,26-04-2026,Medium,243636,False
+CA - Screening Reject,Policy norms not met,Age criteria,30-03-2026,High,341303,False
+Ops Check,Other,Income criteria not met,27-03-2026,Very High,276203,False
+Ops Check,Policy norms not met,Age criteria,21-03-2026,High,713303,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,31-03-2026,High,415505,True
+Ops Check,Policy norms not met,Existing obligations,06-04-2026,Medium,635115,True
+Ops Check,Income not verified,Age criteria,10-04-2026,High,572217,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,13-03-2026,Medium,412211,False
+CA - Screening Reject,Policy norms not met,Negative Location,19-04-2026,Very High,734421,False
+CA - Screening Reject,Policy norms not met,Negative Location,01-03-2026,Very High,380049,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,High,506370,True
+Credit Review,Other,Existing obligations,23-03-2026,Medium,614206,True
+CA - Screening Reject,Policy norms not met,Income criteria not met,29-04-2026,Medium,700064,True
+CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,401604,True
+CA - Screening Reject,Policy norms not met,Negative Location,04-03-2026,Medium,332710,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-04-2026,High,360550,False
+CA - Screening Reject,Policy norms not met,Pincode not present,31-03-2026,Medium,722144,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,09-04-2026,High,110007,False
+Ops Check,Policy norms not met,Age criteria,17-03-2026,Very High,110042,False
+CA - Screening Reject,Policy norms not met,Negative Location,07-03-2026,Very High,485447,False
+Ops Check,Income not verified,Income criteria not met,30-04-2026,Very High,110018,True
+CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,Medium,488448,True
+CA - Screening Reject,Policy norms not met,Negative Location,13-03-2026,Medium,201016,True
+CA - Screening Reject,Income not verified,Existing obligations,05-04-2026,High,560061,True
+CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,Medium,458883,False
+CA - Screening Reject,Policy norms not met,Age criteria,21-04-2026,Very High,574115,True
+CA - Screening Reject,Policy norms not met,Negative Location,06-04-2026,High,110004,False
+CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,High,627202,True
+CA - Screening Reject,Policy norms not met,Pincode not present,17-04-2026,Medium,457111,False
+CA - Screening Reject,Other,Bureau score low,13-03-2026,High,480221,True
+Ops Check,Other,Age criteria,03-04-2026,High,389155,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-03-2026,Very High,470221,False
+CA - Screening Reject,Policy norms not met,Negative Location,21-03-2026,Very High,500915,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-03-2026,High,229406,True
+CA - Screening Reject,Policy norms not met,Negative Location,03-03-2026,High,508238,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,High,400102,True
+Ops Check,Policy norms not met,Income criteria not met,03-03-2026,Medium,481662,False
+CA - Screening Reject,Policy norms not met,Pincode not present,18-03-2026,Medium,243202,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,08-04-2026,Very High,711107,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Medium,383410,True
+Ops Check,Policy norms not met,Income criteria not met,28-03-2026,Medium,110089,False
+CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,Very High,503224,True
+Ops Check,Policy norms not met,Bureau score low,02-03-2026,High,731125,True
+CA - Screening Reject,Policy norms not met,Negative Location,11-03-2026,Medium,384245,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,19-03-2026,Very High,311024,True
+Ops Check,Other,Bureau score low,05-03-2026,High,627117,True
+Ops Check,Income not verified,Income criteria not met,28-03-2026,Very High,560049,False
+Credit Review,Policy norms not met,Age criteria,07-04-2026,Very High,560034,True
+Credit Review,Other,Existing obligations,17-04-2026,Very High,734006,True
+Ops Check,Policy norms not met,Income criteria not met,06-04-2026,Medium,110094,False
+CA - Screening Reject,Policy norms not met,Negative Location,25-04-2026,High,335707,True
+CA - Screening Reject,Other,Age criteria,06-04-2026,Medium,503180,True
+Credit Review,Income not verified,Age criteria,04-03-2026,High,470001,True
+Ops Check,Policy norms not met,Bureau score low,25-04-2026,High,722134,True
+Ops Check,Policy norms not met,Age criteria,20-03-2026,Very High,333504,False
+CA - Screening Reject,Policy norms not met,Negative Location,16-04-2026,High,342314,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Medium,453661,False
+CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,High,210120,True
+CA - Screening Reject,Income not verified,Bureau score low,28-04-2026,Medium,600083,True
+Credit Review,Other,Age criteria,05-03-2026,High,587331,True
+Credit Review,Other,Age criteria,02-04-2026,Medium,561213,True
+Credit Review,Income not verified,Age criteria,21-03-2026,High,222109,True
+Credit Review,Other,Existing obligations,08-03-2026,High,110095,False
+CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,High,335805,True
+CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,Very High,462031,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-04-2026,High,641109,False
+CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,506329,True
+CA - Screening Reject,Policy norms not met,Negative Location,11-04-2026,High,364740,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Medium,473638,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,23-04-2026,High,440007,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,Very High,380049,True
+CA - Screening Reject,Policy norms not met,Negative Location,04-03-2026,Medium,506331,False
+CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,High,606704,False
+Credit Review,Policy norms not met,Bureau score low,03-04-2026,Medium,444707,True
+Ops Check,Income not verified,Existing obligations,15-03-2026,Medium,591316,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,02-03-2026,High,212663,True
+Ops Check,Income not verified,Age criteria,28-03-2026,Very High,431704,False
+CA - Screening Reject,Policy norms not met,Bureau score low,14-04-2026,High,503224,False
+CA - Screening Reject,Policy norms not met,Pincode not present,12-03-2026,Medium,486450,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-03-2026,High,110004,True
+CA - Screening Reject,Policy norms not met,Negative Location,26-03-2026,High,500066,True
+CA - Screening Reject,Policy norms not met,Negative Location,30-03-2026,High,305024,True
+Credit Review,Income not verified,Income criteria not met,05-03-2026,High,441104,False
+Ops Check,Policy norms not met,Bureau score low,20-03-2026,High,110046,False
+CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,High,571254,True
+Credit Review,Income not verified,Bureau score low,30-03-2026,Medium,638401,False
+CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,High,244602,True
+CA - Screening Reject,Other,Age criteria,26-04-2026,Very High,458468,True
+Ops Check,Policy norms not met,Existing obligations,25-04-2026,High,110088,True
+CA - Screening Reject,Policy norms not met,Pincode not present,15-04-2026,High,721144,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,High,507318,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-03-2026,Medium,345024,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,02-04-2026,High,501401,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,19-04-2026,High,502301,True
+Credit Review,Income not verified,Bureau score low,08-04-2026,Medium,607105,False
+CA - Screening Reject,Policy norms not met,Negative Location,03-04-2026,Medium,387350,True
+CA - Screening Reject,Policy norms not met,Negative Location,20-04-2026,High,384515,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-03-2026,Medium,396067,True
+CA - Screening Reject,Policy norms not met,Income criteria not met,18-04-2026,High,400064,False
+CA - Screening Reject,Policy norms not met,Pincode not present,01-03-2026,Medium,743387,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,04-04-2026,Very High,606704,False
+CA - Screening Reject,Policy norms not met,Negative Location,17-04-2026,Medium,110008,True
+CA - Screening Reject,Policy norms not met,Pincode not present,24-04-2026,High,621710,False
+CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,High,233306,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Very High,505001,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,13-03-2026,Very High,388460,False
+CA - Screening Reject,Policy norms not met,Pincode not present,10-03-2026,Medium,721645,True
+Ops Check,Income not verified,Income criteria not met,11-03-2026,High,504297,True
+Ops Check,Policy norms not met,Age criteria,06-03-2026,High,110195,True
+CA - Screening Reject,Policy norms not met,Pincode not present,18-04-2026,Medium,483001,False
+CA - Screening Reject,Policy norms not met,Pincode not present,06-03-2026,Very High,581126,True
+Credit Review,Other,Bureau score low,20-03-2026,Medium,561213,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,Very High,110089,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,13-03-2026,High,444109,True
+CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,High,486220,True
+Ops Check,Other,Age criteria,11-04-2026,Very High,621103,True
+Ops Check,Income not verified,Bureau score low,30-04-2026,Very High,591115,False
+CA - Screening Reject,Policy norms not met,Negative Location,28-03-2026,Medium,415712,False
+Ops Check,Policy norms not met,Income criteria not met,01-04-2026,Very High,488222,True
+CA - Screening Reject,Income not verified,Existing obligations,06-03-2026,High,560003,True
+Ops Check,Policy norms not met,Age criteria,19-03-2026,Medium,503246,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,22-04-2026,High,503180,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-03-2026,Very High,502371,True
+Credit Review,Policy norms not met,Bureau score low,10-03-2026,High,505331,True
+CA - Screening Reject,Other,Age criteria,30-03-2026,Medium,416001,True
+Ops Check,Income not verified,Income criteria not met,19-04-2026,Medium,331803,True
+CA - Screening Reject,Policy norms not met,Pincode not present,08-04-2026,High,630557,True
+CA - Screening Reject,Policy norms not met,Negative Location,04-04-2026,Medium,387003,True
+Credit Review,Policy norms not met,Age criteria,07-04-2026,Medium,110093,True
+CA - Screening Reject,Policy norms not met,Negative Location,07-04-2026,Medium,332746,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-03-2026,High,388345,True
+CA - Screening Reject,Policy norms not met,Bureau score low,22-03-2026,Medium,301027,False
+CA - Screening Reject,Policy norms not met,Negative Location,01-04-2026,Very High,110028,False
+Credit Review,Policy norms not met,Income criteria not met,18-04-2026,High,507318,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-04-2026,High,229201,False
+CA - Screening Reject,Policy norms not met,Negative Location,30-03-2026,Very High,416313,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,Medium,211023,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-04-2026,High,110058,True
+CA - Screening Reject,Policy norms not met,Negative Location,28-04-2026,High,400030,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-03-2026,High,486335,False
+CA - Screening Reject,Policy norms not met,Negative Location,19-04-2026,High,110005,True
+Credit Review,Other,Bureau score low,15-03-2026,Medium,311407,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,27-04-2026,High,370105,False
+Ops Check,Other,Bureau score low,09-04-2026,Medium,382110,True
+Ops Check,Other,Bureau score low,09-04-2026,High,384515,True
+CA - Screening Reject,Income not verified,Income criteria not met,06-03-2026,High,636030,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,High,333033,False
+CA - Screening Reject,Policy norms not met,Negative Location,08-03-2026,Very High,711107,False
+CA - Screening Reject,Policy norms not met,Pincode not present,15-04-2026,High,460553,True
+CA - Screening Reject,Policy norms not met,Pincode not present,05-04-2026,Medium,110085,True
+CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,High,416551,True
+Credit Review,Policy norms not met,Income criteria not met,25-03-2026,Very High,629002,True
+Ops Check,Income not verified,Bureau score low,03-03-2026,High,384245,True
+CA - Screening Reject,Other,Income criteria not met,05-03-2026,High,585414,True
+CA - Screening Reject,Other,Existing obligations,30-04-2026,High,431741,True
+CA - Screening Reject,Policy norms not met,Negative Location,19-04-2026,Very High,388370,False
+CA - Screening Reject,Other,Bureau score low,22-03-2026,High,700077,True
+CA - Screening Reject,Policy norms not met,Existing obligations,03-04-2026,High,210122,True
+CA - Screening Reject,Policy norms not met,Negative Location,12-04-2026,High,607802,False
+Credit Review,Income not verified,Bureau score low,14-04-2026,Very High,504207,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,High,323801,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,Medium,425105,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,Medium,416213,True
+CA - Screening Reject,Policy norms not met,Negative Location,06-04-2026,High,311024,True
+CA - Screening Reject,Policy norms not met,Pincode not present,20-04-2026,High,574122,False
+CA - Screening Reject,Policy norms not met,Pincode not present,12-03-2026,Very High,485772,True
+CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,High,110043,True
+CA - Screening Reject,Policy norms not met,Pincode not present,23-04-2026,Very High,481662,True
+CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,Very High,342901,True
+Ops Check,Income not verified,Income criteria not met,22-04-2026,Very High,473335,False
+CA - Screening Reject,Other,Bureau score low,07-03-2026,High,441104,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,High,741137,True
+Ops Check,Policy norms not met,Bureau score low,18-04-2026,High,321611,False
+CA - Screening Reject,Policy norms not met,Pincode not present,21-03-2026,Medium,441212,True
+Ops Check,Income not verified,Income criteria not met,05-04-2026,High,721144,False
+Credit Review,Income not verified,Existing obligations,20-03-2026,Medium,627202,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,02-03-2026,High,362265,False
+CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,High,388610,True
+Ops Check,Other,Age criteria,15-04-2026,Very High,224234,True
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,High,389172,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,27-04-2026,High,305005,False
+CA - Screening Reject,Policy norms not met,Pincode not present,29-04-2026,Very High,464570,True
+Ops Check,Income not verified,Bureau score low,27-03-2026,Very High,477331,True
+Ops Check,Other,Bureau score low,08-04-2026,Very High,110090,False
+Credit Review,Income not verified,Bureau score low,03-04-2026,Medium,441104,True
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,High,638110,False
+CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,Very High,201313,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,04-03-2026,High,473001,True
+Credit Review,Policy norms not met,Bureau score low,29-04-2026,High,502321,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,21-04-2026,High,440019,False
+Ops Check,Other,Income criteria not met,21-03-2026,Very High,277205,False
+CA - Screening Reject,Other,Bureau score low,25-03-2026,High,110195,False
+CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,High,484881,False
+CA - Screening Reject,Policy norms not met,Pincode not present,10-03-2026,High,700103,True
+CA - Screening Reject,Policy norms not met,Bureau score low,31-03-2026,Medium,586215,False
+CA - Screening Reject,Policy norms not met,Negative Location,04-03-2026,Medium,484881,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,Medium,583225,False
+Credit Review,Other,Age criteria,13-03-2026,High,382430,True
+CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,Very High,229127,False
+CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,High,504310,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-03-2026,Medium,630557,True
+Ops Check,Other,Age criteria,13-04-2026,High,508207,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-03-2026,Very High,604154,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-03-2026,Very High,226020,True
+Credit Review,Policy norms not met,Age criteria,25-03-2026,Medium,362250,False
+CA - Screening Reject,Policy norms not met,Negative Location,25-03-2026,Medium,700031,False
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,High,395010,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,High,574153,False
+CA - Screening Reject,Other,Bureau score low,04-03-2026,Very High,110024,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,High,110077,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-03-2026,High,335051,False
+CA - Screening Reject,Policy norms not met,Pincode not present,22-03-2026,Very High,455339,False
+CA - Screening Reject,Policy norms not met,Existing obligations,06-03-2026,High,736179,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,Very High,481664,False
+CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,Very High,313328,True
+CA - Screening Reject,Policy norms not met,Income criteria not met,29-04-2026,Very High,110062,False
+Ops Check,Policy norms not met,Income criteria not met,26-03-2026,High,361008,True
+CA - Screening Reject,Other,Age criteria,15-03-2026,Very High,229408,True
+CA - Screening Reject,Policy norms not met,Income criteria not met,28-03-2026,Medium,641048,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,High,488222,False
+CA - Screening Reject,Policy norms not met,Pincode not present,08-04-2026,High,311802,False
+Ops Check,Policy norms not met,Income criteria not met,25-03-2026,Medium,413315,True
+Credit Review,Income not verified,Income criteria not met,17-04-2026,High,384001,True
+CA - Screening Reject,Policy norms not met,Negative Location,08-03-2026,High,304024,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,27-03-2026,High,502267,True
+CA - Screening Reject,Policy norms not met,Negative Location,28-04-2026,Very High,700112,False
+CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,Medium,231215,True
+CA - Screening Reject,Other,Age criteria,29-03-2026,Medium,501401,True
+Credit Review,Other,Income criteria not met,02-04-2026,Medium,431809,False
+CA - Screening Reject,Policy norms not met,Negative Location,26-04-2026,High,508255,False
+CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,Medium,481111,False
+CA - Screening Reject,Policy norms not met,Negative Location,10-04-2026,High,277001,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,30-03-2026,High,500077,True
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,Very High,323803,True
+CA - Screening Reject,Income not verified,Income criteria not met,24-03-2026,Medium,473880,True
+Ops Check,Income not verified,Income criteria not met,02-03-2026,High,620005,False
+CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,High,571617,True
+CA - Screening Reject,Policy norms not met,Negative Location,09-04-2026,High,262001,False
+CA - Screening Reject,Policy norms not met,Negative Location,25-04-2026,High,609405,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,09-03-2026,High,700103,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,Medium,283203,True
+CA - Screening Reject,Other,Existing obligations,17-03-2026,Very High,394107,True
+CA - Screening Reject,Policy norms not met,Negative Location,07-03-2026,Very High,243201,False
+CA - Screening Reject,Policy norms not met,Pincode not present,28-03-2026,Medium,505212,False
+CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,High,247341,True
+CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,Medium,587331,False
+CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Very High,485881,True
+CA - Screening Reject,Income not verified,Bureau score low,09-04-2026,Very High,505331,True
+CA - Screening Reject,Policy norms not met,Pincode not present,23-03-2026,Very High,110097,True
+CA - Screening Reject,Policy norms not met,Negative Location,03-04-2026,Very High,415214,True
+Credit Review,Policy norms not met,Age criteria,25-04-2026,Medium,110080,False
+CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,High,431402,False
+CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,Very High,509401,True
+Credit Review,Income not verified,Age criteria,31-03-2026,High,462026,True
+CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,Very High,500108,False
+CA - Screening Reject,Policy norms not met,Negative Location,11-04-2026,Medium,500002,True
+CA - Screening Reject,Policy norms not met,Pincode not present,11-04-2026,High,585417,True
+CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,Very High,485773,True
+Credit Review,Policy norms not met,Bureau score low,12-03-2026,High,574325,True
+CA - Screening Reject,Policy norms not met,Pincode not present,26-04-2026,Medium,627415,False
+CA - Screening Reject,Policy norms not met,Pincode not present,20-03-2026,High,233306,True
+Ops Check,Policy norms not met,Income criteria not met,16-04-2026,High,210120,True
+CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,Medium,733201,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,Very High,281204,True
+CA - Screening Reject,Policy norms not met,Age criteria,05-03-2026,High,391775,False
+CA - Screening Reject,Income not verified,Bureau score low,13-04-2026,High,605755,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-03-2026,Medium,561213,False
+CA - Screening Reject,Policy norms not met,Pincode not present,04-03-2026,High,505304,True
+Ops Check,Income not verified,Income criteria not met,26-04-2026,High,328024,False
+CA - Screening Reject,Policy norms not met,Pincode not present,26-04-2026,High,285126,True
+Credit Review,Policy norms not met,Age criteria,23-03-2026,Medium,285126,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,27-04-2026,Medium,384412,True
+CA - Screening Reject,Policy norms not met,Pincode not present,28-03-2026,Medium,735219,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-03-2026,High,500032,True
+Ops Check,Policy norms not met,Existing obligations,21-03-2026,Medium,229001,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,01-04-2026,High,110085,True
+Ops Check,Other,Age criteria,20-04-2026,High,110195,False
+CA - Screening Reject,Policy norms not met,Pincode not present,08-03-2026,Very High,581126,True
+Ops Check,Other,Age criteria,28-03-2026,Medium,742159,False
+CA - Screening Reject,Policy norms not met,Negative Location,21-04-2026,High,110052,True
+CA - Screening Reject,Policy norms not met,Pincode not present,12-04-2026,High,600036,False
+CA - Screening Reject,Policy norms not met,Negative Location,21-03-2026,High,581237,False
+Credit Review,Policy norms not met,Income criteria not met,10-03-2026,Very High,507001,True
+CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,Medium,384265,True
+CA - Screening Reject,Policy norms not met,Negative Location,09-03-2026,Medium,110031,True
+CA - Screening Reject,Policy norms not met,Existing obligations,07-04-2026,Very High,303508,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,24-04-2026,Very High,382421,True
+CA - Screening Reject,Policy norms not met,Negative Location,25-04-2026,Medium,342026,True
+CA - Screening Reject,Policy norms not met,Negative Location,20-03-2026,Medium,415536,False
+Ops Check,Income not verified,Existing obligations,30-03-2026,Very High,455336,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-04-2026,Very High,272203,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,Very High,735220,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,17-03-2026,Medium,641111,False
+CA - Screening Reject,Policy norms not met,Negative Location,08-04-2026,High,335524,True
+Credit Review,Policy norms not met,Existing obligations,01-04-2026,Very High,700012,True
+CA - Screening Reject,Other,Age criteria,18-03-2026,Very High,632008,True
+CA - Screening Reject,Policy norms not met,Negative Location,26-03-2026,High,721517,False
+CA - Screening Reject,Policy norms not met,Pincode not present,10-04-2026,Very High,477660,False
+Credit Review,Income not verified,Income criteria not met,15-04-2026,High,613008,False
+CA - Screening Reject,Other,Bureau score low,04-03-2026,Medium,387003,True
+Credit Review,Other,Income criteria not met,21-04-2026,Very High,440019,False
+Ops Check,Income not verified,Income criteria not met,15-03-2026,Very High,713209,False
+CA - Screening Reject,Policy norms not met,Pincode not present,04-04-2026,High,721144,False
+CA - Screening Reject,Policy norms not met,Bureau score low,05-04-2026,Medium,606907,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-03-2026,Medium,401606,False
+CA - Screening Reject,Policy norms not met,Pincode not present,20-03-2026,Medium,321201,True
+Credit Review,Other,Income criteria not met,24-04-2026,Very High,389380,False
+CA - Screening Reject,Income not verified,Income criteria not met,18-03-2026,Medium,637204,True
+CA - Screening Reject,Policy norms not met,Pincode not present,18-04-2026,High,503246,True
+CA - Screening Reject,Income not verified,Existing obligations,04-04-2026,Very High,637404,False
+CA - Screening Reject,Policy norms not met,Negative Location,31-03-2026,Very High,485447,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-03-2026,Medium,506331,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,Very High,226013,False
+CA - Screening Reject,Policy norms not met,Pincode not present,26-04-2026,High,110007,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,Very High,362710,False
+Ops Check,Other,Age criteria,11-04-2026,High,364150,False
+CA - Screening Reject,Policy norms not met,Age criteria,22-04-2026,High,282009,True
+Ops Check,Policy norms not met,Income criteria not met,28-04-2026,High,484551,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,23-04-2026,Medium,638110,True
+CA - Screening Reject,Policy norms not met,Pincode not present,06-04-2026,High,110007,False
+CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,High,370105,False
+CA - Screening Reject,Policy norms not met,Pincode not present,22-03-2026,Medium,456222,True
+CA - Screening Reject,Policy norms not met,Pincode not present,25-04-2026,Very High,742302,True
+Ops Check,Income not verified,Income criteria not met,14-04-2026,Medium,635102,False
+CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,Medium,508212,False
+CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,Medium,473001,False
+CA - Screening Reject,Income not verified,Age criteria,12-04-2026,Very High,383120,False
+Credit Review,Income not verified,Bureau score low,29-04-2026,Medium,416303,False
+CA - Screening Reject,Income not verified,Existing obligations,04-04-2026,High,505307,False
+CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,High,734091,True
+Ops Check,Policy norms not met,Bureau score low,17-03-2026,Medium,444707,False
+CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,Medium,614303,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,High,333041,True
+CA - Screening Reject,Policy norms not met,Bureau score low,04-04-2026,Very High,622409,False
+CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,Medium,394170,False
+Ops Check,Policy norms not met,Existing obligations,11-04-2026,Medium,462045,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-04-2026,Very High,607103,False
+CA - Screening Reject,Other,Age criteria,14-03-2026,High,416413,True
+CA - Screening Reject,Policy norms not met,Pincode not present,29-04-2026,High,458110,True
+Ops Check,Policy norms not met,Existing obligations,08-03-2026,High,606807,True
+CA - Screening Reject,Policy norms not met,Pincode not present,08-04-2026,Medium,251201,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,21-03-2026,High,486450,True
+CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,High,508112,False
+CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,High,741137,True
+CA - Screening Reject,Policy norms not met,Negative Location,15-03-2026,Medium,401701,True
+CA - Screening Reject,Policy norms not met,Pincode not present,21-03-2026,High,500016,True
+CA - Screening Reject,Policy norms not met,Pincode not present,24-03-2026,Medium,486450,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,24-04-2026,High,501143,False
+Credit Review,Policy norms not met,Bureau score low,16-04-2026,High,470442,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,27-03-2026,High,473880,True
+CA - Screening Reject,Policy norms not met,Pincode not present,02-03-2026,High,700102,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-04-2026,High,328029,True
+CA - Screening Reject,Policy norms not met,Pincode not present,16-04-2026,Very High,581347,False
+Credit Review,Other,Age criteria,07-04-2026,Medium,711109,False
+Ops Check,Income not verified,Income criteria not met,06-03-2026,High,333041,True
+CA - Screening Reject,Policy norms not met,Pincode not present,14-04-2026,High,504208,True
+Ops Check,Policy norms not met,Income criteria not met,12-03-2026,High,305005,False
+Ops Check,Policy norms not met,Existing obligations,20-04-2026,Medium,110023,True
+Credit Review,Policy norms not met,Age criteria,27-04-2026,High,743513,True
+CA - Screening Reject,Income not verified,Existing obligations,26-04-2026,Medium,322218,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,19-04-2026,Very High,455336,False
+CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,Very High,700103,True
+CA - Screening Reject,Policy norms not met,Pincode not present,07-04-2026,High,500989,False
+Ops Check,Income not verified,Bureau score low,14-04-2026,High,585417,False
+CA - Screening Reject,Income not verified,Age criteria,28-04-2026,Medium,627811,True
+CA - Screening Reject,Policy norms not met,Negative Location,07-04-2026,Very High,580023,True
+CA - Screening Reject,Policy norms not met,Pincode not present,11-03-2026,High,721517,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,02-04-2026,Very High,571807,False
+Ops Check,Policy norms not met,Age criteria,25-03-2026,Medium,242305,True
+Credit Review,Policy norms not met,Existing obligations,18-04-2026,High,623806,True
+Credit Review,Policy norms not met,Bureau score low,13-04-2026,High,464221,True
+CA - Screening Reject,Policy norms not met,Pincode not present,28-04-2026,High,500024,True
+CA - Screening Reject,Policy norms not met,Bureau score low,10-03-2026,Very High,470772,False
+CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,Very High,600087,False
+CA - Screening Reject,Policy norms not met,Negative Location,30-04-2026,High,508111,False
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,High,505307,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,29-04-2026,Very High,393140,True
+CA - Screening Reject,Other,Income criteria not met,29-03-2026,High,743357,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,09-04-2026,Very High,635105,False
+CA - Screening Reject,Policy norms not met,Existing obligations,29-03-2026,High,485447,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,13-03-2026,Medium,465339,True
+CA - Screening Reject,Policy norms not met,Existing obligations,23-04-2026,High,591247,False
+CA - Screening Reject,Policy norms not met,Bureau score low,03-04-2026,Very High,470001,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,11-03-2026,Medium,606907,True
+CA - Screening Reject,Policy norms not met,Negative Location,20-03-2026,High,364740,False
+Ops Check,Income not verified,Age criteria,26-03-2026,High,313904,True
+CA - Screening Reject,Policy norms not met,Pincode not present,06-04-2026,Very High,444511,False
+CA - Screening Reject,Policy norms not met,Pincode not present,28-04-2026,Medium,396067,True
+Ops Check,Policy norms not met,Bureau score low,29-03-2026,Medium,210122,False
+CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,Medium,581145,True
+CA - Screening Reject,Policy norms not met,Negative Location,09-04-2026,Very High,209112,False
+CA - Screening Reject,Income not verified,Existing obligations,30-04-2026,Medium,638459,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,30-03-2026,Medium,413228,False
+CA - Screening Reject,Policy norms not met,Pincode not present,08-03-2026,Medium,481445,True
+CA - Screening Reject,Policy norms not met,Pincode not present,14-03-2026,High,742159,True
+CA - Screening Reject,Policy norms not met,Pincode not present,26-04-2026,High,591247,True
+CA - Screening Reject,Income not verified,Bureau score low,22-03-2026,High,464570,True
+CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,Very High,382475,True
+CA - Screening Reject,Income not verified,Income criteria not met,11-04-2026,High,483001,False
+CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,High,500020,False
+Ops Check,Income not verified,Bureau score low,06-04-2026,High,110020,False
+Credit Review,Income not verified,Income criteria not met,27-03-2026,High,209206,True
+CA - Screening Reject,Policy norms not met,Negative Location,30-04-2026,Very High,229404,True
+CA - Screening Reject,Policy norms not met,Pincode not present,24-03-2026,High,431521,True
+CA - Screening Reject,Policy norms not met,Negative Location,13-04-2026,Very High,441102,False
+Ops Check,Policy norms not met,Bureau score low,24-04-2026,High,413130,False
+CA - Screening Reject,Policy norms not met,Negative Location,28-03-2026,High,577217,True
+Ops Check,Other,Age criteria,28-04-2026,Very High,110037,True
+Ops Check,Other,Bureau score low,09-03-2026,Very High,370135,False
+CA - Screening Reject,Policy norms not met,Bureau score low,13-04-2026,High,561212,False
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,High,481111,True
+CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,High,587331,True
+CA - Screening Reject,Policy norms not met,Pincode not present,21-03-2026,High,504207,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-03-2026,High,415505,True
+CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Medium,503213,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,30-04-2026,Medium,305802,False
+Ops Check,Income not verified,Income criteria not met,03-04-2026,Very High,464570,False
+CA - Screening Reject,Policy norms not met,Negative Location,19-04-2026,Very High,110045,True
+Ops Check,Policy norms not met,Existing obligations,26-04-2026,Very High,332710,False
+CA - Screening Reject,Policy norms not met,Negative Location,20-04-2026,High,110009,True
+CA - Screening Reject,Other,Age criteria,10-03-2026,Medium,110089,True
+CA - Screening Reject,Policy norms not met,Negative Location,10-04-2026,High,431809,True
+Ops Check,Income not verified,Bureau score low,01-03-2026,Medium,735219,False
+CA - Screening Reject,Policy norms not met,Pincode not present,11-04-2026,Very High,250001,False
+Ops Check,Other,Income criteria not met,23-04-2026,High,500087,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,High,506172,True
+CA - Screening Reject,Policy norms not met,Pincode not present,11-04-2026,High,110057,True
+Ops Check,Other,Income criteria not met,15-03-2026,Very High,734217,True
+Credit Review,Policy norms not met,Age criteria,17-04-2026,High,425105,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,21-03-2026,Medium,502313,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-04-2026,High,110017,False
+CA - Screening Reject,Policy norms not met,Negative Location,16-04-2026,High,341521,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,29-03-2026,Very High,342003,False
+CA - Screening Reject,Policy norms not met,Pincode not present,16-03-2026,Medium,305802,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Medium,621103,False
+CA - Screening Reject,Other,Bureau score low,26-03-2026,Medium,110029,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,09-03-2026,Very High,500915,True
+CA - Screening Reject,Policy norms not met,Income criteria not met,01-04-2026,Very High,431809,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,10-04-2026,High,470672,False
+CA - Screening Reject,Policy norms not met,Pincode not present,06-04-2026,Medium,480105,True
+Ops Check,Other,Existing obligations,10-04-2026,Medium,465113,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-04-2026,Very High,486331,False
+CA - Screening Reject,Policy norms not met,Negative Location,07-04-2026,High,110024,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,Medium,621003,True
+CA - Screening Reject,Other,Income criteria not met,19-04-2026,High,110056,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,28-04-2026,High,440007,True
+Ops Check,Income not verified,Existing obligations,09-03-2026,High,110091,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,02-03-2026,High,110011,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,12-03-2026,Medium,401606,True
+Ops Check,Policy norms not met,Age criteria,28-03-2026,Very High,571433,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,31-03-2026,High,370015,True
+CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,401701,False
+Credit Review,Policy norms not met,Bureau score low,03-03-2026,High,713213,False
+Credit Review,Income not verified,Bureau score low,30-03-2026,High,110001,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-03-2026,Very High,461441,False
+CA - Screening Reject,Policy norms not met,Negative Location,01-04-2026,High,401207,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-03-2026,Medium,560010,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,Very High,396035,True
+Ops Check,Other,Income criteria not met,19-04-2026,High,341303,True
+Ops Check,Other,Income criteria not met,18-04-2026,Medium,391340,True
+CA - Screening Reject,Policy norms not met,Pincode not present,24-04-2026,Medium,458330,False
+CA - Screening Reject,Policy norms not met,Age criteria,12-03-2026,Very High,110027,False
+CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,High,441904,False
+CA - Screening Reject,Policy norms not met,Negative Location,25-04-2026,Medium,305814,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,31-03-2026,Very High,384412,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,Very High,600023,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,Medium,455339,True
+Ops Check,Other,Bureau score low,01-03-2026,Very High,335038,True
+CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,Medium,441212,True
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,Very High,110093,False
+CA - Screening Reject,Policy norms not met,Negative Location,12-03-2026,High,233306,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,01-04-2026,High,638401,False
+CA - Screening Reject,Policy norms not met,Negative Location,24-04-2026,Very High,212206,True
+Credit Review,Policy norms not met,Age criteria,05-04-2026,Medium,370655,True
+CA - Screening Reject,Income not verified,Bureau score low,17-03-2026,Very High,323801,False
+Credit Review,Income not verified,Existing obligations,26-03-2026,High,110053,True
+CA - Screening Reject,Policy norms not met,Pincode not present,14-04-2026,High,400064,True
+Ops Check,Policy norms not met,Bureau score low,25-03-2026,Very High,560051,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,28-04-2026,Medium,416313,True
+CA - Screening Reject,Income not verified,Age criteria,02-04-2026,Medium,741255,True
+CA - Screening Reject,Other,Income criteria not met,09-04-2026,High,509125,False
+CA - Screening Reject,Policy norms not met,Pincode not present,07-03-2026,Medium,451331,True
+CA - Screening Reject,Policy norms not met,Pincode not present,30-04-2026,High,211005,False
+CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,High,560049,True
+Ops Check,Policy norms not met,Age criteria,09-04-2026,High,574244,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,17-04-2026,Medium,506166,False
+Ops Check,Other,Age criteria,28-03-2026,Very High,585291,True
+CA - Screening Reject,Policy norms not met,Negative Location,28-03-2026,Very High,731304,False
+CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,Very High,221001,True
+Ops Check,Other,Income criteria not met,07-04-2026,High,482004,False
+CA - Screening Reject,Income not verified,Bureau score low,19-03-2026,Very High,509103,False
+CA - Screening Reject,Policy norms not met,Negative Location,10-04-2026,High,110089,True
+Credit Review,Other,Age criteria,19-04-2026,Medium,600031,False
+Credit Review,Income not verified,Age criteria,27-03-2026,High,500024,True
+Ops Check,Other,Age criteria,26-03-2026,Very High,412403,True
+CA - Screening Reject,Policy norms not met,Pincode not present,15-04-2026,Medium,606807,True
+Ops Check,Policy norms not met,Income criteria not met,27-03-2026,Medium,277205,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,08-04-2026,High,638110,False
+CA - Screening Reject,Policy norms not met,Existing obligations,05-03-2026,Very High,361008,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-03-2026,Very High,305802,False
+CA - Screening Reject,Policy norms not met,Existing obligations,20-03-2026,High,623522,True
+CA - Screening Reject,Income not verified,Age criteria,25-03-2026,Medium,485775,False
+CA - Screening Reject,Policy norms not met,Pincode not present,17-03-2026,High,563163,False
+Ops Check,Other,Age criteria,09-04-2026,Medium,210122,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,19-03-2026,High,110023,True
+Credit Review,Other,Income criteria not met,01-03-2026,High,712303,True
+Credit Review,Other,Income criteria not met,10-03-2026,High,504309,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,25-04-2026,High,441614,True
+CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,High,360576,False
+CA - Screening Reject,Policy norms not met,Bureau score low,17-04-2026,Medium,612804,True
+CA - Screening Reject,Policy norms not met,Pincode not present,21-03-2026,High,344706,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-04-2026,High,431741,True
+CA - Screening Reject,Policy norms not met,Negative Location,04-04-2026,Very High,445110,True
+CA - Screening Reject,Policy norms not met,Existing obligations,06-04-2026,Very High,413510,True
+CA - Screening Reject,Income not verified,Bureau score low,08-04-2026,Medium,574115,False
+Ops Check,Policy norms not met,Bureau score low,16-04-2026,Medium,470228,True
+Ops Check,Income not verified,Existing obligations,28-03-2026,High,341303,False
+CA - Screening Reject,Policy norms not met,Negative Location,19-03-2026,Very High,212206,False
+CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,Medium,431519,False
+Credit Review,Other,Bureau score low,22-04-2026,High,388620,False
+CA - Screening Reject,Policy norms not met,Bureau score low,21-04-2026,Very High,614203,True
+CA - Screening Reject,Policy norms not met,Age criteria,27-03-2026,Medium,110058,True
+Ops Check,Policy norms not met,Bureau score low,06-03-2026,Medium,382415,False
+CA - Screening Reject,Policy norms not met,Pincode not present,19-03-2026,Medium,721516,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,06-04-2026,Medium,110088,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,31-03-2026,Medium,361150,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-03-2026,Medium,431402,False
+CA - Screening Reject,Policy norms not met,Pincode not present,02-04-2026,High,732122,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,04-03-2026,High,508238,False
+CA - Screening Reject,Policy norms not met,Negative Location,14-04-2026,Medium,110019,False
+CA - Screening Reject,Policy norms not met,Bureau score low,01-03-2026,High,560015,True
+CA - Screening Reject,Policy norms not met,Negative Location,05-04-2026,High,274704,True
+Credit Review,Income not verified,Income criteria not met,05-04-2026,High,388265,True
+Credit Review,Other,Age criteria,05-03-2026,High,364760,True
+CA - Screening Reject,Policy norms not met,Negative Location,19-04-2026,Medium,110008,False
+CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,Very High,384245,True
+CA - Screening Reject,Policy norms not met,Negative Location,09-04-2026,Very High,570033,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,06-03-2026,Very High,110094,False
+CA - Screening Reject,Income not verified,Existing obligations,30-04-2026,High,572107,False
+CA - Screening Reject,Policy norms not met,Pincode not present,01-03-2026,High,721645,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,12-04-2026,High,503321,True
+CA - Screening Reject,Other,Income criteria not met,21-04-2026,Very High,110028,True
+Ops Check,Income not verified,Income criteria not met,08-04-2026,High,572107,False
+Credit Review,Other,Existing obligations,02-03-2026,High,453115,False
+Credit Review,Other,Existing obligations,23-04-2026,Very High,110034,False
+CA - Screening Reject,Policy norms not met,Negative Location,27-03-2026,Very High,411014,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-03-2026,High,421305,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-04-2026,Very High,110019,True
+CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,High,721260,True
+CA - Screening Reject,Policy norms not met,Pincode not present,09-03-2026,High,416115,False
+CA - Screening Reject,Policy norms not met,Bureau score low,24-04-2026,Medium,591316,False
+Credit Review,Income not verified,Bureau score low,24-03-2026,Very High,734421,False
+CA - Screening Reject,Policy norms not met,Pincode not present,19-04-2026,Medium,504303,False
+Ops Check,Income not verified,Age criteria,24-04-2026,High,504297,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-03-2026,High,621651,True
+CA - Screening Reject,Policy norms not met,Negative Location,06-04-2026,High,272164,True
+Credit Review,Income not verified,Age criteria,19-04-2026,Very High,207247,False
+Credit Review,Policy norms not met,Bureau score low,05-03-2026,High,414605,False
+Credit Review,Policy norms not met,Income criteria not met,05-03-2026,High,402301,False
+CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,Very High,456003,True
+CA - Screening Reject,Policy norms not met,Pincode not present,24-03-2026,High,416413,False
+CA - Screening Reject,Income not verified,Existing obligations,04-04-2026,High,110036,True
+Ops Check,Income not verified,Bureau score low,18-03-2026,High,272203,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,25-04-2026,Medium,110073,False
+CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,Medium,476229,True
+CA - Screening Reject,Policy norms not met,Negative Location,08-03-2026,Very High,465661,False
+Ops Check,Policy norms not met,Bureau score low,24-03-2026,Very High,380050,True
+CA - Screening Reject,Policy norms not met,Pincode not present,18-04-2026,High,700036,False
+Ops Check,Policy norms not met,Income criteria not met,21-04-2026,High,412203,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-04-2026,Medium,486335,False
+CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,Medium,509152,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,Very High,335524,False
+Ops Check,Income not verified,Bureau score low,10-04-2026,Very High,210431,True
+CA - Screening Reject,Policy norms not met,Age criteria,15-04-2026,Very High,641111,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,High,721517,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,30-03-2026,High,416209,True
+CA - Screening Reject,Other,Bureau score low,22-04-2026,High,110090,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,24-04-2026,High,242305,True
+CA - Screening Reject,Policy norms not met,Negative Location,14-03-2026,High,627117,False
+Credit Review,Policy norms not met,Existing obligations,05-04-2026,Very High,251201,True
+Ops Check,Income not verified,Income criteria not met,18-03-2026,Very High,110062,True
+Ops Check,Other,Existing obligations,12-04-2026,High,333023,True
+CA - Screening Reject,Other,Existing obligations,13-04-2026,High,585327,False
+Credit Review,Policy norms not met,Income criteria not met,21-04-2026,Medium,321609,True
+CA - Screening Reject,Policy norms not met,Pincode not present,16-03-2026,Very High,400005,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-03-2026,Very High,503175,True
+Credit Review,Income not verified,Age criteria,11-04-2026,High,570005,True
+CA - Screening Reject,Policy norms not met,Pincode not present,06-03-2026,Medium,474009,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,24-04-2026,Very High,504109,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,19-03-2026,Medium,464113,True
+CA - Screening Reject,Policy norms not met,Negative Location,29-04-2026,Medium,229406,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,08-03-2026,High,509105,False
+CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,Medium,413221,False
+Ops Check,Other,Age criteria,24-04-2026,High,332710,False
+CA - Screening Reject,Policy norms not met,Negative Location,01-03-2026,Medium,384515,False
+CA - Screening Reject,Other,Bureau score low,24-03-2026,Very High,734217,False
+CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,High,360040,False
+Ops Check,Income not verified,Income criteria not met,09-03-2026,High,243751,False
+CA - Screening Reject,Policy norms not met,Pincode not present,04-04-2026,High,302018,False
+CA - Screening Reject,Income not verified,Bureau score low,21-04-2026,High,110083,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,25-04-2026,Very High,643240,True
+CA - Screening Reject,Policy norms not met,Negative Location,29-04-2026,Very High,734091,True
+Credit Review,Policy norms not met,Income criteria not met,20-03-2026,Medium,415712,True
+CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,High,627202,False
+CA - Screening Reject,Policy norms not met,Pincode not present,05-03-2026,High,500038,True
+Credit Review,Policy norms not met,Age criteria,29-04-2026,Medium,416115,True
+Credit Review,Income not verified,Income criteria not met,01-04-2026,Very High,247777,True
+Credit Review,Policy norms not met,Age criteria,01-04-2026,Medium,441904,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-04-2026,Medium,450331,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,24-04-2026,High,585221,True
+CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,Medium,629201,True
+CA - Screening Reject,Policy norms not met,Negative Location,30-04-2026,High,414301,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,26-03-2026,High,384135,False
+CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,High,508207,True
+Ops Check,Income not verified,Age criteria,15-03-2026,Very High,504208,True
+Ops Check,Policy norms not met,Income criteria not met,16-03-2026,High,202129,False
+Credit Review,Policy norms not met,Income criteria not met,21-03-2026,High,311407,False
+Ops Check,Income not verified,Bureau score low,21-03-2026,Very High,444311,False
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,Medium,503219,True
+CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Medium,591215,False
+CA - Screening Reject,Policy norms not met,Age criteria,02-03-2026,Medium,110006,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,21-04-2026,High,276203,False
+CA - Screening Reject,Policy norms not met,Negative Location,17-03-2026,High,481116,False
+CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,Medium,226028,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-03-2026,High,311601,True
+Ops Check,Policy norms not met,Income criteria not met,01-03-2026,High,484551,False
+CA - Screening Reject,Policy norms not met,Pincode not present,21-03-2026,Medium,305001,True
+Credit Review,Other,Bureau score low,08-04-2026,Medium,313207,True
+CA - Screening Reject,Policy norms not met,Negative Location,02-03-2026,Medium,507306,True
+CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,335037,True
+Credit Review,Income not verified,Existing obligations,08-03-2026,Medium,603210,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,Medium,458336,True
+CA - Screening Reject,Policy norms not met,Negative Location,24-04-2026,High,384005,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,23-04-2026,Very High,503180,True
+CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,Very High,505129,True
+Credit Review,Income not verified,Income criteria not met,25-04-2026,Medium,576235,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,Very High,483001,True
+CA - Screening Reject,Policy norms not met,Negative Location,28-04-2026,Medium,603210,True
+CA - Screening Reject,Policy norms not met,Negative Location,21-04-2026,Very High,507115,True
+Credit Review,Income not verified,Existing obligations,21-04-2026,High,110077,False
+CA - Screening Reject,Policy norms not met,Pincode not present,21-03-2026,Very High,431521,True
+Credit Review,Income not verified,Bureau score low,21-03-2026,High,450331,False
+Credit Review,Other,Income criteria not met,09-03-2026,Medium,623522,True
+Ops Check,Policy norms not met,Bureau score low,08-03-2026,High,251001,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,High,743270,True
+Ops Check,Policy norms not met,Age criteria,18-04-2026,High,110087,False
+CA - Screening Reject,Other,Existing obligations,01-04-2026,Medium,387003,False
+Credit Review,Income not verified,Existing obligations,26-04-2026,High,243202,True
+CA - Screening Reject,Policy norms not met,Negative Location,16-03-2026,Very High,402102,False
+Ops Check,Policy norms not met,Age criteria,14-03-2026,Very High,441904,False
+Ops Check,Policy norms not met,Age criteria,28-04-2026,Medium,305819,False
+Credit Review,Income not verified,Bureau score low,05-03-2026,High,721657,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,02-04-2026,Medium,627803,False
+Ops Check,Policy norms not met,Income criteria not met,02-03-2026,High,735211,False
+CA - Screening Reject,Policy norms not met,Pincode not present,20-04-2026,High,110124,False
+CA - Screening Reject,Policy norms not met,Pincode not present,14-03-2026,High,380003,False
+CA - Screening Reject,Policy norms not met,Pincode not present,01-04-2026,High,322254,True
+CA - Screening Reject,Policy norms not met,Pincode not present,15-03-2026,Very High,322218,False
+CA - Screening Reject,Policy norms not met,Pincode not present,21-04-2026,High,470442,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-03-2026,Very High,401701,False
+Credit Review,Income not verified,Age criteria,02-03-2026,Very High,506369,True
+CA - Screening Reject,Policy norms not met,Pincode not present,22-03-2026,Very High,585211,True
+CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,High,455221,True
+Credit Review,Policy norms not met,Existing obligations,17-04-2026,Very High,721657,False
+CA - Screening Reject,Policy norms not met,Negative Location,24-03-2026,Medium,341317,True
+CA - Screening Reject,Policy norms not met,Pincode not present,25-04-2026,Medium,226020,False
+CA - Screening Reject,Policy norms not met,Income criteria not met,29-04-2026,High,577596,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,18-03-2026,High,344802,False
+CA - Screening Reject,Policy norms not met,Pincode not present,17-03-2026,High,225404,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,29-04-2026,Medium,242305,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-04-2026,High,396460,True
+Ops Check,Policy norms not met,Income criteria not met,17-03-2026,High,388450,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,High,480105,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,17-03-2026,Medium,603210,True
+Ops Check,Income not verified,Income criteria not met,13-03-2026,Medium,700012,True
+Ops Check,Policy norms not met,Income criteria not met,22-04-2026,High,629177,False
+CA - Screening Reject,Policy norms not met,Negative Location,16-04-2026,High,612201,False
+CA - Screening Reject,Policy norms not met,Pincode not present,10-03-2026,High,471405,True
+CA - Screening Reject,Policy norms not met,Pincode not present,29-04-2026,Very High,506166,True
+Ops Check,Income not verified,Age criteria,06-03-2026,Very High,272203,False
+CA - Screening Reject,Other,Bureau score low,13-03-2026,Very High,327025,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-04-2026,High,451331,True
+CA - Screening Reject,Policy norms not met,Pincode not present,29-03-2026,Very High,600068,False
+CA - Screening Reject,Other,Existing obligations,13-03-2026,Very High,583121,True
+CA - Screening Reject,Policy norms not met,Pincode not present,11-03-2026,High,509412,False
+CA - Screening Reject,Policy norms not met,Negative Location,08-03-2026,Very High,322242,False
+Credit Review,Other,Age criteria,22-04-2026,Very High,305024,False
+Ops Check,Policy norms not met,Age criteria,09-04-2026,High,394160,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,09-03-2026,High,313207,True
+Ops Check,Other,Bureau score low,20-03-2026,Very High,580002,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,High,506007,True
+CA - Screening Reject,Other,Bureau score low,09-03-2026,Medium,508202,True
+CA - Screening Reject,Policy norms not met,Pincode not present,15-03-2026,High,560034,False
+Credit Review,Policy norms not met,Bureau score low,05-03-2026,Very High,229001,False
+CA - Screening Reject,Other,Existing obligations,01-04-2026,Very High,304024,True
+CA - Screening Reject,Policy norms not met,Negative Location,23-04-2026,High,323603,True
+CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,Medium,461441,False
+Credit Review,Policy norms not met,Existing obligations,21-04-2026,Medium,243636,True
+CA - Screening Reject,Policy norms not met,Negative Location,17-04-2026,Medium,394651,True
+CA - Screening Reject,Policy norms not met,Existing obligations,05-04-2026,Very High,110027,False
+CA - Screening Reject,Policy norms not met,Negative Location,12-03-2026,High,721448,True
+CA - Screening Reject,Policy norms not met,Negative Location,22-03-2026,Medium,365650,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,23-04-2026,Very High,581116,True
+Ops Check,Income not verified,Bureau score low,25-03-2026,High,581126,False
+CA - Screening Reject,Policy norms not met,Pincode not present,26-03-2026,Medium,416112,True
+CA - Screening Reject,Income not verified,Income criteria not met,14-04-2026,High,222002,False
+Credit Review,Other,Age criteria,25-03-2026,Very High,311024,True
+CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,High,388120,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,Very High,110014,False
+CA - Screening Reject,Policy norms not met,Negative Location,06-03-2026,High,243724,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,30-04-2026,High,110010,False
+CA - Screening Reject,Policy norms not met,Pincode not present,17-03-2026,High,570009,True
+CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,Very High,505129,True
+Credit Review,Income not verified,Age criteria,11-03-2026,High,503321,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,16-03-2026,Very High,743286,False
+Credit Review,Other,Age criteria,08-03-2026,High,400024,False
+Ops Check,Policy norms not met,Existing obligations,09-04-2026,Medium,341317,False
+CA - Screening Reject,Income not verified,Age criteria,13-03-2026,Medium,614204,True
+CA - Screening Reject,Policy norms not met,Pincode not present,13-04-2026,Very High,500070,True
+CA - Screening Reject,Policy norms not met,Negative Location,11-04-2026,Medium,110007,True
+Credit Review,Income not verified,Income criteria not met,05-03-2026,Very High,241305,True
+CA - Screening Reject,Policy norms not met,Pincode not present,13-03-2026,High,211023,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,20-03-2026,Medium,415802,True
+CA - Screening Reject,Policy norms not met,Pincode not present,18-03-2026,High,431518,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,03-04-2026,High,394170,False
+CA - Screening Reject,Policy norms not met,Negative Location,22-03-2026,Medium,393140,True
+Ops Check,Other,Existing obligations,24-03-2026,Medium,462026,True
+CA - Screening Reject,Income not verified,Bureau score low,17-04-2026,High,364150,False
+CA - Screening Reject,Policy norms not met,Negative Location,02-03-2026,High,743387,False
+Credit Review,Policy norms not met,Bureau score low,02-03-2026,High,572102,False
+CA - Screening Reject,Policy norms not met,Negative Location,04-04-2026,Very High,488222,True
+Credit Review,Income not verified,Age criteria,03-04-2026,Very High,587331,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,25-03-2026,Medium,600083,True
+CA - Screening Reject,Policy norms not met,Pincode not present,03-04-2026,High,586118,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,High,208011,False
+Credit Review,Policy norms not met,Existing obligations,08-03-2026,Very High,580023,False
+CA - Screening Reject,Income not verified,Existing obligations,07-03-2026,High,110013,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,28-04-2026,Medium,743347,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,04-03-2026,Very High,342314,False
+CA - Screening Reject,Other,Bureau score low,13-04-2026,Very High,110055,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,14-04-2026,Medium,470228,True
+CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,Very High,383245,False
+CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,Very High,110084,False
+CA - Screening Reject,Policy norms not met,Negative Location,07-04-2026,High,221304,True
+CA - Screening Reject,Income not verified,Existing obligations,21-03-2026,High,502371,True
+Credit Review,Policy norms not met,Income criteria not met,04-03-2026,High,504109,True
+Ops Check,Income not verified,Bureau score low,27-03-2026,Medium,247343,True
+Credit Review,Income not verified,Existing obligations,28-04-2026,Very High,574244,True
+CA - Screening Reject,Policy norms not met,Negative Location,08-04-2026,Medium,396120,False
+CA - Screening Reject,Policy norms not met,Pincode not present,17-03-2026,High,481111,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,04-04-2026,High,233221,True
+CA - Screening Reject,Policy norms not met,Pincode not present,25-03-2026,High,742122,True
+CA - Screening Reject,Other,Bureau score low,24-03-2026,Medium,500118,False
+CA - Screening Reject,Policy norms not met,Pincode not present,22-04-2026,High,502291,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,10-03-2026,Medium,624201,True
+CA - Screening Reject,Policy norms not met,Pincode not present,30-03-2026,High,506370,True
+Credit Review,Other,Income criteria not met,31-03-2026,Very High,721448,True
+CA - Screening Reject,Policy norms not met,Age criteria,17-03-2026,High,561213,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,29-04-2026,High,500001,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,07-03-2026,High,505129,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,21-04-2026,High,212206,True
+CA - Screening Reject,Other,Bureau score low,12-03-2026,Medium,335707,True
+CA - Screening Reject,Policy norms not met,Negative Location,03-04-2026,High,501158,True
+Ops Check,Other,Age criteria,26-03-2026,High,627604,True
+CA - Screening Reject,Policy norms not met,Negative Location,15-04-2026,High,335805,True
+CA - Screening Reject,Income not verified,Bureau score low,14-03-2026,Medium,462008,True
+CA - Screening Reject,Policy norms not met,Negative Location,14-03-2026,High,731129,False
+Credit Review,Other,Existing obligations,16-03-2026,High,305802,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,05-04-2026,Medium,741137,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,01-03-2026,High,602026,True
+Ops Check,Income not verified,Existing obligations,09-04-2026,High,477331,False
+CA - Screening Reject,Policy norms not met,Negative Location,10-03-2026,Medium,110063,True
+CA - Screening Reject,Policy norms not met,Negative Location,25-04-2026,Very High,416235,False
+CA - Screening Reject,Policy norms not met,Pincode not present,07-03-2026,High,394375,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-04-2026,Very High,332406,False
+CA - Screening Reject,Policy norms not met,High Risk Pincode,15-03-2026,Very High,741202,True
+CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,110058,True
+CA - Screening Reject,Policy norms not met,High Risk Pincode,06-04-2026,High,110083,True
+CA - Screening Reject,Policy norms not met,Pincode not present,08-03-2026,High,600056,True
+CA - Screening Reject,Policy norms not met,Pincode not present,17-04-2026,Medium,721434,False
+CA - Screening Reject,Policy norms not met,Negative Location,20-03-2026,Medium,506244,False
+Ops Check,Policy norms not met,Age criteria,16-03-2026,Very High,608303,True
+Credit Review,Income not verified,Age criteria,10-03-2026,High,210431,True
+Ops Check,Policy norms not met,Bureau score low,30-04-2026,Medium,212663,False
+CA - Screening Reject,Policy norms not met,Negative Location,23-03-2026,High,503202,True
+Ops Check,Income not verified,Bureau score low,23-03-2026,High,441105,False
+CA - Screening Reject,Policy norms not met,Pincode not present,28-04-2026,Medium,474009,True
+Ops Check,Other,Bureau score low,02-04-2026,High,224225,False
+CA - Screening Reject,Policy norms not met,Pincode not present,27-04-2026,Very High,110053,True
+CA - Screening Reject,Policy norms not met,Bureau score low,26-04-2026,Medium,232331,False
+CA - Screening Reject,Policy norms not met,Negative Location,27-04-2026,High,621651,True
+Ops Check,Other,Bureau score low,07-03-2026,Medium,486890,True
+CA - Screening Reject,Policy norms not met,Age criteria,04-04-2026,High,581358,False
+Ops Check,Policy norms not met,Existing obligations,13-03-2026,Very High,110081,False
+Ops Check,Policy norms not met,Existing obligations,14-04-2026,Medium,110151,False

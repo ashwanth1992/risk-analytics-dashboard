@@ -85,11 +85,6 @@ TIER_ATS      = {"Low": 55000, "Medium": 75000, "High": 90000, "Very High": 1100
 FEMI_LABELS   = ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26"]
 
 
-def rand_pincode(prefix: int) -> str:
-    suffix = random.randint(1000, 9999)
-    return f"{prefix}{suffix:04d}"
-
-
 def random_date(start: date, end: date) -> date:
     delta = (end - start).days
     return start + timedelta(days=random.randint(0, delta))
@@ -99,20 +94,31 @@ def fmt_date(d: date) -> str:
     return d.strftime("%d-%m-%Y")
 
 
+# ── Real pincode pool ───────────────────────────────────────────────────────
+# Invented pincodes (e.g. random digits after a state prefix) almost never match a
+# real allocated pincode, so they'd have no entry in reference/india_pincode_coords.xlsx
+# and never render as a dot on the map. Sampling from the real file guarantees every
+# synthetic pincode has a valid lat/long.
+
+_COORDS_DF = pd.read_excel("reference/india_pincode_coords.xlsx")
+
+
+def real_pincodes_for_state(state: str, exclude: set = frozenset()) -> list[str]:
+    pins = _COORDS_DF.loc[_COORDS_DF["State"] == state, "Pincode"].astype(str).str.zfill(6).unique().tolist()
+    return [p for p in pins if p not in exclude]
+
+
 # ── Build pincode universe ────────────────────────────────────────────────────
 
 def build_pincode_universe() -> list[dict]:
     pins = []
     for state, info in GEO.items():
         districts = info["districts"]
-        prefix = info["prefix"]
         n_pins = max(20, int(300 * TIER_WEIGHTS[0]))  # ~30 per state
-        used = set()
-        for _ in range(n_pins):
-            pin = rand_pincode(prefix)
-            while pin in used:
-                pin = rand_pincode(prefix)
-            used.add(pin)
+        real_pins = real_pincodes_for_state(state)
+        random.shuffle(real_pins)
+        chosen = real_pins[:n_pins]
+        for pin in chosen:
             dist = random.choice(districts)
             pins.append({"state": state, "district": dist, "pincode": pin})
     return pins
@@ -245,10 +251,14 @@ def gen_market_data(pins: list[dict]):
                     })
 
     # Add ~30 greenfield pincodes (not in portfolio) so Expansion tab has targets
+    portfolio_pins = {p["pincode"] for p in pins}
     for _ in range(30):
         state = random.choice(list(GEO.keys()))
         dist  = random.choice(GEO[state]["districts"])
-        pin   = rand_pincode(GEO[state]["prefix"])  # likely not in portfolio
+        candidates = real_pincodes_for_state(state, exclude=portfolio_pins)
+        if not candidates:
+            continue
+        pin = random.choice(candidates)  # real pincode, guaranteed not already in portfolio
         for q in quarters:
             loans = random.randint(100, 800)
             rate  = random.uniform(0.03, 0.08)  # greenfield = lower risk
