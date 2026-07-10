@@ -1,4 +1,8 @@
 import re
+import subprocess
+import sys
+import tempfile
+import os
 
 with open(r'dashboard_template.html', encoding='utf-8') as f:
     html = f.read()
@@ -120,3 +124,45 @@ else:
     print('\nLast 10 lines:')
     for ln, b, p, txt in history[-10:]:
         print(f'L{ln:4d} [B:{b:+d} P:{p:+d}]  {txt}'.encode('ascii', 'replace').decode())
+
+# ── Real syntax validation via `node --check` ────────────────────────────────
+# Brace/paren balance (above) is a necessary but not sufficient check — it passed every
+# build that shipped this week's real runtime bugs (e.g. bad function signatures, wrong
+# operators), since those don't imbalance brackets. This runs each inline <script> block
+# (skips ones with a src= attribute, e.g. any that might reference an external file) through
+# Node's actual parser for a real syntax check, not just a bracket count.
+print('\n' + '=' * 60)
+print('NODE --CHECK (real JS parse, not just bracket balance)')
+print('=' * 60)
+blocks = re.findall(r'<script(?![^>]*\bsrc=)[^>]*>(.*?)</script>', html, flags=re.S)
+if not blocks:
+    print('No inline <script> blocks found.')
+else:
+    node_ok = True
+    node_missing = False
+    for i, block in enumerate(blocks):
+        fd, path = tempfile.mkstemp(suffix='.js')
+        try:
+            with os.fdopen(fd, 'w', encoding='utf-8') as tf:
+                tf.write(block)
+            result = subprocess.run(['node', '--check', path], capture_output=True, text=True)
+            if result.returncode == 0:
+                print(f'  Block {i} ({len(block):,} chars): OK')
+            else:
+                node_ok = False
+                print(f'  Block {i} ({len(block):,} chars): SYNTAX ERROR')
+                print('    ' + result.stderr.strip().replace('\n', '\n    '))
+        except FileNotFoundError:
+            node_missing = True
+            print('  node executable not found on PATH — skipping real syntax check '
+                  '(install Node.js to enable this, or run it manually: node --check <script>).')
+            break
+        finally:
+            os.remove(path)
+    if node_missing:
+        pass
+    elif node_ok:
+        print(f'\nAll {len(blocks)} script block(s) pass node --check.')
+    else:
+        print('\nAt least one script block FAILED node --check — see above.')
+        sys.exit(1)

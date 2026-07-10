@@ -2,7 +2,7 @@
 generate_sample_data.py — Creates synthetic demo data in sample_data/
 
 Generates realistic but entirely fictional lending portfolio data for Indian
-states and districts. Run once before engine_data.py to populate sample_data/.
+states and districts. Run once before process_data.py to populate sample_data/.
 
 Usage:
     python generate_sample_data.py
@@ -27,7 +27,7 @@ OUT = Path("sample_data")
 OUT.mkdir(exist_ok=True)
 
 # ── Geography ────────────────────────────────────────────────────────────────
-# Real state/district names so GeoJSON mapping works in engine_data.py
+# Real state/district names so GeoJSON mapping works in process_data.py
 
 GEO = {
     "Maharashtra": {
@@ -141,6 +141,12 @@ def gen_portfolio(pins: list[dict], n: int = 5000) -> pd.DataFrame:
             perm_dist  = p["district"]
             perm_pin   = p["pincode"]
 
+        # 90P12M is a stricter/later-maturing default flag than 30P_6M — only ever 1 if 30P_6M is
+        # also 1 (a loan that's 90+ dpd at 12mo was necessarily 30+ dpd at 6mo), and only observable
+        # once MOB_12_completed. Older FEMI cohorts are more likely to have matured to MOB12.
+        mob12_completed = 1 if femi in ("Nov '25", "Dec '25", "Jan '26") else 0
+        bad_90p12m = 1 if (bad and mob12_completed and random.random() < 0.6) else 0
+
         rows.append({
             "Lead_ID":                  f"LD{i+1:06d}",
             "FEMI":                     femi,
@@ -149,6 +155,8 @@ def gen_portfolio(pins: list[dict], n: int = 5000) -> pd.DataFrame:
             "mx_current_address_zip":   p["pincode"],
             "risk_category_final":      tier,
             "30P_6M":                   bad,
+            "90P_12M":                  bad_90p12m,
+            "MOB_12_completed":         mob12_completed,
             "Disbursed Loan Amt":       loan_amt,
             "Perm. Address State":      perm_state,
             "Perm. Address Dist":       perm_dist,
@@ -212,18 +220,28 @@ def gen_market_data(pins: list[dict]):
                     rate  = random.uniform(0.04, 0.12)
                     delq  = round(loans * rate)
                     ts    = random.choice(trade_sizes)
+                    # 90P12M population is independently computed (MOB12, not MOB6) — ~72-88% of the
+                    # MOB6 loan count, per the real denominator-fix rationale in process_data.py
+                    loans_90p12m = round(loans * random.uniform(0.72, 0.88))
+                    rate_90p12m  = random.uniform(0.03, 0.09)
+                    delq_90p12m  = round(loans_90p12m * rate_90p12m)
+                    avg_ticket   = random.uniform(45000, 120000)
+                    sanctioned_amt = round(loans * avg_ticket)
                     # Pick a pincode for this district
                     dist_pins = [p["pincode"] for p in pins if p["state"] == state and p["district"] == dist]
                     pin = random.choice(dist_pins) if dist_pins else ""
                     rows.append({
-                        "STATE":                   state,
-                        "DISTRICT":                dist,
-                        "ORG_QRT":                 q,
-                        "MEMBER_GROUP":            mg,
-                        "TRADE_SIZE":              ts,
-                        "NUMBER_OF_LOANS":         loans,
-                        "DELINQUENT_30P6M_TRADES": delq,
-                        "PINCODE":                 pin,
+                        "STATE":                     state,
+                        "DISTRICT":                  dist,
+                        "ORG_QRT":                   q,
+                        "MEMBER_GROUP":              mg,
+                        "TRADE_SIZE":                ts,
+                        "NUMBER_OF_LOANS":           loans,
+                        "DELINQUENT_30P6M_TRADES":   delq,
+                        "NUMBER_OF_LOANS_90P12M":    loans_90p12m,
+                        "DELINQUENT_90P12M_TRADES":  delq_90p12m,
+                        "TOTAL_SANCTIONED_AMOUNT":   sanctioned_amt,
+                        "PINCODE":                   pin,
                     })
 
     # Add ~30 greenfield pincodes (not in portfolio) so Expansion tab has targets

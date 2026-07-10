@@ -1,6 +1,6 @@
 """
 build_dashboard.py — Layer 3: pipeline_output.json → final HTML dashboard
-Run this for any UI/template-only changes. Typical runtime: 2-5 seconds.
+Run this for any UI/template-only changes. Typical runtime: 15-20 seconds at current build size.
 
 Usage:
     python build_dashboard.py                          # uses defaults
@@ -12,6 +12,8 @@ Usage:
 import json
 import logging
 import argparse
+import re
+import sys
 from pathlib import Path
 from datetime import datetime
 
@@ -24,7 +26,7 @@ DEFAULT_TEMPLATE = Path("dashboard_template.html")
 DEFAULT_OUT_DIR  = Path("demo")
 DEFAULT_OUT_NAME = "dashboard.html"
 
-# Mapping: placeholder token → key in dashboard_data.json
+# Mapping: placeholder token → key in pipeline_output.json
 # GEOJSON_DATA is a raw string (not JSON-encoded twice); everything else gets json.dumps()
 PLACEHOLDER_MAP = [
     ("__PORTFOLIO_STATS__",   "PORTFOLIO_STATS",   True),
@@ -47,7 +49,7 @@ PLACEHOLDER_MAP = [
 ]
 
 
-def inject(data_path: Path, template_path: Path, out_path: Path) -> None:
+def inject(data_path: Path, template_path: Path, out_path: Path, allow_missing: bool = False) -> None:
     t0 = datetime.now()
 
     # ── load data ───────────────────────────────────────────────────────────
@@ -68,16 +70,35 @@ def inject(data_path: Path, template_path: Path, out_path: Path) -> None:
     html = template_path.read_text(encoding='utf-8')
 
     # ── inject ───────────────────────────────────────────────────────────────
-    missing = []
+    # A missing key used to be just a warning + exit 0, and the template's own
+    # `typeof __TOKEN__!=="undefined"` guards would silently default that section to
+    # empty — a "successful" build could ship with an invisibly empty data section.
+    # Now it's a hard error by default (--allow-missing to opt back into the old,
+    # permissive behavior for a deliberate partial build).
+    missing = [key for _, key, _ in PLACEHOLDER_MAP if key not in data]
+    if missing:
+        msg = f"Keys missing from data file: {missing}"
+        if allow_missing:
+            logger.warning(msg + " — placeholders will be left unreplaced (--allow-missing set)")
+        else:
+            raise KeyError(msg + ". Re-run process_data.py, or pass --allow-missing to build anyway.")
+
+    # Single-pass replace (was 17 sequential str.replace calls, each a full-string copy of a
+    # ~450MB string — ~7+GB of transient churn) via one regex pass keyed on the placeholder map.
+    replacements = {}
     for placeholder, key, do_dumps in PLACEHOLDER_MAP:
         if key not in data:
-            missing.append(key)
             continue
-        value = json.dumps(data[key], ensure_ascii=False) if do_dumps else data[key]
-        html = html.replace(placeholder, value)
+        replacements[placeholder] = json.dumps(data[key], ensure_ascii=False) if do_dumps else data[key]
+    pattern = re.compile("|".join(re.escape(p) for p in replacements))
+    html = pattern.sub(lambda m: replacements[m.group(0)], html)
 
-    if missing:
-        logger.warning(f"Keys missing from data file (placeholders left unreplaced): {missing}")
+    # A token surviving into the output means either a typo in PLACEHOLDER_MAP or a template
+    # edit that introduced a new __TOKEN__ without a matching JSON key — catch it before ship
+    # rather than let it render as literal text or an undefined JS identifier.
+    leftover = sorted(set(re.findall(r"__[A-Z][A-Z0-9_]*__", html)))
+    if leftover:
+        raise ValueError(f"Placeholder token(s) survived injection (not in pipeline_output.json): {leftover}")
 
     # ── write output ─────────────────────────────────────────────────────────
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -95,8 +116,10 @@ def main():
                         help=f"Path to HTML template (default: {DEFAULT_TEMPLATE})")
     parser.add_argument("--out",      type=Path, default=DEFAULT_OUT_DIR / DEFAULT_OUT_NAME,
                         help=f"Output HTML path (default: {DEFAULT_OUT_DIR}/{DEFAULT_OUT_NAME})")
+    parser.add_argument("--allow-missing", action="store_true",
+                        help="Don't fail on missing pipeline_output.json keys — leave their placeholders unreplaced (old default behavior)")
     args = parser.parse_args()
-    inject(args.data, args.template, args.out)
+    inject(args.data, args.template, args.out, allow_missing=args.allow_missing)
 
 
 if __name__ == "__main__":

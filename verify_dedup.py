@@ -1,5 +1,5 @@
 """
-verify_dedup.py — Verifies that no disbursement is double-counted across
+verify_dedup.py — Verifies that no D1 disbursal is double-counted across
 region and corridor loss calculations.
 
 Two layers of checking:
@@ -21,9 +21,9 @@ Two layers of checking:
     under what conditions double-counting would occur.
 
 Usage:
-    python Verify_Dedup.py
-    python Verify_Dedup.py --corridor "Maharashtra -> Gujarat"  # single corridor detail
-    python Verify_Dedup.py --top 15
+    python verify_dedup.py
+    python verify_dedup.py --corridor "Maharashtra -> Gujarat"  # single corridor detail
+    python verify_dedup.py --top 15
 """
 
 import json
@@ -38,8 +38,8 @@ if hasattr(sys.stdout, "reconfigure"):
 
 ARROW = " → "   # Unicode right arrow used in corridor keys
 
-DATA_JSON      = Path("dashboard_data.json")
-D1_FILE        = Path("D1_Tracker - raw_data.csv")
+DATA_JSON      = Path("pipeline_output.json")
+D1_FILE        = Path("sample_data/disbursement_tracker.csv")
 SUBSTAGE_COL   = "mx_lead_substage"
 SUBSTAGE_VAL   = "Disbursed"
 DATE_COL       = "mx_lender_disbursal_date"

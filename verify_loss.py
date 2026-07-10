@@ -1,11 +1,11 @@
 """
 verify_loss.py — Independent verification of D1-based business loss
-Reads dashboard_data.json + the exported Excel, cross-checks every row.
+Reads pipeline_output.json + the exported Excel, cross-checks every row.
 
 Usage:
     python verify_loss.py                                    # defaults
     python verify_loss.py --excel rde_summary_2026-05-28.xlsx
-    python verify_loss.py --data dashboard_data.json
+    python verify_loss.py --data pipeline_output.json
 """
 
 import json
@@ -18,7 +18,7 @@ def load_data(data_path):
         return json.load(f)
 
 def fmt_pin(v):
-    """Match engine_data.py _fmt_pin: zero-padded 6-digit string."""
+    """Match process_data.py _fmt_pin: zero-padded 6-digit string."""
     try:
         return str(int(float(v))).zfill(6)
     except:
@@ -53,7 +53,7 @@ def get_rates_from_cats(cats):
 
 def main():
     parser = argparse.ArgumentParser(description="Verify D1 business loss independently")
-    parser.add_argument("--data", type=Path, default=Path("dashboard_data.json"))
+    parser.add_argument("--data", type=Path, default=Path("pipeline_output.json"))
     parser.add_argument("--excel", type=Path, default=None, help="Optional: exported Excel to cross-check")
     parser.add_argument("--sl", type=float, default=7.5, help="Low threshold %%")
     parser.add_argument("--sm", type=float, default=10.5, help="Medium threshold %%")

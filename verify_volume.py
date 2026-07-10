@@ -1,7 +1,7 @@
 """
 verify_volume.py — Cross-checks D1_PINCODE_VOLUME and CORRIDOR_D1_VOLUME stored in
-pipeline_output.json against the raw disbursement tracker CSV, using the exact same
-pipeline logic as process_data.py.
+pipeline_output.json against the raw D1_Tracker CSV, using the exact same pipeline
+logic as process_data.py.
 
 Three verification sections:
   1. PINCODE VOLUME  — re-computes monthly count per (pin, tier) and compares to JSON
@@ -10,12 +10,12 @@ Three verification sections:
                         (different populations, informational only)
 
 Usage:
-    python Verify_D1.py
-    python Verify_D1.py --top 20          # show top N mismatches
-    python Verify_D1.py --tol 0.05        # looser float tolerance
-    python Verify_D1.py --no-lead         # skip lead array section
-    python Verify_D1.py --pin 380001      # drill into a specific pincode
-    python Verify_D1.py --corridor "Maharashtra ->Gujarat"
+    python verify_volume.py
+    python verify_volume.py --top 20          # show top N mismatches
+    python verify_volume.py --tol 0.05        # looser float tolerance
+    python verify_volume.py --no-lead         # skip lead array section
+    python verify_volume.py --pin 380001      # drill into a specific pincode
+    python verify_volume.py --corridor "Maharashtra ->Gujarat"
 """
 
 import json
@@ -28,11 +28,11 @@ from pathlib import Path
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-ARROW = " → "  # Unicode right arrow — matches corridor keys in dashboard_data.json
+ARROW = " → "  # Unicode right arrow — matches corridor keys in pipeline_output.json
 
 # ── File paths ────────────────────────────────────────────────────────────────
-DATA_JSON = Path("dashboard_data.json")
-D1_FILE   = Path("D1_Tracker - raw_data.csv")
+DATA_JSON = Path("pipeline_output.json")
+D1_FILE   = Path("sample_data/disbursement_tracker.csv")
 
 # ── Config mirrors Phase2Config defaults ──────────────────────────────────────
 SUBSTAGE_COL    = "mx_lead_substage"
@@ -45,6 +45,18 @@ CURR_STATE_COL  = "Curr Address State"
 D1_START        = "2026-03-01"
 D1_END          = "2026-04-30"
 CANONICAL_TIERS = ["Low", "Medium", "High", "Very High"]
+
+# Mirrors process_data.py's _build_corridor_d1_volume normalization (added 2026-07-10) — without
+# this, a raw D1-tracker spelling ("dadra and nagar haveli") won't match the title-cased +
+# aliased corridor keys in CORRIDOR_DATA/CORRIDOR_D1_VOLUME, and this script would report
+# spurious "missing" corridors that are actually present under the normalized name.
+STATE_MAPPING = {
+    "Nct Of Delhi": "Delhi", "Orissa": "Odisha", "Chattisgarh": "Chhattisgarh",
+    "Tamilnadu": "Tamil Nadu", "Jammu & Kashmir": "Jammu and Kashmir",
+    "Pondicherry": "Puducherry",
+    "Dadra & Nagar Haveli And Daman & Diu": "Dadra and Nagar Haveli and Daman and Diu",
+    "Andaman & Nicobar Islands": "Andaman and Nicobar Islands",
+}
 
 SEP = "=" * 64
 
@@ -70,7 +82,7 @@ def load_dashboard() -> dict:
 def load_and_filter_d1() -> tuple:
     """
     Returns (filtered_df, num_months) applying the exact same steps as
-    _build_d1_pincode_volume in engine_data.py.
+    _build_d1_pincode_volume in process_data.py.
     """
     print(f"\nLoading {D1_FILE} …")
     df = pd.read_csv(D1_FILE, low_memory=False)
@@ -136,8 +148,8 @@ def recompute_corridor_volume(df: pd.DataFrame, num_months: int) -> dict:
         return {}
 
     d = df.copy()
-    d["_ps"] = d[PERM_STATE_COL].astype(str).str.strip()
-    d["_cs"] = d[CURR_STATE_COL].astype(str).str.strip()
+    d["_ps"] = d[PERM_STATE_COL].astype(str).str.title().str.strip().replace(STATE_MAPPING)
+    d["_cs"] = d[CURR_STATE_COL].astype(str).str.title().str.strip().replace(STATE_MAPPING)
     bad = {"", "nan", "none", "na"}
     d = d[
         d["_ps"].str.lower().map(lambda x: x not in bad) &
@@ -267,8 +279,8 @@ def drill_corridor(ck: str, df: pd.DataFrame, num_months: int,
 
     perm, curr = parts
     d = df.copy()
-    d["_ps"] = d[PERM_STATE_COL].astype(str).str.strip()
-    d["_cs"] = d[CURR_STATE_COL].astype(str).str.strip()
+    d["_ps"] = d[PERM_STATE_COL].astype(str).str.title().str.strip().replace(STATE_MAPPING)
+    d["_cs"] = d[CURR_STATE_COL].astype(str).str.title().str.strip().replace(STATE_MAPPING)
     sub = d[(d["_ps"] == perm) & (d["_cs"] == curr)]
 
     if sub.empty:
@@ -372,7 +384,7 @@ def print_ats(ats_data: dict):
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Verify D1 volume data in dashboard_data.json")
+    parser = argparse.ArgumentParser(description="Verify D1 volume data in pipeline_output.json")
     parser.add_argument("--top",       type=int,   default=15,   help="Top N mismatches to show per section")
     parser.add_argument("--tol",       type=float, default=0.01, help="Float tolerance for volume comparison")
     parser.add_argument("--no-lead",   action="store_true",      help="Skip lead array section")

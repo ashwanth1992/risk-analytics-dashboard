@@ -1,4 +1,4 @@
-﻿# Geospatial Credit Risk Intelligence Dashboard
+# Geospatial Credit Risk Intelligence Dashboard
 
 > A self-contained interactive risk analytics product built for a lending company's strategy and risk team — no server, no BI tool license, just a single HTML file any stakeholder can open.
 
@@ -28,7 +28,7 @@ The constraint that shaped every decision: **neither group would install softwar
 
 ## What It Does
 
-Five capability areas, each a navigation tab in the dashboard:
+Six capability areas, each a navigation tab in the dashboard:
 
 ### 1. Regions
 State → district → pincode drilldown on the interactive map. Each pincode is colour-coded by internal delinquency rate (30-day default over 6 months), with risk tier breakdown (Low / Medium / High / Very High). Analysts can drill from national view to a specific pincode in three clicks.
@@ -45,9 +45,12 @@ This lets the risk team quantify the cost of *not* acting — and size the impac
 Borrowers' permanent address (home state) often differs from their current address (where they live and work). Delinquency in this migrant segment follows inter-state movement patterns that are invisible in a pincode-only view. This tab maps those migration corridors and overlays default rates, so risk isn't attributed to just the current location but to the origin-destination flow.
 
 ### 4. Expansion
-Pincodes where bureau market delinquency data exists but the company has no active portfolio — potential new markets. Filtered by configurable thresholds (internal rate â‰¤ X%, market rate â‰¤ Y%, minimum rejected applications as a demand signal). Greenfield districts (zero existing presence) are separated from growth-in-existing districts.
+Pincodes where bureau market delinquency data exists but the company has no active portfolio — potential new markets. Filtered by configurable thresholds (internal rate ≤ X%, market rate ≤ Y%, minimum rejected applications as a demand signal). Greenfield districts (zero existing presence) are separated from growth-in-existing districts.
 
-### 5. Results (Executive Summary)
+### 5. Market View
+A dedicated bureau-vs-internal delinquency comparison, filterable by peer group, loan-range, and quarter, at state/district/pincode grain — including geographies (Northeast states, J&K, Ladakh) where the company has no portfolio at all but bureau data still exists. Adds a quarter-over-quarter trend view and a "Growth Signal" export that flags whether exposure is growing into worsening or improving risk. This is the newest and now-largest capability area in the product; it required extending the bureau data pipeline to carry a full peer-group × loan-range × quarter breakdown at every geographic grain, and fixing an independently-discovered denominator bug that had understated the 90-day/12-month delinquency rate by roughly 35-40%.
+
+### 6. Results (Executive Summary)
 A single-screen summary of the selected policy scenario: total leads affected, estimated monthly loss, loss as % of disbursals, and a breakdown by region vs. corridor contribution. Designed for leadership review — no map interaction required. Includes one-click Excel export of all tightening and expansion recommendations.
 
 ---
@@ -57,13 +60,13 @@ A single-screen summary of the selected policy scenario: total leads affected, e
 These are the choices that shaped what got built and why.
 
 **1. Self-contained HTML, no server.**
-The obvious infrastructure choices (a hosted dashboard, a BI tool) would have created an access and adoption problem. The risk team needed to share outputs with operations leadership, external stakeholders, and occasionally board-level audiences — none of whom would log into an internal tool. A single HTML file, emailed or dropped in a shared drive, removes all friction. The tradeoff: the file is large (~47 MB) and data refresh requires re-running the pipeline. That was an acceptable tradeoff given how infrequently the underlying portfolio data changed (monthly refresh cycle).
+The obvious infrastructure choices (a hosted dashboard, a BI tool) would have created an access and adoption problem. The risk team needed to share outputs with operations leadership, external stakeholders, and occasionally board-level audiences — none of whom would log into an internal tool. A single HTML file, emailed or dropped in a shared drive, removes all friction. The tradeoff: the file is large (~450 MB at full bureau-data granularity) and data refresh requires re-running the pipeline. That was an acceptable tradeoff given how infrequently the underlying portfolio data changed (monthly refresh cycle) — file size has been tested empirically at every growth step to confirm browser load time stays roughly flat.
 
 **2. Separating data processing from UI iteration.**
-Early versions rebuilt everything from scratch on every run. Processing 400+ MB of raw files took 1–5 minutes, which made UI tweaks slow and frustrating. Splitting the pipeline into two stages — `process_data.py` outputs a 23 MB JSON payload once; `build_dashboard.py` injects it into the template in ~5 seconds — meant that CSS changes, label tweaks, or layout adjustments didn't require re-reading 400 MB of source data. This changed the development loop from minutes to seconds for UI work.
+Early versions rebuilt everything from scratch on every run. Processing 500+ MB of raw files took 1–5 minutes, which made UI tweaks slow and frustrating. Splitting the pipeline into two stages — `process_data.py` outputs a ~236 MB JSON payload once; `build_dashboard.py` injects it into the template in 15–20 seconds at current scale — meant that CSS changes, label tweaks, or layout adjustments didn't require re-reading 500+ MB of source data. This changed the development loop from minutes to seconds for UI work.
 
 **3. The simulation engine is the product's core value.**
-A map that shows delinquency rates is useful. A map where you can select a set of pincodes, simulate stopping lending there, and see the quantified monthly loss impact *before you act* is a decision tool. The distinction matters because it changes what the risk team brings to a policy meeting — instead of "here are the bad pincodes," it's "here's the cost of each option." Building the simulation required agreeing on loss methodology upfront (D1 volume Ã— average ticket size Ã— risk months), which forced alignment between risk, finance, and strategy on how to measure impact — arguably more valuable than the tool itself.
+A map that shows delinquency rates is useful. A map where you can select a set of pincodes, simulate stopping lending there, and see the quantified monthly loss impact *before you act* is a decision tool. The distinction matters because it changes what the risk team brings to a policy meeting — instead of "here are the bad pincodes," it's "here's the cost of each option." Building the simulation required agreeing on loss methodology upfront (D1 volume × average ticket size × risk months), which forced alignment between risk, finance, and strategy on how to measure impact — arguably more valuable than the tool itself.
 
 **4. Bureau data as the expansion layer, not a replacement.**
 Internal portfolio data tells you where defaults are happening. It tells you nothing about where the company *isn't* present. Bureau market data fills that gap: pincodes where the broader market is healthy but the company hasn't lent. Rather than building two separate analyses, combining both datasets in the same tool meant an analyst could move from "tighten here" to "grow here instead" in the same session — a workflow that previously required two separate Excel files and a manual comparison.
@@ -79,22 +82,22 @@ All tunable parameters — date windows, risk thresholds, column mappings, filte
 ## Architecture
 
 ```
-[Raw Data Sources]                         [~430 MB total]
+[Raw Data Sources]                         [~583 MB total]
   Portfolio risk file (Excel, 17 MB)       — delinquency rates per lead
   D1 disbursement tracker (CSV, 29 MB)     — volume and ATS calculation
-  Bureau market data (CSV, 186 + 202 MB)   — external delinquency benchmarks
-  Credit rejection log (CSV, 16 MB)        — demand signal for expansion
+  Bureau market data (CSV, ~530 MB)        — external delinquency benchmarks (30P6M + 90P12M)
+  Credit rejection log (CSV, 0.4 MB)       — demand signal for expansion
   Pincode classification (CSV, 1.7 MB)     — operational vs. non-operational flags
   India pincode coordinates (Excel, 1.1 MB)— lat/long for map rendering
   India state boundaries (GeoJSON, 3.8 MB) — polygon rendering
-         â”‚
-         â–¼
+         │
+         ▼
   process_data.py          (~1–5 min)
-  → dashboard_data.json   (23 MB, 17 serialized data structures)
-         â”‚
-         â–¼
-  build_dashboard.py + dashboard_template.html   (~5 sec)
-  → demo/dashboard.html   (47 MB, fully standalone)
+  → pipeline_output.json  (~236 MB, 17 serialized data structures)
+         │
+         ▼
+  build_dashboard.py + dashboard_template.html   (~15–20 sec at this scale)
+  → demo/dashboard.html   (~450 MB, fully standalone)
 ```
 
 **Frontend stack:** Leaflet.js (interactive map), vanilla JS simulation engine, XLSX.js (Excel export). No framework, no build step, no dependencies beyond what's bundled in the HTML.
@@ -120,9 +123,10 @@ For UI-only changes (CSS, labels, layout), skip Step 1 — Step 2 alone takes ~5
 
 **Verification scripts** (run after Step 1 to cross-check outputs):
 ```bash
-python verify_volume.py       # verify pincode and corridor volumes against raw CSV
+python verify_volume.py   # verify pincode and corridor volumes against raw CSV
 python verify_loss.py     # cross-check loss calculations
 python verify_dedup.py    # confirm no disbursals are double-counted
+python verify_bureau.py   # internal consistency checks for the bureau/Market View data structures
 ```
 
 ---

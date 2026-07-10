@@ -1,50 +1,4 @@
 prospect_stage,source,mx_lead_substage,mx_lender_disbursal_date,mx_risk_category,mx_final_loan_amount,mx_current_address_zip,Perm Address State,Curr Address State
-Disbursed,,Disbursed,25-04-2026,Medium,122000.0,565533,Karnataka,Karnataka
-Disbursed,,Disbursed,23-03-2026,Low,68000.0,119042,Delhi,Delhi
-Disbursed,,Disbursed,24-01-2026,Low,113000.0,302684,Rajasthan,Rajasthan
-Disbursed,,Disbursed,17-04-2026,High,153000.0,308259,Rajasthan,Rajasthan
-Disbursed,,Disbursed,16-01-2026,Very High,211000.0,388213,Gujarat,Gujarat
-Disbursed,,Disbursed,05-02-2026,High,156000.0,388894,Odisha,Gujarat
-Disbursed,,Disbursed,03-04-2026,High,141000.0,306053,Rajasthan,Rajasthan
-Disbursed,,Disbursed,03-02-2026,Medium,60000.0,509938,Telangana,Telangana
-Disbursed,,Disbursed,29-01-2026,Low,43000.0,605425,Tamil Nadu,Tamil Nadu
-Disbursed,,Disbursed,28-04-2026,High,125000.0,461187,Rajasthan,Madhya Pradesh
-Disbursed,,Disbursed,16-01-2026,High,47000.0,462641,Uttar Pradesh,Madhya Pradesh
-Disbursed,,Disbursed,29-04-2026,Low,53000.0,403547,Maharashtra,Maharashtra
-Disbursed,tp_form,Disbursed,17-04-2026,Medium,139000.0,707859,West Bengal,West Bengal
-Disbursed,,Disbursed,18-02-2026,Low,116000.0,381919,Gujarat,Gujarat
-Disbursed,,Disbursed,15-03-2026,Low,79000.0,207086,Bihar,Uttar Pradesh
-Disbursed,,Disbursed,25-03-2026,Medium,132000.0,303463,Rajasthan,Rajasthan
-Disbursed,,Disbursed,02-03-2026,High,106000.0,702033,West Bengal,West Bengal
-Disbursed,,Disbursed,06-01-2026,Medium,70000.0,306295,Rajasthan,Rajasthan
-Disbursed,,Disbursed,19-04-2026,Low,90000.0,603881,Tamil Nadu,Tamil Nadu
-Disbursed,,Disbursed,10-01-2026,Low,110000.0,704906,West Bengal,West Bengal
-Disbursed,,Disbursed,09-03-2026,Low,86000.0,562964,Odisha,Karnataka
-Disbursed,,Disbursed,05-04-2026,Medium,56000.0,505336,Uttar Pradesh,Telangana
-Disbursed,,Disbursed,30-03-2026,Medium,125000.0,405557,Odisha,Maharashtra
-Disbursed,,Disbursed,30-01-2026,Medium,106000.0,608532,Tamil Nadu,Tamil Nadu
-Disbursed,tp_form,Disbursed,13-04-2026,High,87000.0,701086,West Bengal,West Bengal
-Disbursed,,Disbursed,05-01-2026,Medium,160000.0,202622,Bihar,Uttar Pradesh
-Disbursed,,Disbursed,25-01-2026,Low,46000.0,383529,Gujarat,Gujarat
-Disbursed,tp_form,Disbursed,28-04-2026,Low,29000.0,382924,Odisha,Gujarat
-Disbursed,,Disbursed,10-03-2026,Medium,89000.0,382480,Gujarat,Gujarat
-Disbursed,,Disbursed,15-02-2026,Medium,85000.0,504189,Madhya Pradesh,Telangana
-Disbursed,,Disbursed,28-02-2026,Low,53000.0,568144,Karnataka,Karnataka
-Disbursed,,Disbursed,10-01-2026,Medium,159000.0,205564,Uttar Pradesh,Uttar Pradesh
-Disbursed,,Disbursed,02-04-2026,High,76000.0,461151,Madhya Pradesh,Madhya Pradesh
-Disbursed,,Disbursed,27-04-2026,Low,118000.0,384993,Gujarat,Gujarat
-Disbursed,,Disbursed,02-04-2026,Medium,63000.0,389824,Gujarat,Gujarat
-Disbursed,,Disbursed,02-02-2026,Medium,132000.0,306314,Odisha,Rajasthan
-Disbursed,,Disbursed,30-03-2026,Low,91000.0,602020,Odisha,Tamil Nadu
-Disbursed,,Disbursed,25-02-2026,Very High,200000.0,467284,Madhya Pradesh,Madhya Pradesh
-Disbursed,,Disbursed,17-03-2026,Medium,91000.0,207686,Odisha,Uttar Pradesh
-Disbursed,,Disbursed,15-01-2026,Low,77000.0,383240,Gujarat,Gujarat
-Disbursed,,Disbursed,19-03-2026,Low,73000.0,709129,West Bengal,West Bengal
-Disbursed,,Disbursed,30-04-2026,Low,110000.0,404116,Maharashtra,Maharashtra
-Disbursed,tp_form,Disbursed,11-04-2026,High,138000.0,503653,Telangana,Telangana
-Disbursed,,Disbursed,18-04-2026,High,158000.0,206464,Odisha,Uttar Pradesh
-Disbursed,,Disbursed,21-04-2026,Low,113000.0,704131,West Bengal,West Bengal
-Disbursed,,Disbursed,04-04-2026,Medium,118000.0,563546,Karnataka,Karnataka
 Disbursed,,Disbursed,23-02-2026,High,170000.0,609548,Tamil Nadu,Tamil Nadu
 Disbursed,,Disbursed,28-01-2026,Low,64000.0,608022,Tamil Nadu,Tamil Nadu
 Disbursed,,Disbursed,08-03-2026,Medium,163000.0,381472,Uttar Pradesh,Gujarat
@@ -2999,3 +2953,49 @@ Disbursed,,Disbursed,15-03-2026,Low,110000.0,407252,Madhya Pradesh,Maharashtra
 Disbursed,,Disbursed,08-02-2026,Medium,73000.0,562964,Karnataka,Karnataka
 Disbursed,,Disbursed,26-03-2026,Low,53000.0,408019,Maharashtra,Maharashtra
 Disbursed,,Disbursed,11-03-2026,Low,120000.0,206876,Uttar Pradesh,Uttar Pradesh
+Disbursed,,Disbursed,23-01-2026,Very High,113000.0,562753,Karnataka,Karnataka
+Disbursed,,Disbursed,18-04-2026,Medium,130000.0,467438,Madhya Pradesh,Madhya Pradesh
+Disbursed,,Disbursed,30-01-2026,Low,90000.0,114986,Odisha,Delhi
+Disbursed,,Disbursed,09-02-2026,Low,56000.0,467504,Madhya Pradesh,Madhya Pradesh
+Disbursed,,Disbursed,23-01-2026,Low,112000.0,501674,Telangana,Telangana
+Disbursed,,Disbursed,18-03-2026,High,136000.0,409423,Maharashtra,Maharashtra
+Disbursed,,Disbursed,25-01-2026,Low,71000.0,705616,Madhya Pradesh,West Bengal
+Disbursed,tp_form,Disbursed,22-04-2026,Very High,162000.0,464267,Madhya Pradesh,Madhya Pradesh
+Disbursed,,Disbursed,20-02-2026,High,171000.0,502330,Telangana,Telangana
+Disbursed,,Disbursed,12-01-2026,Medium,114000.0,568508,Karnataka,Karnataka
+Disbursed,,Disbursed,21-01-2026,Medium,82000.0,116039,Delhi,Delhi
+Disbursed,,Disbursed,22-03-2026,Low,33000.0,303600,Rajasthan,Rajasthan
+Disbursed,,Disbursed,21-04-2026,Medium,82000.0,607232,Tamil Nadu,Tamil Nadu
+Disbursed,tp_form,Disbursed,02-02-2026,Low,30000.0,202697,Bihar,Uttar Pradesh
+Disbursed,,Disbursed,29-03-2026,Medium,145000.0,203535,Rajasthan,Uttar Pradesh
+Disbursed,,Disbursed,13-04-2026,High,121000.0,708840,West Bengal,West Bengal
+Disbursed,,Disbursed,14-03-2026,Low,38000.0,118434,Odisha,Delhi
+Disbursed,,Disbursed,04-01-2026,Medium,40000.0,114824,Uttar Pradesh,Delhi
+Disbursed,tp_form,Disbursed,27-03-2026,Medium,127000.0,509047,Telangana,Telangana
+Disbursed,,Disbursed,05-02-2026,Medium,65000.0,404611,Maharashtra,Maharashtra
+Disbursed,,Disbursed,25-04-2026,High,67000.0,114727,Delhi,Delhi
+Disbursed,,Disbursed,30-04-2026,Medium,98000.0,301126,Rajasthan,Rajasthan
+Disbursed,,Disbursed,08-04-2026,Low,105000.0,462020,Rajasthan,Madhya Pradesh
+Disbursed,,Disbursed,12-03-2026,Medium,162000.0,606733,Tamil Nadu,Tamil Nadu
+Disbursed,,Disbursed,06-02-2026,Medium,98000.0,503126,Telangana,Telangana
+Disbursed,,Disbursed,17-02-2026,Medium,124000.0,203535,Uttar Pradesh,Uttar Pradesh
+Disbursed,,Disbursed,05-02-2026,Low,100000.0,202035,Odisha,Uttar Pradesh
+Disbursed,,Disbursed,25-03-2026,Low,78000.0,383369,Gujarat,Gujarat
+Disbursed,,Disbursed,24-01-2026,Very High,72000.0,464310,Madhya Pradesh,Madhya Pradesh
+Disbursed,,Disbursed,12-03-2026,Very High,94000.0,508632,Telangana,Telangana
+Disbursed,,Disbursed,05-02-2026,Low,52000.0,468761,Madhya Pradesh,Madhya Pradesh
+Disbursed,,Disbursed,26-01-2026,Medium,94000.0,509094,Telangana,Telangana
+Disbursed,,Disbursed,09-03-2026,Very High,242000.0,565325,Karnataka,Karnataka
+Disbursed,,Disbursed,08-01-2026,Medium,149000.0,116576,Delhi,Delhi
+Disbursed,,Disbursed,27-03-2026,Medium,104000.0,461841,Madhya Pradesh,Madhya Pradesh
+Disbursed,tp_form,Disbursed,29-03-2026,Medium,60000.0,384115,Gujarat,Gujarat
+Disbursed,,Disbursed,19-01-2026,Medium,161000.0,201710,Uttar Pradesh,Uttar Pradesh
+Disbursed,,Disbursed,10-03-2026,Low,100000.0,307171,Rajasthan,Rajasthan
+Disbursed,tp_form,Disbursed,09-01-2026,High,98000.0,201422,Bihar,Uttar Pradesh
+Disbursed,,Disbursed,24-03-2026,Medium,53000.0,114335,Delhi,Delhi
+Disbursed,,Disbursed,07-03-2026,Medium,143000.0,401993,Maharashtra,Maharashtra
+Disbursed,,Disbursed,14-04-2026,High,84000.0,565920,Bihar,Karnataka
+Disbursed,,Disbursed,31-01-2026,Low,99000.0,503653,Telangana,Telangana
+Disbursed,,Disbursed,12-02-2026,Low,121000.0,707981,West Bengal,West Bengal
+Disbursed,,Disbursed,03-02-2026,Low,56000.0,604978,Tamil Nadu,Tamil Nadu
+Disbursed,,Disbursed,18-03-2026,Low,92000.0,306928,Rajasthan,Rajasthan
